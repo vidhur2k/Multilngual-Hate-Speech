@@ -1,0 +1,8 @@
+Detailed annotation guidelines for the Turkish data can be found 
+at <https://coltekin.github.io/offensive-turkish/guidelines.html>.
+Please note that we only use the top level annotation in this shared
+task. Meaning we have two labels:
+
+OFF     The tweet contains a form of non-acceptable language (profanity)
+        or a targeted offense, which can be veiled or direct. 
+NOT     The tweet does not containe any offensive statement.
