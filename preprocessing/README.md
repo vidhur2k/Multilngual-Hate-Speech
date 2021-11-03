@@ -10,3 +10,25 @@ This portion of the project begins with a simple word count analysis comparing h
 ## Sentiment Statistics (sentiment.ipynb)
 
 Here we evaluate if there are any significant differences in sentiment between the hate speech and normal examples. In order to evaluate all non-English sentiment's the original text is first translated to English. 
+
+| Dataset |  Hate Speech Negative Sentiment  | Normal Speech Negative Sentiment |
+|:-----|:--------:|------:|
+| arabic_mulki   | 0 | 0 |
+| danish | 0 | 0 |
+| english_basile | .361 | .222 |
+| english_davidson | .359 | .085 |
+| english_founta | .297 | .111 |
+| english_gilbert | .186 | .118 |
+| english_ousidhoum | .317 | .291 |
+| english_waseem | .131 | .101 |
+| french_ousidhoum | 0 | 0 |
+| german_bertschneider | 0 | 0 |
+| german_ross | 0 | 0 |
+| indonesian_alfina | 0 | 0 |
+| indonesian_ibrohim | 0 | 0 |
+| italian_bosco | 0 | 0 |
+| italian_manuel | 0 | 0 |
+| portuguese | 0 | 0 |
+| spanish_basile | 0 | 0 |
+| spanish_pereira | 0 | 0 |
+| turkish | 0 | 0 |
