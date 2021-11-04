@@ -389,20 +389,20 @@ Methodology: Concat entire dataset, take vader score.
 | Dataset |  Hate Speech Negative Sentiment  | Normal Speech Negative Sentiment |
 |:-----|:--------:|:------:|
 | arabic_mulki   | 0.067 | 0.06 |
-| danish | 0 | 0 |
-| english_basile | .361 | .222 |
-| english_davidson | .359 | .085 |
-| english_founta | .297 | .111 |
-| english_gilbert | .186 | .118 |
-| english_ousidhoum | .317 | .291 |
-| english_waseem | .131 | .101 |
+| danish | 0.193 | 00.1 |
+| english_basile | 0.361 | 0.222 |
+| english_davidson | 0.359 | 0.085 |
+| english_founta | 0.297 | 0.111 |
+| english_gilbert | 0.186 | 0.118 |
+| english_ousidhoum | 0.317 | 0.291 |
+| english_waseem | 0.131 | 0.101 |
 | french_ousidhoum | 0.156 | 0.143 |
-| german_bertschneider | 0 | 0 |
+| german_bertschneider | 0.164 | 0.128 |
 | german_ross | 0.191 | 0.148 |
 | indonesian_alfina | 0.14 | 0.059 |
 | indonesian_ibrohim | 0 | 0 |
 | italian_bosco | 0 | 0 |
-| italian_manuel | 0 | 0 |
+| italian_manuel | 0.188 | 0.169 |
 | portuguese | 0 | 0 |
 | spanish_basile | 0 | 0 |
 | spanish_pereira | 0 | 0 |
