@@ -3,6 +3,28 @@
 The following files are used to process the input data so that statistics may be performed prior to the implementation of black box machine learning models. 
 The purpose of these files is to provide the developer domain insights as to how hate speech differs from non-hate speech and how hate speech compares across multiple languages.
 
+| Dataset |  Num NS  | Num HS |
+|:-----|:--------:|:------:|
+| arabic_mulki   | 3649 | 468 |
+| danish | 2850 | 425 |
+| english_basile | 7530 | 5470 |
+| english_davidson | 4163 | 1430 |
+| english_founta | 34487 | 2075 |
+| english_gilbert | 9507 | 1196 |
+| english_ousidhoum | 4369 | 1278 |
+| english_waseem | 7679 | 2759 |
+| french_ousidhoum | 821 | 207 |
+| german_bertschneider | 5141 | 1331 |
+| german_ross | 364 | 105 |
+| indonesian_alfina | 453 | 260 |
+| indonesian_ibrohim | 7607 | 5561 |
+| italian_bosco | 4071 | 2766 |
+| italian_manuel | 4436 | 843 |
+| portuguese | 4440 | 1228 |
+| spanish_basile | 3861 | 2739 |
+| spanish_pereira | 4433 | 1567 |
+| turkish | 28035 | 6757 |
+
 ## Word Count Statistics (wordcount.ipynb & pos.ipynb)
 
 This portion of the project begins with a simple word count analysis comparing hate speech versus non hate speech for each language. If the language specific dataset offers additional taxonomies with labelings then statistics will be performed on these labelings as well to improve understanding of the taxonomy definitions. We continue this work by examining if there are statistically significant differences in the usage of parts of speech between the hate speech and normal examples.
