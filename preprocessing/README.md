@@ -3,27 +3,27 @@
 The following files are used to process the input data so that statistics may be performed prior to the implementation of black box machine learning models. 
 The purpose of these files is to provide the developer domain insights as to how hate speech differs from non-hate speech and how hate speech compares across multiple languages.
 
-| Dataset |  Num NS  | Num HS |
-|:-----|:--------:|:------:|
-| arabic_mulki   | 3649 | 468 |
-| danish | 2850 | 425 |
-| english_basile | 7530 | 5470 |
-| english_davidson | 4163 | 1430 |
-| english_founta | 34487 | 2075 |
-| english_gilbert | 9507 | 1196 |
-| english_ousidhoum | 4369 | 1278 |
-| english_waseem | 7679 | 2759 |
-| french_ousidhoum | 821 | 207 |
-| german_bertschneider | 5141 | 1331 |
-| german_ross | 364 | 105 |
-| indonesian_alfina | 453 | 260 |
-| indonesian_ibrohim | 7607 | 5561 |
-| italian_bosco | 4071 | 2766 |
-| italian_manuel | 4436 | 843 |
-| portuguese | 4440 | 1228 |
-| spanish_basile | 3861 | 2739 |
-| spanish_pereira | 4433 | 1567 |
-| turkish | 28035 | 6757 |
+| Dataset |  Num NS  | Num HS | % HS |
+|:-----|:--------:|:------:|:------:|
+| arabic_mulki   | 3649 | 468 | 11% |
+| danish | 2850 | 425 | 13% |
+| english_basile | 7530 | 5470 | 42% |
+| english_davidson | 4163 | 1430 | 26% |
+| english_founta | 34487 | 2075 | 6% |
+| english_gilbert | 9507 | 1196 | 11% |
+| english_ousidhoum | 4369 | 1278 | 23% |
+| english_waseem | 7679 | 2759 | 26%  |
+| french_ousidhoum | 821 | 207 | 20% |
+| german_bertschneider | 5141 | 1331 | 21% |
+| german_ross | 364 | 105 | 22% |
+| indonesian_alfina | 453 | 260 | 36% |
+| indonesian_ibrohim | 7607 | 5561 | 42% |
+| italian_bosco | 4071 | 2766 | 40% |
+| italian_manuel | 4436 | 843 | 16% |
+| portuguese | 4440 | 1228 | 22% |
+| spanish_basile | 3861 | 2739 | 42% |
+| spanish_pereira | 4433 | 1567 | 26% |
+| turkish | 28035 | 6757 | 19% |
 
 ## Word Count Statistics (wordcount.ipynb & pos.ipynb)
 
