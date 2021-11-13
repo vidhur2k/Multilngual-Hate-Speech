@@ -1,0 +1,8900 @@
+#Text=Andate pure là, tanto quei fessi degli italiani.... Capito perché ci invadono? Il clandestino confessa
+11976-1	"	_
+11976-2	Andate	_
+11976-3	pure	_
+11976-4	là	_
+11976-5	,	_
+11976-6	tanto	_
+11976-7	quei	_
+11976-8	fessi	_
+11976-9	degli	_
+11976-10	italiani	_
+11976-11	.	_
+11976-12	.	_
+11976-13	.	_
+11976-14	"	_
+11976-15	.	_
+11976-16	Capito	_
+11976-17	perché	_
+11976-18	ci	_
+11976-19	invadono	_
+11976-20	?	_
+11976-21	Il	_
+11976-22	clandestino	_
+11976-23	confessa	_
+
+#Text=Che fine spero che faccia il killer nigeriano di Pamela. La furia cieca della Meloni: le sue parole più dure
+12142-1	"	_
+12142-2	Che	_
+12142-3	fine	_
+12142-4	spero	_
+12142-5	che	_
+12142-6	faccia	_
+12142-7	il	_
+12142-8	killer	_
+12142-9	nigeriano	_
+12142-10	di	_
+12142-11	Pamela	_
+12142-12	"	_
+12142-13	.	_
+12142-14	La	_
+12142-15	furia	_
+12142-16	cieca	_
+12142-17	della	_
+12142-18	Meloni	_
+12142-19	:	_
+12142-20	le	_
+12142-21	sue	_
+12142-22	parole	_
+12142-23	più	_
+12142-24	dure	_
+
+#Text=Così i profughi ci svuotano i negozi a Pordenone
+12088-1	"	_
+12088-2	Così	_
+12088-3	i	_
+12088-4	profughi	_
+12088-5	ci	_
+12088-6	svuotano	_
+12088-7	i	_
+12088-8	negozi	_
+12088-9	a	_
+12088-10	Pordenone	_
+12088-11	"	_
+
+#Text=Così umiliano gli italiani e coccolano i clandestini. La follia del governo: "Per loro gratis...", e ci invadono
+12030-1	"	_
+12030-2	Così	_
+12030-3	umiliano	_
+12030-4	gli	_
+12030-5	italiani	_
+12030-6	e	_
+12030-7	coccolano	_
+12030-8	i	_
+12030-9	clandestini	_
+12030-10	"	_
+12030-11	.	_
+12030-12	La	_
+12030-13	follia	_
+12030-14	del	_
+12030-15	governo	_
+12030-16	:	_
+12030-17	"	_
+12030-18	Per	_
+12030-19	loro	_
+12030-20	gratis	_
+12030-21	.	_
+12030-22	.	_
+12030-23	.	_
+12030-24	"	_
+12030-25	,	_
+12030-26	e	_
+12030-27	ci	_
+12030-28	invadono	_
+
+#Text=Danno soldi ai clandestini, ma ai disabili invece.... Bracconeri, il figlio autistico e il durissimo sfogo a "Libero"
+11775-1	"	_
+11775-2	Danno	_
+11775-3	soldi	_
+11775-4	ai	_
+11775-5	clandestini	_
+11775-6	,	_
+11775-7	ma	_
+11775-8	ai	_
+11775-9	disabili	_
+11775-10	invece	_
+11775-11	.	_
+11775-12	.	_
+11775-13	.	_
+11775-14	"	_
+11775-15	.	_
+11775-16	Bracconeri	_
+11775-17	,	_
+11775-18	il	_
+11775-19	figlio	_
+11775-20	autistico	_
+11775-21	e	_
+11775-22	il	_
+11775-23	durissimo	_
+11775-24	sfogo	_
+11775-25	a	_
+11775-26	"	_
+11775-27	Libero	_
+11775-28	"	_
+
+#Text=Emergenza, Minniti annulla il viaggio e torna in Italia. Immigrati, invasione alle porte: cose mai viste prima
+11630-1	"	_
+11630-2	Emergenza	_
+11630-3	,	_
+11630-4	Minniti	_
+11630-5	annulla	_
+11630-6	il	_
+11630-7	viaggio	_
+11630-8	e	_
+11630-9	torna	_
+11630-10	in	_
+11630-11	Italia	_
+11630-12	"	_
+11630-13	.	_
+11630-14	Immigrati	_
+11630-15	,	_
+11630-16	invasione	_
+11630-17	alle	_
+11630-18	porte	_
+11630-19	:	_
+11630-20	cose	_
+11630-21	mai	_
+11630-22	viste	_
+11630-23	prima	_
+
+#Text=Gli immigrati sono matti, parola di scienziati. Malattie mentali e "risorse", lo studio horror
+11695-1	"	_
+11695-2	Gli	_
+11695-3	immigrati	_
+11695-4	sono	_
+11695-5	matti	_
+11695-6	"	_
+11695-7	,	_
+11695-8	parola	_
+11695-9	di	_
+11695-10	scienziati	_
+11695-11	.	_
+11695-12	Malattie	_
+11695-13	mentali	_
+11695-14	e	_
+11695-15	"	_
+11695-16	risorse	_
+11695-17	"	_
+11695-18	,	_
+11695-19	lo	_
+11695-20	studio	_
+11695-21	horror	_
+
+#Text=Ho chiesto ai profughi di lavorare ma preferiscono non fare nulla
+11866-1	"	_
+11866-2	Ho	_
+11866-3	chiesto	_
+11866-4	ai	_
+11866-5	profughi	_
+11866-6	di	_
+11866-7	lavorare	_
+11866-8	ma	_
+11866-9	preferiscono	_
+11866-10	non	_
+11866-11	fare	_
+11866-12	nulla	_
+11866-13	"	_
+
+#Text=Immigrati bomba sociale Subito via 600mila irregolari
+12174-1	"	_
+12174-2	Immigrati	_
+12174-3	bomba	_
+12174-4	sociale	_
+12174-5	Subito	_
+12174-6	via	_
+12174-7	600mila	_
+12174-8	irregolari	_
+12174-9	"	_
+
+#Text=Immigrati, così la sinistra ci costringe a tenerli tutti. Meloni, la denuncia: "Il trucco giuridico per rovinare l'Italia"
+11663-1	"	_
+11663-2	Immigrati	_
+11663-3	,	_
+11663-4	così	_
+11663-5	la	_
+11663-6	sinistra	_
+11663-7	ci	_
+11663-8	costringe	_
+11663-9	a	_
+11663-10	tenerli	_
+11663-11	tutti	_
+11663-12	"	_
+11663-13	.	_
+11663-14	Meloni	_
+11663-15	,	_
+11663-16	la	_
+11663-17	denuncia	_
+11663-18	:	_
+11663-19	"	_
+11663-20	Il	_
+11663-21	trucco	_
+11663-22	giuridico	_
+11663-23	per	_
+11663-24	rovinare	_
+11663-25	l'Italia	_
+11663-26	"	_
+
+#Text=Immigrati, venite tutti qui. L'ultima "perla" del Papa: con Scalfari tifa invasione
+11677-1	"	_
+11677-2	Immigrati	_
+11677-3	,	_
+11677-4	venite	_
+11677-5	tutti	_
+11677-6	qui	_
+11677-7	"	_
+11677-8	.	_
+11677-9	L'ultima	_
+11677-10	"	_
+11677-11	perla	_
+11677-12	"	_
+11677-13	del	_
+11677-14	Papa	_
+11677-15	:	_
+11677-16	con	_
+11677-17	Scalfari	_
+11677-18	tifa	_
+11677-19	invasione	_
+
+#Text=Invasi dagli immigrati? Ci resta solo una possibilità. La drastica idea del generale Jean per salvare l'Italia
+12092-1	"	_
+12092-2	Invasi	_
+12092-3	dagli	_
+12092-4	immigrati	_
+12092-5	?	_
+12092-6	Ci	_
+12092-7	resta	_
+12092-8	solo	_
+12092-9	una	_
+12092-10	possibilità	_
+12092-11	"	_
+12092-12	.	_
+12092-13	La	_
+12092-14	drastica	_
+12092-15	idea	_
+12092-16	del	_
+12092-17	generale	_
+12092-18	Jean	_
+12092-19	per	_
+12092-20	salvare	_
+12092-21	l'Italia	_
+
+#Text=Io al governo? Come ridurrò clandestini e stupratori: Giorgia Meloni, lezione alla sinistra che "ci ha ridotti a schifo"
+12089-1	"	_
+12089-2	Io	_
+12089-3	al	_
+12089-4	governo	_
+12089-5	?	_
+12089-6	Come	_
+12089-7	ridurrò	_
+12089-8	clandestini	_
+12089-9	e	_
+12089-10	stupratori	_
+12089-11	"	_
+12089-12	:	_
+12089-13	Giorgia	_
+12089-14	Meloni	_
+12089-15	,	_
+12089-16	lezione	_
+12089-17	alla	_
+12089-18	sinistra	_
+12089-19	che	_
+12089-20	"	_
+12089-21	ci	_
+12089-22	ha	_
+12089-23	ridotti	_
+12089-24	a	_
+12089-25	schifo	_
+12089-26	"	_
+
+#Text=Io, ostaggio degli immigrati: ecco come mi hanno ridotta
+11714-1	"	_
+11714-2	Io	_
+11714-3	,	_
+11714-4	ostaggio	_
+11714-5	degli	_
+11714-6	immigrati	_
+11714-7	:	_
+11714-8	ecco	_
+11714-9	come	_
+11714-10	mi	_
+11714-11	hanno	_
+11714-12	ridotta	_
+11714-13	"	_
+
+#Text=Italia serva, calpestata e invasa, adesso basta. Immigrati, Feltri sale sul panzer: "Atto di forza"
+11808-1	"	_
+11808-2	Italia	_
+11808-3	serva	_
+11808-4	,	_
+11808-5	calpestata	_
+11808-6	e	_
+11808-7	invasa	_
+11808-8	"	_
+11808-9	,	_
+11808-10	adesso	_
+11808-11	basta	_
+11808-12	.	_
+11808-13	Immigrati	_
+11808-14	,	_
+11808-15	Feltri	_
+11808-16	sale	_
+11808-17	sul	_
+11808-18	panzer	_
+11808-19	:	_
+11808-20	"	_
+11808-21	Atto	_
+11808-22	di	_
+11808-23	forza	_
+11808-24	"	_
+
+#Text=L'immigrazione indiscriminata porta all'islamizzazione
+11904-1	"	_
+11904-2	L'immigrazione	_
+11904-3	indiscriminata	_
+11904-4	porta	_
+11904-5	all'islamizzazione	_
+11904-6	"	_
+
+#Text=Macché poveri e disperati. Questi sono falsi profughi
+12183-1	"	_
+12183-2	Macché	_
+12183-3	poveri	_
+12183-4	e	_
+12183-5	disperati	_
+12183-6	.	_
+12183-7	Questi	_
+12183-8	sono	_
+12183-9	falsi	_
+12183-10	profughi	_
+12183-11	"	_
+
+#Text=Malaria? E' solo l'inizio.... La tremenda profezia del leghista africano: cosa succederà in Italia
+12108-1	"	_
+12108-2	Malaria	_
+12108-3	?	_
+12108-4	E	_
+12108-5	'	_
+12108-6	solo	_
+12108-7	l'inizio	_
+12108-8	.	_
+12108-9	.	_
+12108-10	.	_
+12108-11	"	_
+12108-12	.	_
+12108-13	La	_
+12108-14	tremenda	_
+12108-15	profezia	_
+12108-16	del	_
+12108-17	leghista	_
+12108-18	africano	_
+12108-19	:	_
+12108-20	cosa	_
+12108-21	succederà	_
+12108-22	in	_
+12108-23	Italia	_
+
+#Text=Migranti o "profughi", comunque invasori
+12023-1	"	_
+12023-2	Migranti	_
+12023-3	"	_
+12023-4	o	_
+12023-5	"	_
+12023-6	profughi	_
+12023-7	"	_
+12023-8	,	_
+12023-9	comunque	_
+12023-10	invasori	_
+
+#Text=Perché non voglio immigrati, cosa sarebbe l'Italia senza di loro: Sallusti, una durissima verità
+12114-1	"	_
+12114-2	Perché	_
+12114-3	non	_
+12114-4	voglio	_
+12114-5	immigrati	_
+12114-6	,	_
+12114-7	cosa	_
+12114-8	sarebbe	_
+12114-9	l'Italia	_
+12114-10	senza	_
+12114-11	di	_
+12114-12	loro	_
+12114-13	"	_
+12114-14	:	_
+12114-15	Sallusti	_
+12114-16	,	_
+12114-17	una	_
+12114-18	durissima	_
+12114-19	verità	_
+
+#Text=Sapete cosa voglio fare agli immigrati violenti?: Don Gigi, il prete giustiziere (anche con l'Islam)
+11853-1	"	_
+11853-2	Sapete	_
+11853-3	cosa	_
+11853-4	voglio	_
+11853-5	fare	_
+11853-6	agli	_
+11853-7	immigrati	_
+11853-8	violenti	_
+11853-9	?	_
+11853-10	"	_
+11853-11	:	_
+11853-12	Don	_
+11853-13	Gigi	_
+11853-14	,	_
+11853-15	il	_
+11853-16	prete	_
+11853-17	giustiziere	_
+11853-18	(	_
+11853-19	anche	_
+11853-20	con	_
+11853-21	l'Islam	_
+11853-22	)	_
+
+#Text=Sapete quanti soldi diamo agli immigrati e quanti ai poveri italiani?. Socci svela la vergogna
+11742-1	"	_
+11742-2	Sapete	_
+11742-3	quanti	_
+11742-4	soldi	_
+11742-5	diamo	_
+11742-6	agli	_
+11742-7	immigrati	_
+11742-8	e	_
+11742-9	quanti	_
+11742-10	ai	_
+11742-11	poveri	_
+11742-12	italiani	_
+11742-13	?	_
+11742-14	"	_
+11742-15	.	_
+11742-16	Socci	_
+11742-17	svela	_
+11742-18	la	_
+11742-19	vergogna	_
+
+#Text=Altro che profughi, arrivano clandestini
+11780-1	Altro	_
+11780-2	che	_
+11780-3	profughi	_
+11780-4	,	_
+11780-5	arrivano	_
+11780-6	clandestini	_
+
+#Text=Atti osceni davanti ai bambini: il parco di Milano in balìa dei migranti
+11897-1	Atti	_
+11897-2	osceni	_
+11897-3	davanti	_
+11897-4	ai	_
+11897-5	bambini	_
+11897-6	:	_
+11897-7	il	_
+11897-8	parco	_
+11897-9	di	_
+11897-10	Milano	_
+11897-11	in	_
+11897-12	balìa	_
+11897-13	dei	_
+11897-14	migranti	_
+
+#Text=Calderoli, la sua soluzione drastica contro gli stupri dei migranti: "Dobbiamo castrarli tutti"
+11634-1	Calderoli	_
+11634-2	,	_
+11634-3	la	_
+11634-4	sua	_
+11634-5	soluzione	_
+11634-6	drastica	_
+11634-7	contro	_
+11634-8	gli	_
+11634-9	stupri	_
+11634-10	dei	_
+11634-11	migranti	_
+11634-12	:	_
+11634-13	"	_
+11634-14	Dobbiamo	_
+11634-15	castrarli	_
+11634-16	tutti	_
+11634-17	"	_
+
+#Text=Ritira la pensione, fa elemosina a una nomade e va al bar: dalle tasche gli spariscono 1000 euro
+11618-1	Ritira	_
+11618-2	la	_
+11618-3	pensione	_
+11618-4	,	_
+11618-5	fa	_
+11618-6	elemosina	_
+11618-7	a	_
+11618-8	una	_
+11618-9	nomade	_
+11618-10	e	_
+11618-11	va	_
+11618-12	al	_
+11618-13	bar	_
+11618-14	:	_
+11618-15	dalle	_
+11618-16	tasche	_
+11618-17	gli	_
+11618-18	spariscono	_
+11618-19	1000	_
+11618-20	euro	_
+
+#Text=Tentano di violentarla mentre va al lavoro: caccia a due stranieri a Grosseto
+11889-1	Tentano	_
+11889-2	di	_
+11889-3	violentarla	_
+11889-4	mentre	_
+11889-5	va	_
+11889-6	al	_
+11889-7	lavoro	_
+11889-8	:	_
+11889-9	caccia	_
+11889-10	a	_
+11889-11	due	_
+11889-12	stranieri	_
+11889-13	a	_
+11889-14	Grosseto	_
+
+#Text=Lecco, immigrato fra cacca e pipì tra i mezzi dei vigili: poi le botte all'agente di polizia
+11823-1	Lecco	_
+11823-2	,	_
+11823-3	immigrato	_
+11823-4	fra	_
+11823-5	cacca	_
+11823-6	e	_
+11823-7	pipì	_
+11823-8	tra	_
+11823-9	i	_
+11823-10	mezzi	_
+11823-11	dei	_
+11823-12	vigili	_
+11823-13	:	_
+11823-14	poi	_
+11823-15	le	_
+11823-16	botte	_
+11823-17	all'agente	_
+11823-18	di	_
+11823-19	polizia	_
+
+#Text=Il cimitero della Parrocchietta nel degrado, circondato da campi rom e discariche
+11727-1	Il	_
+11727-2	cimitero	_
+11727-3	della	_
+11727-4	Parrocchietta	_
+11727-5	nel	_
+11727-6	degrado	_
+11727-7	,	_
+11727-8	circondato	_
+11727-9	da	_
+11727-10	campi	_
+11727-11	rom	_
+11727-12	e	_
+11727-13	discariche	_
+
+#Text=“Uomini dell’Isis dietro i flussi dei migranti dalla Libia”
+11903-1	“	_
+11903-2	Uomini	_
+11903-3	dell	_
+11903-4	’	_
+11903-5	Isis	_
+11903-6	dietro	_
+11903-7	i	_
+11903-8	flussi	_
+11903-9	dei	_
+11903-10	migranti	_
+11903-11	dalla	_
+11903-12	Libia	_
+11903-13	”	_
+
+#Text=Sea Watch 3 di fronte a Malta, migrante si butta in acqua per disperazione. Trattativa per l'accoglienza
+11588-1	Sea	_
+11588-2	Watch	_
+11588-3	3	_
+11588-4	di	_
+11588-5	fronte	_
+11588-6	a	_
+11588-7	Malta	_
+11588-8	,	_
+11588-9	migrante	_
+11588-10	si	_
+11588-11	butta	_
+11588-12	in	_
+11588-13	acqua	_
+11588-14	per	_
+11588-15	disperazione	_
+11588-16	.	_
+11588-17	Trattativa	_
+11588-18	per	_
+11588-19	l'accoglienza	_
+
+#Text=Di Maio accoglie i migranti della Sea Watch. Scontro con Salvini
+11685-1	Di	_
+11685-2	Maio	_
+11685-3	accoglie	_
+11685-4	i	_
+11685-5	migranti	_
+11685-6	della	_
+11685-7	Sea	_
+11685-8	Watch	_
+11685-9	.	_
+11685-10	Scontro	_
+11685-11	con	_
+11685-12	Salvini	_
+
+#Text=In Edicola sul Fatto Quotidiano del 5 gennaio: Nave dei migranti, Conte e Di Maio scavalcano Salvini
+11705-1	In	_
+11705-2	Edicola	_
+11705-3	sul	_
+11705-4	Fatto	_
+11705-5	Quotidiano	_
+11705-6	del	_
+11705-7	5	_
+11705-8	gennaio	_
+11705-9	:	_
+11705-10	Nave	_
+11705-11	dei	_
+11705-12	migranti	_
+11705-13	,	_
+11705-14	Conte	_
+11705-15	e	_
+11705-16	Di	_
+11705-17	Maio	_
+11705-18	scavalcano	_
+11705-19	Salvini	_
+
+#Text=Lite sui migranti, mossa Di Maio: «Porte aperte a donne e bambini» Gelo Salvini: «Basta ricatti»
+11901-1	Lite	_
+11901-2	sui	_
+11901-3	migranti	_
+11901-4	,	_
+11901-5	mossa	_
+11901-6	Di	_
+11901-7	Maio	_
+11901-8	:	_
+11901-9	«	_
+11901-10	Porte	_
+11901-11	aperte	_
+11901-12	a	_
+11901-13	donne	_
+11901-14	e	_
+11901-15	bambini	_
+11901-16	»	_
+11901-17	Gelo	_
+11901-18	Salvini	_
+11901-19	:	_
+11901-20	«	_
+11901-21	Basta	_
+11901-22	ricatti	_
+11901-23	»	_
+
+#Text=Reddito a 1,4 milioni di famiglie: anche immigrati residenti da 10 anni
+11641-1	Reddito	_
+11641-2	a	_
+11641-3	1,4	_
+11641-4	milioni	_
+11641-5	di	_
+11641-6	famiglie	_
+11641-7	:	_
+11641-8	anche	_
+11641-9	immigrati	_
+11641-10	residenti	_
+11641-11	da	_
+11641-12	10	_
+11641-13	anni	_
+
+#Text=Monfalcone, assessore condivide su Fb filastrocca anti-migranti. Dopo le polemiche dice: "Non è razzismo"
+12205-1	Monfalcone	_
+12205-2	,	_
+12205-3	assessore	_
+12205-4	condivide	_
+12205-5	su	_
+12205-6	Fb	_
+12205-7	filastrocca	_
+12205-8	anti-migranti	_
+12205-9	.	_
+12205-10	Dopo	_
+12205-11	le	_
+12205-12	polemiche	_
+12205-13	dice	_
+12205-14	:	_
+12205-15	"	_
+12205-16	Non	_
+12205-17	è	_
+12205-18	razzismo	_
+12205-19	"	_
+
+#Text=Di Maio: "Fate sbarcare i migranti di Sea Watch in Italia"
+11804-1	Di	_
+11804-2	Maio	_
+11804-3	:	_
+11804-4	"	_
+11804-5	Fate	_
+11804-6	sbarcare	_
+11804-7	i	_
+11804-8	migranti	_
+11804-9	di	_
+11804-10	Sea	_
+11804-11	Watch	_
+11804-12	in	_
+11804-13	Italia	_
+11804-14	"	_
+
+#Text=Monfalcone e Trieste, bufera su assessore e vincesindaco leghista: «Il migrante vien di notte...»
+11589-1	Monfalcone	_
+11589-2	e	_
+11589-3	Trieste	_
+11589-4	,	_
+11589-5	bufera	_
+11589-6	su	_
+11589-7	assessore	_
+11589-8	e	_
+11589-9	vincesindaco	_
+11589-10	leghista	_
+11589-11	:	_
+11589-12	«	_
+11589-13	Il	_
+11589-14	migrante	_
+11589-15	vien	_
+11589-16	di	_
+11589-17	notte	_
+11589-18	.	_
+11589-19	.	_
+11589-20	.	_
+11589-21	»	_
+
+#Text=Bruno Vespa, il retroscena bomba sullo scontro tra Matteo Salvini e Luigi Di Maio per gli immigrati
+12154-1	Bruno	_
+12154-2	Vespa	_
+12154-3	,	_
+12154-4	il	_
+12154-5	retroscena	_
+12154-6	bomba	_
+12154-7	sullo	_
+12154-8	scontro	_
+12154-9	tra	_
+12154-10	Matteo	_
+12154-11	Salvini	_
+12154-12	e	_
+12154-13	Luigi	_
+12154-14	Di	_
+12154-15	Maio	_
+12154-16	per	_
+12154-17	gli	_
+12154-18	immigrati	_
+
+#Text=Siamo tutti migranti, a Napoli corteo a sostegno dei sindaci che contestano la legge sulla sicurezza - 1 di 1 - Napoli
+12169-1	Siamo	_
+12169-2	tutti	_
+12169-3	migranti	_
+12169-4	,	_
+12169-5	a	_
+12169-6	Napoli	_
+12169-7	corteo	_
+12169-8	a	_
+12169-9	sostegno	_
+12169-10	dei	_
+12169-11	sindaci	_
+12169-12	che	_
+12169-13	contestano	_
+12169-14	la	_
+12169-15	legge	_
+12169-16	sulla	_
+12169-17	sicurezza	_
+12169-18	-	_
+12169-19	1	_
+12169-20	di	_
+12169-21	1	_
+12169-22	-	_
+12169-23	Napoli	_
+
+#Text=Di Maio alla Ue: «Se Malta non fa sbarcare i migranti noi non possiamo prendere i bambini»
+11595-1	Di	_
+11595-2	Maio	_
+11595-3	alla	_
+11595-4	Ue	_
+11595-5	:	_
+11595-6	«	_
+11595-7	Se	_
+11595-8	Malta	_
+11595-9	non	_
+11595-10	fa	_
+11595-11	sbarcare	_
+11595-12	i	_
+11595-13	migranti	_
+11595-14	noi	_
+11595-15	non	_
+11595-16	possiamo	_
+11595-17	prendere	_
+11595-18	i	_
+11595-19	bambini	_
+11595-20	»	_
+
+#Text=Reddito di cittadinanza, ecco la bozza del decreto: soldi pure agli immigrati
+11690-1	Reddito	_
+11690-2	di	_
+11690-3	cittadinanza	_
+11690-4	,	_
+11690-5	ecco	_
+11690-6	la	_
+11690-7	bozza	_
+11690-8	del	_
+11690-9	decreto	_
+11690-10	:	_
+11690-11	soldi	_
+11690-12	pure	_
+11690-13	agli	_
+11690-14	immigrati	_
+
+#Text=Napoli, oltre 7mila offerte di aiuto in un giorno per i profughi
+11777-1	Napoli	_
+11777-2	,	_
+11777-3	oltre	_
+11777-4	7mila	_
+11777-5	offerte	_
+11777-6	di	_
+11777-7	aiuto	_
+11777-8	in	_
+11777-9	un	_
+11777-10	giorno	_
+11777-11	per	_
+11777-12	i	_
+11777-13	profughi	_
+
+#Text=Papa Francesco per i migranti dela Sea Watch: l'appello all'Ue
+11812-1	Papa	_
+11812-2	Francesco	_
+11812-3	per	_
+11812-4	i	_
+11812-5	migranti	_
+11812-6	dela	_
+11812-7	Sea	_
+11812-8	Watch	_
+11812-9	:	_
+11812-10	l'appello	_
+11812-11	all'Ue	_
+
+#Text=Il Papa fa appello all'Europa: "Fate sbarcare i migranti"
+12015-1	Il	_
+12015-2	Papa	_
+12015-3	fa	_
+12015-4	appello	_
+12015-5	all'Europa	_
+12015-6	:	_
+12015-7	"	_
+12015-8	Fate	_
+12015-9	sbarcare	_
+12015-10	i	_
+12015-11	migranti	_
+12015-12	"	_
+
+#Text=Sea Watch, Nosiglia: "La chiesa torinese pronta ad accogliere i migranti a bordo della nave"
+11674-1	Sea	_
+11674-2	Watch	_
+11674-3	,	_
+11674-4	Nosiglia	_
+11674-5	:	_
+11674-6	"	_
+11674-7	La	_
+11674-8	chiesa	_
+11674-9	torinese	_
+11674-10	pronta	_
+11674-11	ad	_
+11674-12	accogliere	_
+11674-13	i	_
+11674-14	migranti	_
+11674-15	a	_
+11674-16	bordo	_
+11674-17	della	_
+11674-18	nave	_
+11674-19	"	_
+
+#Text=Sea watch, Lega e M5S si spaccano sui migranti L’appello del Papa ai leader europei
+11651-1	Sea	_
+11651-2	watch	_
+11651-3	,	_
+11651-4	Lega	_
+11651-5	e	_
+11651-6	M5S	_
+11651-7	si	_
+11651-8	spaccano	_
+11651-9	sui	_
+11651-10	migranti	_
+11651-11	L	_
+11651-12	’	_
+11651-13	appello	_
+11651-14	del	_
+11651-15	Papa	_
+11651-16	ai	_
+11651-17	leader	_
+11651-18	europei	_
+
+#Text=Sui migranti in mare no di Salvini alla Chiesa: “Fate i vostri appelli ma non entra nessuno”
+12006-1	Sui	_
+12006-2	migranti	_
+12006-3	in	_
+12006-4	mare	_
+12006-5	no	_
+12006-6	di	_
+12006-7	Salvini	_
+12006-8	alla	_
+12006-9	Chiesa	_
+12006-10	:	_
+12006-11	“	_
+12006-12	Fate	_
+12006-13	i	_
+12006-14	vostri	_
+12006-15	appelli	_
+12006-16	ma	_
+12006-17	non	_
+12006-18	entra	_
+12006-19	nessuno	_
+12006-20	”	_
+
+#Text=Giuseppe Conte, il retroscena su migranti e Sea Watch: "Non solo donne e bambini", bomba su Matteo Salvini
+12196-1	Giuseppe	_
+12196-2	Conte	_
+12196-3	,	_
+12196-4	il	_
+12196-5	retroscena	_
+12196-6	su	_
+12196-7	migranti	_
+12196-8	e	_
+12196-9	Sea	_
+12196-10	Watch	_
+12196-11	:	_
+12196-12	"	_
+12196-13	Non	_
+12196-14	solo	_
+12196-15	donne	_
+12196-16	e	_
+12196-17	bambini	_
+12196-18	"	_
+12196-19	,	_
+12196-20	bomba	_
+12196-21	su	_
+12196-22	Matteo	_
+12196-23	Salvini	_
+
+#Text=Conte sul caso migranti: "Diremo sì a 15 persone. Non solo donne e bambini"
+12013-1	Conte	_
+12013-2	sul	_
+12013-3	caso	_
+12013-4	migranti	_
+12013-5	:	_
+12013-6	"	_
+12013-7	Diremo	_
+12013-8	sì	_
+12013-9	a	_
+12013-10	15	_
+12013-11	persone	_
+12013-12	.	_
+12013-13	Non	_
+12013-14	solo	_
+12013-15	donne	_
+12013-16	e	_
+12013-17	bambini	_
+12013-18	"	_
+
+#Text=Appello della Sea Watch: “I migranti rifiutano il cibo, dateci un porto”
+12158-1	Appello	_
+12158-2	della	_
+12158-3	Sea	_
+12158-4	Watch	_
+12158-5	:	_
+12158-6	“	_
+12158-7	I	_
+12158-8	migranti	_
+12158-9	rifiutano	_
+12158-10	il	_
+12158-11	cibo	_
+12158-12	,	_
+12158-13	dateci	_
+12158-14	un	_
+12158-15	porto	_
+12158-16	”	_
+
+#Text=Sondaggio Mannheimer, quanti voti portano i sindaci pro-migranti a Matteo Salvini
+11748-1	Sondaggio	_
+11748-2	Mannheimer	_
+11748-3	,	_
+11748-4	quanti	_
+11748-5	voti	_
+11748-6	portano	_
+11748-7	i	_
+11748-8	sindaci	_
+11748-9	pro-migranti	_
+11748-10	a	_
+11748-11	Matteo	_
+11748-12	Salvini	_
+
+#Text=L’odissea dei 49 migranti e l’Europa nel guado tra strategie e coscienza
+11838-1	L	_
+11838-2	’	_
+11838-3	odissea	_
+11838-4	dei	_
+11838-5	49	_
+11838-6	migranti	_
+11838-7	e	_
+11838-8	l	_
+11838-9	’	_
+11838-10	Europa	_
+11838-11	nel	_
+11838-12	guado	_
+11838-13	tra	_
+11838-14	strategie	_
+11838-15	e	_
+11838-16	coscienza	_
+
+#Text=Ong, Malta non vuole i migranti: "Prima accordo con Ue"
+11830-1	Ong	_
+11830-2	,	_
+11830-3	Malta	_
+11830-4	non	_
+11830-5	vuole	_
+11830-6	i	_
+11830-7	migranti	_
+11830-8	:	_
+11830-9	"	_
+11830-10	Prima	_
+11830-11	accordo	_
+11830-12	con	_
+11830-13	Ue	_
+11830-14	"	_
+
+#Text=Carige, migranti, gilet gialli I ribelli M5S contro Di Maio
+12073-1	Carige	_
+12073-2	,	_
+12073-3	migranti	_
+12073-4	,	_
+12073-5	gilet	_
+12073-6	gialli	_
+12073-7	I	_
+12073-8	ribelli	_
+12073-9	M5S	_
+12073-10	contro	_
+12073-11	Di	_
+12073-12	Maio	_
+
+#Text=Sui migranti è scontro nel governo. Conte: “C’è limite al rigore”. Salvini: “Mai col mio consenso”
+12178-1	Sui	_
+12178-2	migranti	_
+12178-3	è	_
+12178-4	scontro	_
+12178-5	nel	_
+12178-6	governo	_
+12178-7	.	_
+12178-8	Conte	_
+12178-9	:	_
+12178-10	“	_
+12178-11	C	_
+12178-12	’	_
+12178-13	è	_
+12178-14	limite	_
+12178-15	al	_
+12178-16	rigore	_
+12178-17	”	_
+12178-18	.	_
+12178-19	Salvini	_
+12178-20	:	_
+12178-21	“	_
+12178-22	Mai	_
+12178-23	col	_
+12178-24	mio	_
+12178-25	consenso	_
+12178-26	”	_
+
+#Text=Cacciari urla contro Giulia Bongiorno a Otto e Mezzo per il decreto sui migranti: «Vergognatevi»
+11711-1	Cacciari	_
+11711-2	urla	_
+11711-3	contro	_
+11711-4	Giulia	_
+11711-5	Bongiorno	_
+11711-6	a	_
+11711-7	Otto	_
+11711-8	e	_
+11711-9	Mezzo	_
+11711-10	per	_
+11711-11	il	_
+11711-12	decreto	_
+11711-13	sui	_
+11711-14	migranti	_
+11711-15	:	_
+11711-16	«	_
+11711-17	Vergognatevi	_
+11711-18	»	_
+
+#Text=I migranti agitano il governo. Conte contro Salvini
+12138-1	I	_
+12138-2	migranti	_
+12138-3	agitano	_
+12138-4	il	_
+12138-5	governo	_
+12138-6	.	_
+12138-7	Conte	_
+12138-8	contro	_
+12138-9	Salvini	_
+
+#Text=Sui migranti Conte si smarca e sfida Salvini
+12241-1	Sui	_
+12241-2	migranti	_
+12241-3	Conte	_
+12241-4	si	_
+12241-5	smarca	_
+12241-6	e	_
+12241-7	sfida	_
+12241-8	Salvini	_
+
+#Text=Operazione "Abiad" contro terrorismo, immigrazione clandestina e contrabbando
+11644-1	Operazione	_
+11644-2	"	_
+11644-3	Abiad	_
+11644-4	"	_
+11644-5	contro	_
+11644-6	terrorismo	_
+11644-7	,	_
+11644-8	immigrazione	_
+11644-9	clandestina	_
+11644-10	e	_
+11644-11	contrabbando	_
+
+#Text=Giuseppe Conte vuole prendere gli immigrati della Sea watch, Matteo Salvini: "Niente sbarchi, altrimenti..."
+11731-1	Giuseppe	_
+11731-2	Conte	_
+11731-3	vuole	_
+11731-4	prendere	_
+11731-5	gli	_
+11731-6	immigrati	_
+11731-7	della	_
+11731-8	Sea	_
+11731-9	watch	_
+11731-10	,	_
+11731-11	Matteo	_
+11731-12	Salvini	_
+11731-13	:	_
+11731-14	"	_
+11731-15	Niente	_
+11731-16	sbarchi	_
+11731-17	,	_
+11731-18	altrimenti	_
+11731-19	.	_
+11731-20	.	_
+11731-21	.	_
+11731-22	"	_
+
+#Text=Sbarcati a Malta i 49 migranti, “poi saranno trasferiti anche in Italia”. Salvini: “Mai dato l’ok”
+11910-1	Sbarcati	_
+11910-2	a	_
+11910-3	Malta	_
+11910-4	i	_
+11910-5	49	_
+11910-6	migranti	_
+11910-7	,	_
+11910-8	“	_
+11910-9	poi	_
+11910-10	saranno	_
+11910-11	trasferiti	_
+11910-12	anche	_
+11910-13	in	_
+11910-14	Italia	_
+11910-15	”	_
+11910-16	.	_
+11910-17	Salvini	_
+11910-18	:	_
+11910-19	“	_
+11910-20	Mai	_
+11910-21	dato	_
+11910-22	l	_
+11910-23	’	_
+11910-24	ok	_
+11910-25	”	_
+
+#Text=I migranti della Sea Watch esultano: sbarcheranno a Malta | Video
+11885-1	I	_
+11885-2	migranti	_
+11885-3	della	_
+11885-4	Sea	_
+11885-5	Watch	_
+11885-6	esultano	_
+11885-7	:	_
+11885-8	sbarcheranno	_
+11885-9	a	_
+11885-10	Malta	_
+11885-11	|	_
+11885-12	Video	_
+
+#Text=Sea Watch, i volontari annunciano lo sbarco a  Malta. L'urlo di gioia dei migranti: "È finita"
+12137-1	Sea	_
+12137-2	Watch	_
+12137-3	,	_
+12137-4	i	_
+12137-5	volontari	_
+12137-6	annunciano	_
+12137-7	lo	_
+12137-8	sbarco	_
+12137-9	a	_
+12137-10	Malta	_
+12137-11	.	_
+12137-12	L'urlo	_
+12137-13	di	_
+12137-14	gioia	_
+12137-15	dei	_
+12137-16	migranti	_
+12137-17	:	_
+12137-18	"	_
+12137-19	È	_
+12137-20	finita	_
+12137-21	"	_
+
+#Text=Foto «rubata» e usata contro i migranti: nuovi guai per il vicesindaco di Trieste
+11888-1	Foto	_
+11888-2	«	_
+11888-3	rubata	_
+11888-4	»	_
+11888-5	e	_
+11888-6	usata	_
+11888-7	contro	_
+11888-8	i	_
+11888-9	migranti	_
+11888-10	:	_
+11888-11	nuovi	_
+11888-12	guai	_
+11888-13	per	_
+11888-14	il	_
+11888-15	vicesindaco	_
+11888-16	di	_
+11888-17	Trieste	_
+
+#Text=Malta, lo sbarco dei migranti della Sea Watch e della Sea Eye
+11920-1	Malta	_
+11920-2	,	_
+11920-3	lo	_
+11920-4	sbarco	_
+11920-5	dei	_
+11920-6	migranti	_
+11920-7	della	_
+11920-8	Sea	_
+11920-9	Watch	_
+11920-10	e	_
+11920-11	della	_
+11920-12	Sea	_
+11920-13	Eye	_
+
+#Text=Malta, sbarcati i migranti della Sea Watch e della Sea Eye
+11787-1	Malta	_
+11787-2	,	_
+11787-3	sbarcati	_
+11787-4	i	_
+11787-5	migranti	_
+11787-6	della	_
+11787-7	Sea	_
+11787-8	Watch	_
+11787-9	e	_
+11787-10	della	_
+11787-11	Sea	_
+11787-12	Eye	_
+
+#Text=Salvini risponde a Baglioni sui migranti: "Canta che ti passa"
+12238-1	Salvini	_
+12238-2	risponde	_
+12238-3	a	_
+12238-4	Baglioni	_
+12238-5	sui	_
+12238-6	migranti	_
+12238-7	:	_
+12238-8	"	_
+12238-9	Canta	_
+12238-10	che	_
+12238-11	ti	_
+12238-12	passa	_
+12238-13	"	_
+
+#Text=In Italia 15 migranti sbarcati a Malta. Salvini si oppone: “No a nuovi arrivi”
+12093-1	In	_
+12093-2	Italia	_
+12093-3	15	_
+12093-4	migranti	_
+12093-5	sbarcati	_
+12093-6	a	_
+12093-7	Malta	_
+12093-8	.	_
+12093-9	Salvini	_
+12093-10	si	_
+12093-11	oppone	_
+12093-12	:	_
+12093-13	“	_
+12093-14	No	_
+12093-15	a	_
+12093-16	nuovi	_
+12093-17	arrivi	_
+12093-18	”	_
+
+#Text=Barca a vela si arena nel Crotonese: 51 migranti salvati dai cittadini
+11730-1	Barca	_
+11730-2	a	_
+11730-3	vela	_
+11730-4	si	_
+11730-5	arena	_
+11730-6	nel	_
+11730-7	Crotonese	_
+11730-8	:	_
+11730-9	51	_
+11730-10	migranti	_
+11730-11	salvati	_
+11730-12	dai	_
+11730-13	cittadini	_
+
+#Text=Claudio Baglioni parla di politica e di migranti, e gli hater si scatenano
+11797-1	Claudio	_
+11797-2	Baglioni	_
+11797-3	parla	_
+11797-4	di	_
+11797-5	politica	_
+11797-6	e	_
+11797-7	di	_
+11797-8	migranti	_
+11797-9	,	_
+11797-10	e	_
+11797-11	gli	_
+11797-12	hater	_
+11797-13	si	_
+11797-14	scatenano	_
+
+#Text=Migranti, barca si incaglia in Calabria: 51 profughi salvati dai cittadini
+12097-1	Migranti	_
+12097-2	,	_
+12097-3	barca	_
+12097-4	si	_
+12097-5	incaglia	_
+12097-6	in	_
+12097-7	Calabria	_
+12097-8	:	_
+12097-9	51	_
+12097-10	profughi	_
+12097-11	salvati	_
+12097-12	dai	_
+12097-13	cittadini	_
+
+#Text=Crotone, barca a vela con 51 migranti curdi si capovolge vicino alla costa: i cittadini salvano i naufraghi
+11591-1	Crotone	_
+11591-2	,	_
+11591-3	barca	_
+11591-4	a	_
+11591-5	vela	_
+11591-6	con	_
+11591-7	51	_
+11591-8	migranti	_
+11591-9	curdi	_
+11591-10	si	_
+11591-11	capovolge	_
+11591-12	vicino	_
+11591-13	alla	_
+11591-14	costa	_
+11591-15	:	_
+11591-16	i	_
+11591-17	cittadini	_
+11591-18	salvano	_
+11591-19	i	_
+11591-20	naufraghi	_
+
+#Text=Torre Melissa, migranti curdi salvati dal naufragio. Il sindaco: ''Mamme e bimbi bagnati e infreddoliti, siamo corsi ad aiutarli
+11606-1	Torre	_
+11606-2	Melissa	_
+11606-3	,	_
+11606-4	migranti	_
+11606-5	curdi	_
+11606-6	salvati	_
+11606-7	dal	_
+11606-8	naufragio	_
+11606-9	.	_
+11606-10	Il	_
+11606-11	sindaco	_
+11606-12	:	_
+11606-13	'	_
+11606-14	'	_
+11606-15	Mamme	_
+11606-16	e	_
+11606-17	bimbi	_
+11606-18	bagnati	_
+11606-19	e	_
+11606-20	infreddoliti	_
+11606-21	,	_
+11606-22	siamo	_
+11606-23	corsi	_
+11606-24	ad	_
+11606-25	aiutarli	_
+
+#Text=Matteo Salvini, la sua linea sugli immigrati era efficace. Ora con Conte e Di Maio riprenderanno gli sbarchi
+11597-1	Matteo	_
+11597-2	Salvini	_
+11597-3	,	_
+11597-4	la	_
+11597-5	sua	_
+11597-6	linea	_
+11597-7	sugli	_
+11597-8	immigrati	_
+11597-9	era	_
+11597-10	efficace	_
+11597-11	.	_
+11597-12	Ora	_
+11597-13	con	_
+11597-14	Conte	_
+11597-15	e	_
+11597-16	Di	_
+11597-17	Maio	_
+11597-18	riprenderanno	_
+11597-19	gli	_
+11597-20	sbarchi	_
+
+#Text=I migranti a Crotone salvati dalla gente | Gramellini
+11686-1	I	_
+11686-2	migranti	_
+11686-3	a	_
+11686-4	Crotone	_
+11686-5	salvati	_
+11686-6	dalla	_
+11686-7	gente	_
+11686-8	|	_
+11686-9	Gramellini	_
+
+#Text=Salvini polemizza con i sindaci: “Decido io”. E prende tempo sull’arrivo dei migranti
+12061-1	Salvini	_
+12061-2	polemizza	_
+12061-3	con	_
+12061-4	i	_
+12061-5	sindaci	_
+12061-6	:	_
+12061-7	“	_
+12061-8	Decido	_
+12061-9	io	_
+12061-10	”	_
+12061-11	.	_
+12061-12	E	_
+12061-13	prende	_
+12061-14	tempo	_
+12061-15	sull	_
+12061-16	’	_
+12061-17	arrivo	_
+12061-18	dei	_
+12061-19	migranti	_
+
+#Text=Luca Zaia avverte Matteo Salvini: "Immigrazione, la prova del nove. Occhio al golpe"
+11953-1	Luca	_
+11953-2	Zaia	_
+11953-3	avverte	_
+11953-4	Matteo	_
+11953-5	Salvini	_
+11953-6	:	_
+11953-7	"	_
+11953-8	Immigrazione	_
+11953-9	,	_
+11953-10	la	_
+11953-11	prova	_
+11953-12	del	_
+11953-13	nove	_
+11953-14	.	_
+11953-15	Occhio	_
+11953-16	al	_
+11953-17	golpe	_
+11953-18	"	_
+
+#Text=Claudio Baglioni e i migranti, la direttrice di Rai Uno: "Un comizio"
+11701-1	Claudio	_
+11701-2	Baglioni	_
+11701-3	e	_
+11701-4	i	_
+11701-5	migranti	_
+11701-6	,	_
+11701-7	la	_
+11701-8	direttrice	_
+11701-9	di	_
+11701-10	Rai	_
+11701-11	Uno	_
+11701-12	:	_
+11701-13	"	_
+11701-14	Un	_
+11701-15	comizio	_
+11701-16	"	_
+
+#Text=Crotone, barca naufragata e migranti in mare: gli scafisti se ne vanno in hotel. Arrestati
+11881-1	Crotone	_
+11881-2	,	_
+11881-3	barca	_
+11881-4	naufragata	_
+11881-5	e	_
+11881-6	migranti	_
+11881-7	in	_
+11881-8	mare	_
+11881-9	:	_
+11881-10	gli	_
+11881-11	scafisti	_
+11881-12	se	_
+11881-13	ne	_
+11881-14	vanno	_
+11881-15	in	_
+11881-16	hotel	_
+11881-17	.	_
+11881-18	Arrestati	_
+
+#Text=Baglioni con i migranti, Al Bano, Eugenio Bennato e Peppino Di Capri con Salvini
+11756-1	Baglioni	_
+11756-2	con	_
+11756-3	i	_
+11756-4	migranti	_
+11756-5	,	_
+11756-6	Al	_
+11756-7	Bano	_
+11756-8	,	_
+11756-9	Eugenio	_
+11756-10	Bennato	_
+11756-11	e	_
+11756-12	Peppino	_
+11756-13	Di	_
+11756-14	Capri	_
+11756-15	con	_
+11756-16	Salvini	_
+
+#Text=Sala: «Restituirò ai migranti i diritti tolti, da Milano la nuova sinistra»
+12228-1	Sala	_
+12228-2	:	_
+12228-3	«	_
+12228-4	Restituirò	_
+12228-5	ai	_
+12228-6	migranti	_
+12228-7	i	_
+12228-8	diritti	_
+12228-9	tolti	_
+12228-10	,	_
+12228-11	da	_
+12228-12	Milano	_
+12228-13	la	_
+12228-14	nuova	_
+12228-15	sinistra	_
+12228-16	»	_
+
+#Text=Sanremo, Baglioni e i migranti: così la Rai vuole chiudere il caso
+11679-1	Sanremo	_
+11679-2	,	_
+11679-3	Baglioni	_
+11679-4	e	_
+11679-5	i	_
+11679-6	migranti	_
+11679-7	:	_
+11679-8	così	_
+11679-9	la	_
+11679-10	Rai	_
+11679-11	vuole	_
+11679-12	chiudere	_
+11679-13	il	_
+11679-14	caso	_
+
+#Text=I tanti paradossi sul problema dei migranti
+12003-1	I	_
+12003-2	tanti	_
+12003-3	paradossi	_
+12003-4	sul	_
+12003-5	problema	_
+12003-6	dei	_
+12003-7	migranti	_
+
+#Text=Baglioni e i migranti/Sanremo, i giochi per l’audience dietro le invettive
+12134-1	Baglioni	_
+12134-2	e	_
+12134-3	i	_
+12134-4	migranti	_
+12134-5	/	_
+12134-6	Sanremo	_
+12134-7	,	_
+12134-8	i	_
+12134-9	giochi	_
+12134-10	per	_
+12134-11	l	_
+12134-12	’	_
+12134-13	audience	_
+12134-14	dietro	_
+12134-15	le	_
+12134-16	invettive	_
+
+#Text=Le parole di Baglioni sui migranti, i pro e i contro
+11610-1	Le	_
+11610-2	parole	_
+11610-3	di	_
+11610-4	Baglioni	_
+11610-5	sui	_
+11610-6	migranti	_
+11610-7	,	_
+11610-8	i	_
+11610-9	pro	_
+11610-10	e	_
+11610-11	i	_
+11610-12	contro	_
+
+#Text=Traffico di migranti, 14 arresti in Sicilia: sequestrato tesoro di 3 milioni tra ristoranti e cantieri
+11673-1	Traffico	_
+11673-2	di	_
+11673-3	migranti	_
+11673-4	,	_
+11673-5	14	_
+11673-6	arresti	_
+11673-7	in	_
+11673-8	Sicilia	_
+11673-9	:	_
+11673-10	sequestrato	_
+11673-11	tesoro	_
+11673-12	di	_
+11673-13	3	_
+11673-14	milioni	_
+11673-15	tra	_
+11673-16	ristoranti	_
+11673-17	e	_
+11673-18	cantieri	_
+
+#Text=Immigrazione clandestina, a Palermo sequestrati beni per tre milioni
+12261-1	Immigrazione	_
+12261-2	clandestina	_
+12261-3	,	_
+12261-4	a	_
+12261-5	Palermo	_
+12261-6	sequestrati	_
+12261-7	beni	_
+12261-8	per	_
+12261-9	tre	_
+12261-10	milioni	_
+
+#Text=Sequestrato in Sicilia il tesoro degli scafisti: ristoranti, immobili e aziende con  soldi tratta migranti
+12046-1	Sequestrato	_
+12046-2	in	_
+12046-3	Sicilia	_
+12046-4	il	_
+12046-5	tesoro	_
+12046-6	degli	_
+12046-7	scafisti	_
+12046-8	:	_
+12046-9	ristoranti	_
+12046-10	,	_
+12046-11	immobili	_
+12046-12	e	_
+12046-13	aziende	_
+12046-14	con	_
+12046-15	soldi	_
+12046-16	tratta	_
+12046-17	migranti	_
+
+#Text=Traffico di migranti tra Tunisia e Sicilia: 14 arresti. Sequestrato il tesoro degli scafisti
+12115-1	Traffico	_
+12115-2	di	_
+12115-3	migranti	_
+12115-4	tra	_
+12115-5	Tunisia	_
+12115-6	e	_
+12115-7	Sicilia	_
+12115-8	:	_
+12115-9	14	_
+12115-10	arresti	_
+12115-11	.	_
+12115-12	Sequestrato	_
+12115-13	il	_
+12115-14	tesoro	_
+12115-15	degli	_
+12115-16	scafisti	_
+
+#Text=Lele Mora rapinato e minacciato a Milano: era al campo rom con 40 mila euro
+11639-1	Lele	_
+11639-2	Mora	_
+11639-3	rapinato	_
+11639-4	e	_
+11639-5	minacciato	_
+11639-6	a	_
+11639-7	Milano	_
+11639-8	:	_
+11639-9	era	_
+11639-10	al	_
+11639-11	campo	_
+11639-12	rom	_
+11639-13	con	_
+11639-14	40	_
+11639-15	mila	_
+11639-16	euro	_
+
+#Text=Caporalato, centinaia di migranti sfruttati nei campi: arresti a Latina
+11800-1	Caporalato	_
+11800-2	,	_
+11800-3	centinaia	_
+11800-4	di	_
+11800-5	migranti	_
+11800-6	sfruttati	_
+11800-7	nei	_
+11800-8	campi	_
+11800-9	:	_
+11800-10	arresti	_
+11800-11	a	_
+11800-12	Latina	_
+
+#Text=Lele Mora, "picchiato e derubato di 40mila euro in campo rom per finto affare". Indagini della procura di Milano
+11650-1	Lele	_
+11650-2	Mora	_
+11650-3	,	_
+11650-4	"	_
+11650-5	picchiato	_
+11650-6	e	_
+11650-7	derubato	_
+11650-8	di	_
+11650-9	40mila	_
+11650-10	euro	_
+11650-11	in	_
+11650-12	campo	_
+11650-13	rom	_
+11650-14	per	_
+11650-15	finto	_
+11650-16	affare	_
+11650-17	"	_
+11650-18	.	_
+11650-19	Indagini	_
+11650-20	della	_
+11650-21	procura	_
+11650-22	di	_
+11650-23	Milano	_
+
+#Text=Caporalato a Latina, migranti 10 ore nei campi a raccogliere kiwi per pochi euro
+12070-1	Caporalato	_
+12070-2	a	_
+12070-3	Latina	_
+12070-4	,	_
+12070-5	migranti	_
+12070-6	10	_
+12070-7	ore	_
+12070-8	nei	_
+12070-9	campi	_
+12070-10	a	_
+12070-11	raccogliere	_
+12070-12	kiwi	_
+12070-13	per	_
+12070-14	pochi	_
+12070-15	euro	_
+
+#Text=Caporalato, centinaia di migranti in “condizioni disumane”: sei arresti a Latina
+12111-1	Caporalato	_
+12111-2	,	_
+12111-3	centinaia	_
+12111-4	di	_
+12111-5	migranti	_
+12111-6	in	_
+12111-7	“	_
+12111-8	condizioni	_
+12111-9	disumane	_
+12111-10	”	_
+12111-11	:	_
+12111-12	sei	_
+12111-13	arresti	_
+12111-14	a	_
+12111-15	Latina	_
+
+#Text=Il migrante adolescente morto in mare con la pagella cucita in tasca
+11749-1	Il	_
+11749-2	migrante	_
+11749-3	adolescente	_
+11749-4	morto	_
+11749-5	in	_
+11749-6	mare	_
+11749-7	con	_
+11749-8	la	_
+11749-9	pagella	_
+11749-10	cucita	_
+11749-11	in	_
+11749-12	tasca	_
+
+#Text=Latina, centinaia di stranieri sfruttati nei campi: arrestati caporali
+12242-1	Latina	_
+12242-2	,	_
+12242-3	centinaia	_
+12242-4	di	_
+12242-5	stranieri	_
+12242-6	sfruttati	_
+12242-7	nei	_
+12242-8	campi	_
+12242-9	:	_
+12242-10	arrestati	_
+12242-11	caporali	_
+
+#Text=Morta Maritsa, la nonna di Lesbo che allattava i migranti
+12136-1	Morta	_
+12136-2	Maritsa	_
+12136-3	,	_
+12136-4	la	_
+12136-5	nonna	_
+12136-6	di	_
+12136-7	Lesbo	_
+12136-8	che	_
+12136-9	allattava	_
+12136-10	i	_
+12136-11	migranti	_
+
+#Text=Al corteo per Matera Capitale della cultura i teli termici dei migranti diventano opere d’arte
+12059-1	Al	_
+12059-2	corteo	_
+12059-3	per	_
+12059-4	Matera	_
+12059-5	Capitale	_
+12059-6	della	_
+12059-7	cultura	_
+12059-8	i	_
+12059-9	teli	_
+12059-10	termici	_
+12059-11	dei	_
+12059-12	migranti	_
+12059-13	diventano	_
+12059-14	opere	_
+12059-15	d	_
+12059-16	’	_
+12059-17	arte	_
+
+#Text=Lele Mora derubato nel campo rom «Mi hanno rapinato perché ingenuo Ora sto lavorando per la tv albanese»
+11933-1	Lele	_
+11933-2	Mora	_
+11933-3	derubato	_
+11933-4	nel	_
+11933-5	campo	_
+11933-6	rom	_
+11933-7	«	_
+11933-8	Mi	_
+11933-9	hanno	_
+11933-10	rapinato	_
+11933-11	perché	_
+11933-12	ingenuo	_
+11933-13	Ora	_
+11933-14	sto	_
+11933-15	lavorando	_
+11933-16	per	_
+11933-17	la	_
+11933-18	tv	_
+11933-19	albanese	_
+11933-20	»	_
+
+#Text=Giorgia Meloni, fucilata sul reddito di cittadinanza: "Luigi Di Maio regala soldi a immigrati e rom"
+11861-1	Giorgia	_
+11861-2	Meloni	_
+11861-3	,	_
+11861-4	fucilata	_
+11861-5	sul	_
+11861-6	reddito	_
+11861-7	di	_
+11861-8	cittadinanza	_
+11861-9	:	_
+11861-10	"	_
+11861-11	Luigi	_
+11861-12	Di	_
+11861-13	Maio	_
+11861-14	regala	_
+11861-15	soldi	_
+11861-16	a	_
+11861-17	immigrati	_
+11861-18	e	_
+11861-19	rom	_
+11861-20	"	_
+
+#Text=Ma quali guerre, nel 2017 abbiamo fatto sbarcare oltre 128mila individui. Tutti migranti economici
+11572-1	Ma	_
+11572-2	quali	_
+11572-3	guerre	_
+11572-4	,	_
+11572-5	nel	_
+11572-6	2017	_
+11572-7	abbiamo	_
+11572-8	fatto	_
+11572-9	sbarcare	_
+11572-10	oltre	_
+11572-11	128mila	_
+11572-12	individui	_
+11572-13	.	_
+11572-14	Tutti	_
+11572-15	migranti	_
+11572-16	economici	_
+
+#Text=Gommone con 20 migranti a 50 miglia al largo della Libia, solo tre salvati
+11974-1	Gommone	_
+11974-2	con	_
+11974-3	20	_
+11974-4	migranti	_
+11974-5	a	_
+11974-6	50	_
+11974-7	miglia	_
+11974-8	al	_
+11974-9	largo	_
+11974-10	della	_
+11974-11	Libia	_
+11974-12	,	_
+11974-13	solo	_
+11974-14	tre	_
+11974-15	salvati	_
+
+#Text=Festival di Sanremo, Claudio Baglioni e il trionfo dei migranti: le canzoni in anteprima, siluro su Salvini
+12135-1	Festival	_
+12135-2	di	_
+12135-3	Sanremo	_
+12135-4	,	_
+12135-5	Claudio	_
+12135-6	Baglioni	_
+12135-7	e	_
+12135-8	il	_
+12135-9	trionfo	_
+12135-10	dei	_
+12135-11	migranti	_
+12135-12	:	_
+12135-13	le	_
+12135-14	canzoni	_
+12135-15	in	_
+12135-16	anteprima	_
+12135-17	,	_
+12135-18	siluro	_
+12135-19	su	_
+12135-20	Salvini	_
+
+#Text=Libano, tempeste di neve sui campi profughi: 40mila bambini siriani a rischio sopravvivenza
+11678-1	Libano	_
+11678-2	,	_
+11678-3	tempeste	_
+11678-4	di	_
+11678-5	neve	_
+11678-6	sui	_
+11678-7	campi	_
+11678-8	profughi	_
+11678-9	:	_
+11678-10	40mila	_
+11678-11	bambini	_
+11678-12	siriani	_
+11678-13	a	_
+11678-14	rischio	_
+11678-15	sopravvivenza	_
+
+#Text=Lasciano acqua a migranti nel deserto, quattro donne a processo negli Stati Uniti
+11926-1	Lasciano	_
+11926-2	acqua	_
+11926-3	a	_
+11926-4	migranti	_
+11926-5	nel	_
+11926-6	deserto	_
+11926-7	,	_
+11926-8	quattro	_
+11926-9	donne	_
+11926-10	a	_
+11926-11	processo	_
+11926-12	negli	_
+11926-13	Stati	_
+11926-14	Uniti	_
+
+#Text=Bimba rom di 20 mesi scomparsa nella periferia di Cagliari, i genitori fermati per omicidio
+12100-1	Bimba	_
+12100-2	rom	_
+12100-3	di	_
+12100-4	20	_
+12100-5	mesi	_
+12100-6	scomparsa	_
+12100-7	nella	_
+12100-8	periferia	_
+12100-9	di	_
+12100-10	Cagliari	_
+12100-11	,	_
+12100-12	i	_
+12100-13	genitori	_
+12100-14	fermati	_
+12100-15	per	_
+12100-16	omicidio	_
+
+#Text=Sanremo 2019, Salvini-Baglioni, chiarimento dopo la polemica sui migranti
+12240-1	Sanremo	_
+12240-2	2019	_
+12240-3	,	_
+12240-4	Salvini-Baglioni	_
+12240-5	,	_
+12240-6	chiarimento	_
+12240-7	dopo	_
+12240-8	la	_
+12240-9	polemica	_
+12240-10	sui	_
+12240-11	migranti	_
+
+#Text=Fonti del Viminale: chiarimento telefonico tra Salvini e Baglioni sul tema dei migranti
+11994-1	Fonti	_
+11994-2	del	_
+11994-3	Viminale	_
+11994-4	:	_
+11994-5	chiarimento	_
+11994-6	telefonico	_
+11994-7	tra	_
+11994-8	Salvini	_
+11994-9	e	_
+11994-10	Baglioni	_
+11994-11	sul	_
+11994-12	tema	_
+11994-13	dei	_
+11994-14	migranti	_
+
+#Text=Bimba rom scomparsa: già a novembre perse le tracce
+11801-1	Bimba	_
+11801-2	rom	_
+11801-3	scomparsa	_
+11801-4	:	_
+11801-5	già	_
+11801-6	a	_
+11801-7	novembre	_
+11801-8	perse	_
+11801-9	le	_
+11801-10	tracce	_
+
+#Text=Strage migranti, Conte: "Sono scioccato. Mi dedicherò a diritto penale per assicurare scafisti alla giustizia"
+12192-1	Strage	_
+12192-2	migranti	_
+12192-3	,	_
+12192-4	Conte	_
+12192-5	:	_
+12192-6	"	_
+12192-7	Sono	_
+12192-8	scioccato	_
+12192-9	.	_
+12192-10	Mi	_
+12192-11	dedicherò	_
+12192-12	a	_
+12192-13	diritto	_
+12192-14	penale	_
+12192-15	per	_
+12192-16	assicurare	_
+12192-17	scafisti	_
+12192-18	alla	_
+12192-19	giustizia	_
+12192-20	"	_
+
+#Text=Sea Watch, l'ultima presa in giro degli immigrati all'Italia: i minori nati tutti lo stesso giorno
+11251-1	Sea	_
+11251-2	Watch	_
+11251-3	,	_
+11251-4	l'ultima	_
+11251-5	presa	_
+11251-6	in	_
+11251-7	giro	_
+11251-8	degli	_
+11251-9	immigrati	_
+11251-10	all'Italia	_
+11251-11	:	_
+11251-12	i	_
+11251-13	minori	_
+11251-14	nati	_
+11251-15	tutti	_
+11251-16	lo	_
+11251-17	stesso	_
+11251-18	giorno	_
+
+#Text=Sanremo 2019, don Salvatore Picca il prete pro-Salvini massacra il festival: "Vinci se sei musulmano e drogato"
+11318-1	Sanremo	_
+11318-2	2019	_
+11318-3	,	_
+11318-4	don	_
+11318-5	Salvatore	_
+11318-6	Picca	_
+11318-7	il	_
+11318-8	prete	_
+11318-9	pro-Salvini	_
+11318-10	massacra	_
+11318-11	il	_
+11318-12	festival	_
+11318-13	:	_
+11318-14	"	_
+11318-15	Vinci	_
+11318-16	se	_
+11318-17	sei	_
+11318-18	musulmano	_
+11318-19	e	_
+11318-20	drogato	_
+11318-21	"	_
+
+#Text=Sanremo, prete contro Mahmood: "Ha vinto un immigrato con i tatuaggi…"
+11412-1	Sanremo	_
+11412-2	,	_
+11412-3	prete	_
+11412-4	contro	_
+11412-5	Mahmood	_
+11412-6	:	_
+11412-7	"	_
+11412-8	Ha	_
+11412-9	vinto	_
+11412-10	un	_
+11412-11	immigrato	_
+11412-12	con	_
+11412-13	i	_
+11412-14	tatuaggi	_
+11412-15	…	_
+11412-16	"	_
+
+#Text=Matteo Salvini, bomba a urne aperte in Sardegna: "Volete più immigrati? Votate Pd"
+11488-1	Matteo	_
+11488-2	Salvini	_
+11488-3	,	_
+11488-4	bomba	_
+11488-5	a	_
+11488-6	urne	_
+11488-7	aperte	_
+11488-8	in	_
+11488-9	Sardegna	_
+11488-10	:	_
+11488-11	"	_
+11488-12	Volete	_
+11488-13	più	_
+11488-14	immigrati	_
+11488-15	?	_
+11488-16	Votate	_
+11488-17	Pd	_
+11488-18	"	_
+
+#Text=Le spese pazze del governo Oltre 23mila euro per i rom
+11114-1	Le	_
+11114-2	spese	_
+11114-3	pazze	_
+11114-4	del	_
+11114-5	governo	_
+11114-6	Oltre	_
+11114-7	23mila	_
+11114-8	euro	_
+11114-9	per	_
+11114-10	i	_
+11114-11	rom	_
+
+#Text=Ecco il reddito di cittadinanza Pacchia per immigrati e rom
+10853-1	Ecco	_
+10853-2	il	_
+10853-3	reddito	_
+10853-4	di	_
+10853-5	cittadinanza	_
+10853-6	Pacchia	_
+10853-7	per	_
+10853-8	immigrati	_
+10853-9	e	_
+10853-10	rom	_
+
+#Text=I migranti vogliono il sussidio. In arrivo una pioggia di ricorsi
+11266-1	I	_
+11266-2	migranti	_
+11266-3	vogliono	_
+11266-4	il	_
+11266-5	sussidio	_
+11266-6	.	_
+11266-7	In	_
+11266-8	arrivo	_
+11266-9	una	_
+11266-10	pioggia	_
+11266-11	di	_
+11266-12	ricorsi	_
+
+#Text=Falsi attestati a 6mila immigrati: permessi di soggiorno in regalo
+11549-1	Falsi	_
+11549-2	attestati	_
+11549-3	a	_
+11549-4	6mila	_
+11549-5	immigrati	_
+11549-6	:	_
+11549-7	permessi	_
+11549-8	di	_
+11549-9	soggiorno	_
+11549-10	in	_
+11549-11	regalo	_
+
+#Text=Il regno di immigrati e no global: "Ecco l'anticamera dell'inferno"
+11491-1	Il	_
+11491-2	regno	_
+11491-3	di	_
+11491-4	immigrati	_
+11491-5	e	_
+11491-6	no	_
+11491-7	global	_
+11491-8	:	_
+11491-9	"	_
+11491-10	Ecco	_
+11491-11	l'anticamera	_
+11491-12	dell'inferno	_
+11491-13	"	_
+
+#Text=Clandestini, i pm disfa-leggi a scuola di ostruzionismo
+11443-1	Clandestini	_
+11443-2	,	_
+11443-3	i	_
+11443-4	pm	_
+11443-5	disfa-leggi	_
+11443-6	a	_
+11443-7	scuola	_
+11443-8	di	_
+11443-9	ostruzionismo	_
+
+#Text=Clandestini, la retromarcia della Cassazione: &quot;Vanno espulsi anche se i figli vanno a scuola&quot;
+11040-1	Clandestini	_
+11040-2	,	_
+11040-3	la	_
+11040-4	retromarcia	_
+11040-5	della	_
+11040-6	Cassazione	_
+11040-7	:	_
+11040-8	&	_
+11040-9	quot	_
+11040-10	;	_
+11040-11	Vanno	_
+11040-12	espulsi	_
+11040-13	anche	_
+11040-14	se	_
+11040-15	i	_
+11040-16	figli	_
+11040-17	vanno	_
+11040-18	a	_
+11040-19	scuola	_
+11040-20	&	_
+11040-21	quot	_
+11040-22	;	_
+
+#Text=Classe solo di bimbi immigrati: a Padova "spariscono" gli italiani
+11171-1	Classe	_
+11171-2	solo	_
+11171-3	di	_
+11171-4	bimbi	_
+11171-5	immigrati	_
+11171-6	:	_
+11171-7	a	_
+11171-8	Padova	_
+11171-9	"	_
+11171-10	spariscono	_
+11171-11	"	_
+11171-12	gli	_
+11171-13	italiani	_
+
+#Text=Come ci si sbarazza degli immigrati africani: ecco la durissima lezione di Israele all'Italia
+11474-1	Come	_
+11474-2	ci	_
+11474-3	si	_
+11474-4	sbarazza	_
+11474-5	degli	_
+11474-6	immigrati	_
+11474-7	africani	_
+11474-8	:	_
+11474-9	ecco	_
+11474-10	la	_
+11474-11	durissima	_
+11474-12	lezione	_
+11474-13	di	_
+11474-14	Israele	_
+11474-15	all'Italia	_
+
+#Text=Come rimanere clandestini a norma di legge
+10860-1	Come	_
+10860-2	rimanere	_
+10860-3	clandestini	_
+10860-4	a	_
+10860-5	norma	_
+10860-6	di	_
+10860-7	legge	_
+
+#Text=Come ti addomestico il clandestino
+11513-1	Come	_
+11513-2	ti	_
+11513-3	addomestico	_
+11513-4	il	_
+11513-5	clandestino	_
+
+#Text=Con Appendino Torino mecca dei musulmani
+11487-1	Con	_
+11487-2	Appendino	_
+11487-3	Torino	_
+11487-4	mecca	_
+11487-5	dei	_
+11487-6	musulmani	_
+
+#Text=Cona, profughi molestano una 17enne
+11062-1	Cona	_
+11062-2	,	_
+11062-3	profughi	_
+11062-4	molestano	_
+11062-5	una	_
+11062-6	17enne	_
+
+#Text=Cosa succede in questo residence per immigrati? Piscina, festini, droga e sesso: i dettagli-scandalo
+10826-1	Cosa	_
+10826-2	succede	_
+10826-3	in	_
+10826-4	questo	_
+10826-5	residence	_
+10826-6	per	_
+10826-7	immigrati	_
+10826-8	?	_
+10826-9	Piscina	_
+10826-10	,	_
+10826-11	festini	_
+10826-12	,	_
+10826-13	droga	_
+10826-14	e	_
+10826-15	sesso	_
+10826-16	:	_
+10826-17	i	_
+10826-18	dettagli-scandalo	_
+
+#Text=Così gli immigrati sostituiscono e umiliano Gesù. La denuncia di Socci: il volantino-vergogna / Foto
+11316-1	Così	_
+11316-2	gli	_
+11316-3	immigrati	_
+11316-4	sostituiscono	_
+11316-5	e	_
+11316-6	umiliano	_
+11316-7	Gesù	_
+11316-8	.	_
+11316-9	La	_
+11316-10	denuncia	_
+11316-11	di	_
+11316-12	Socci	_
+11316-13	:	_
+11316-14	il	_
+11316-15	volantino-vergogna	_
+11316-16	/	_
+11316-17	Foto	_
+
+#Text=Così il governo Renzi regala ​la cittadinanza agli immigrati
+11280-1	Così	_
+11280-2	il	_
+11280-3	governo	_
+11280-4	Renzi	_
+11280-5	regala	_
+11280-6	​	_
+11280-7	la	_
+11280-8	cittadinanza	_
+11280-9	agli	_
+11280-10	immigrati	_
+
+#Text=Così l'elemosina finanzia il racket dei clandestini
+11214-1	Così	_
+11214-2	l'elemosina	_
+11214-3	finanzia	_
+11214-4	il	_
+11214-5	racket	_
+11214-6	dei	_
+11214-7	clandestini	_
+
+#Text=Così Renzi si è venduto l'Italia. Immigrati, parla l'ex ministro: "In cambio di soldi...", suicidio
+11308-1	Così	_
+11308-2	Renzi	_
+11308-3	si	_
+11308-4	è	_
+11308-5	venduto	_
+11308-6	l'Italia	_
+11308-7	.	_
+11308-8	Immigrati	_
+11308-9	,	_
+11308-10	parla	_
+11308-11	l'ex	_
+11308-12	ministro	_
+11308-13	:	_
+11308-14	"	_
+11308-15	In	_
+11308-16	cambio	_
+11308-17	di	_
+11308-18	soldi	_
+11308-19	.	_
+11308-20	.	_
+11308-21	.	_
+11308-22	"	_
+11308-23	,	_
+11308-24	suicidio	_
+
+#Text=Cure a costo zero anche per i clandestini
+10966-1	Cure	_
+10966-2	a	_
+10966-3	costo	_
+10966-4	zero	_
+10966-5	anche	_
+10966-6	per	_
+10966-7	i	_
+10966-8	clandestini	_
+
+#Text=Da "clandestini" a "zingaro" le parole vietate per sentenza
+11199-1	Da	_
+11199-2	"	_
+11199-3	clandestini	_
+11199-4	"	_
+11199-5	a	_
+11199-6	"	_
+11199-7	zingaro	_
+11199-8	"	_
+11199-9	le	_
+11199-10	parole	_
+11199-11	vietate	_
+11199-12	per	_
+11199-13	sentenza	_
+
+#Text=Dà la casa ai profughi. E gli italiani?
+11172-1	Dà	_
+11172-2	la	_
+11172-3	casa	_
+11172-4	ai	_
+11172-5	profughi	_
+11172-6	.	_
+11172-7	E	_
+11172-8	gli	_
+11172-9	italiani	_
+11172-10	?	_
+
+#Text=Dopo aver tagliato ai disabili, Renzi regala un miliardo ai richiedenti asilo
+11007-1	Dopo	_
+11007-2	aver	_
+11007-3	tagliato	_
+11007-4	ai	_
+11007-5	disabili	_
+11007-6	,	_
+11007-7	Renzi	_
+11007-8	regala	_
+11007-9	un	_
+11007-10	miliardo	_
+11007-11	ai	_
+11007-12	richiedenti	_
+11007-13	asilo	_
+
+#Text=Dopo lo spottone pro-immigrazione, Favino da non credere: fino a dove si spinge sul monologo a Sanremo
+11360-1	Dopo	_
+11360-2	lo	_
+11360-3	spottone	_
+11360-4	pro-immigrazione	_
+11360-5	,	_
+11360-6	Favino	_
+11360-7	da	_
+11360-8	non	_
+11360-9	credere	_
+11360-10	:	_
+11360-11	fino	_
+11360-12	a	_
+11360-13	dove	_
+11360-14	si	_
+11360-15	spinge	_
+11360-16	sul	_
+11360-17	monologo	_
+11360-18	a	_
+11360-19	Sanremo	_
+
+#Text=E Minniti apre il "corridoio elettorale". I primi 160 profughi arrivano in aereo
+10914-1	E	_
+10914-2	Minniti	_
+10914-3	apre	_
+10914-4	il	_
+10914-5	"	_
+10914-6	corridoio	_
+10914-7	elettorale	_
+10914-8	"	_
+10914-9	.	_
+10914-10	I	_
+10914-11	primi	_
+10914-12	160	_
+10914-13	profughi	_
+10914-14	arrivano	_
+10914-15	in	_
+10914-16	aereo	_
+
+#Text=È reato dire "clandestino"
+10934-1	È	_
+10934-2	reato	_
+10934-3	dire	_
+10934-4	"	_
+10934-5	clandestino	_
+10934-6	"	_
+
+#Text=Ecco chi ci porta i profughi a domicilio. Chi sono e cosa fanno nel Mediterraneo
+11345-1	Ecco	_
+11345-2	chi	_
+11345-3	ci	_
+11345-4	porta	_
+11345-5	i	_
+11345-6	profughi	_
+11345-7	a	_
+11345-8	domicilio	_
+11345-9	.	_
+11345-10	Chi	_
+11345-11	sono	_
+11345-12	e	_
+11345-13	cosa	_
+11345-14	fanno	_
+11345-15	nel	_
+11345-16	Mediterraneo	_
+
+#Text=Ecco come l'immigrazione ha ucciso il turismo a Fiuggi
+11144-1	Ecco	_
+11144-2	come	_
+11144-3	l'immigrazione	_
+11144-4	ha	_
+11144-5	ucciso	_
+11144-6	il	_
+11144-7	turismo	_
+11144-8	a	_
+11144-9	Fiuggi	_
+
+#Text=Ecco come rovinano l'Italia: immigrati, scippi e rapine? Le cifre-verità sulle "risorse"
+10828-1	Ecco	_
+10828-2	come	_
+10828-3	rovinano	_
+10828-4	l'Italia	_
+10828-5	:	_
+10828-6	immigrati	_
+10828-7	,	_
+10828-8	scippi	_
+10828-9	e	_
+10828-10	rapine	_
+10828-11	?	_
+10828-12	Le	_
+10828-13	cifre-verità	_
+10828-14	sulle	_
+10828-15	"	_
+10828-16	risorse	_
+10828-17	"	_
+
+#Text=Ecco il sito che indica le rotte. Toh il trucchetto dei migranti: l'invenzione è di due italiane
+11054-1	Ecco	_
+11054-2	il	_
+11054-3	sito	_
+11054-4	che	_
+11054-5	indica	_
+11054-6	le	_
+11054-7	rotte	_
+11054-8	.	_
+11054-9	Toh	_
+11054-10	il	_
+11054-11	trucchetto	_
+11054-12	dei	_
+11054-13	migranti	_
+11054-14	:	_
+11054-15	l'invenzione	_
+11054-16	è	_
+11054-17	di	_
+11054-18	due	_
+11054-19	italiane	_
+
+#Text=Ecco la notizia più attesa. Immigrati, il dato pazzesco: in Italia adesso cambia tutto?
+10949-1	Ecco	_
+10949-2	la	_
+10949-3	notizia	_
+10949-4	più	_
+10949-5	attesa	_
+10949-6	.	_
+10949-7	Immigrati	_
+10949-8	,	_
+10949-9	il	_
+10949-10	dato	_
+10949-11	pazzesco	_
+10949-12	:	_
+10949-13	in	_
+10949-14	Italia	_
+10949-15	adesso	_
+10949-16	cambia	_
+10949-17	tutto	_
+10949-18	?	_
+
+#Text=Ecco le bugie dei clandestini per ottenere asilo
+10958-1	Ecco	_
+10958-2	le	_
+10958-3	bugie	_
+10958-4	dei	_
+10958-5	clandestini	_
+10958-6	per	_
+10958-7	ottenere	_
+10958-8	asilo	_
+
+#Text=Ecco perché i migranti saranno sempre di più e l'Italia perde la loro parte migliore
+11033-1	Ecco	_
+11033-2	perché	_
+11033-3	i	_
+11033-4	migranti	_
+11033-5	saranno	_
+11033-6	sempre	_
+11033-7	di	_
+11033-8	più	_
+11033-9	e	_
+11033-10	l'Italia	_
+11033-11	perde	_
+11033-12	la	_
+11033-13	loro	_
+11033-14	parte	_
+11033-15	migliore	_
+
+#Text=Emma Bonino è fuori, delirio sugli immigrati: "Senza di loro...". Mai sentito prima: fino a dove si spinge
+10918-1	Emma	_
+10918-2	Bonino	_
+10918-3	è	_
+10918-4	fuori	_
+10918-5	,	_
+10918-6	delirio	_
+10918-7	sugli	_
+10918-8	immigrati	_
+10918-9	:	_
+10918-10	"	_
+10918-11	Senza	_
+10918-12	di	_
+10918-13	loro	_
+10918-14	.	_
+10918-15	.	_
+10918-16	.	_
+10918-17	"	_
+10918-18	.	_
+10918-19	Mai	_
+10918-20	sentito	_
+10918-21	prima	_
+10918-22	:	_
+10918-23	fino	_
+10918-24	a	_
+10918-25	dove	_
+10918-26	si	_
+10918-27	spinge	_
+
+#Text=Eraclea, profughi protestano per il cibo e lo buttano in strada
+11191-1	Eraclea	_
+11191-2	,	_
+11191-3	profughi	_
+11191-4	protestano	_
+11191-5	per	_
+11191-6	il	_
+11191-7	cibo	_
+11191-8	e	_
+11191-9	lo	_
+11191-10	buttano	_
+11191-11	in	_
+11191-12	strada	_
+
+#Text=Ergastolo al somalo-bestia: cosa faceva ai profughi, come ha reagito col giudice
+11344-1	Ergastolo	_
+11344-2	al	_
+11344-3	somalo-bestia	_
+11344-4	:	_
+11344-5	cosa	_
+11344-6	faceva	_
+11344-7	ai	_
+11344-8	profughi	_
+11344-9	,	_
+11344-10	come	_
+11344-11	ha	_
+11344-12	reagito	_
+11344-13	col	_
+11344-14	giudice	_
+
+#Text=Esuli, clandestini e rom &quot;Tutte le emergenze le scaricano su Milano&quot;
+11161-1	Esuli	_
+11161-2	,	_
+11161-3	clandestini	_
+11161-4	e	_
+11161-5	rom	_
+11161-6	&	_
+11161-7	quot	_
+11161-8	;	_
+11161-9	Tutte	_
+11161-10	le	_
+11161-11	emergenze	_
+11161-12	le	_
+11161-13	scaricano	_
+11161-14	su	_
+11161-15	Milano	_
+11161-16	&	_
+11161-17	quot	_
+11161-18	;	_
+
+#Text=Evviva Papa Francesco, ma non i clandestini
+11017-1	Evviva	_
+11017-2	Papa	_
+11017-3	Francesco	_
+11017-4	,	_
+11017-5	ma	_
+11017-6	non	_
+11017-7	i	_
+11017-8	clandestini	_
+
+#Text=Expo: Bordonali, richiedenti asilo in campo base simbolo fallimento governo
+11390-1	Expo	_
+11390-2	:	_
+11390-3	Bordonali	_
+11390-4	,	_
+11390-5	richiedenti	_
+11390-6	asilo	_
+11390-7	in	_
+11390-8	campo	_
+11390-9	base	_
+11390-10	simbolo	_
+11390-11	fallimento	_
+11390-12	governo	_
+
+#Text=Facci contro gli immigrati: "Ci stanno sostituendo. Basta balle: ecco cosa sono"
+11052-1	Facci	_
+11052-2	contro	_
+11052-3	gli	_
+11052-4	immigrati	_
+11052-5	:	_
+11052-6	"	_
+11052-7	Ci	_
+11052-8	stanno	_
+11052-9	sostituendo	_
+11052-10	.	_
+11052-11	Basta	_
+11052-12	balle	_
+11052-13	:	_
+11052-14	ecco	_
+11052-15	cosa	_
+11052-16	sono	_
+11052-17	"	_
+
+#Text=Fascisti? No, islamici integrati. La figlia vive "all'occidentale", come l'hanno brutalizzata
+11165-1	Fascisti	_
+11165-2	?	_
+11165-3	No	_
+11165-4	,	_
+11165-5	islamici	_
+11165-6	integrati	_
+11165-7	.	_
+11165-8	La	_
+11165-9	figlia	_
+11165-10	vive	_
+11165-11	"	_
+11165-12	all'occidentale	_
+11165-13	"	_
+11165-14	,	_
+11165-15	come	_
+11165-16	l'hanno	_
+11165-17	brutalizzata	_
+
+#Text=Ferrara, aggredita e pestata da cinque immigrati
+10886-1	Ferrara	_
+10886-2	,	_
+10886-3	aggredita	_
+10886-4	e	_
+10886-5	pestata	_
+10886-6	da	_
+10886-7	cinque	_
+10886-8	immigrati	_
+
+#Text=Ferrara, il sindaco leghista: "Denuncia chi ospita i migranti di nascosto"
+11234-1	Ferrara	_
+11234-2	,	_
+11234-3	il	_
+11234-4	sindaco	_
+11234-5	leghista	_
+11234-6	:	_
+11234-7	"	_
+11234-8	Denuncia	_
+11234-9	chi	_
+11234-10	ospita	_
+11234-11	i	_
+11234-12	migranti	_
+11234-13	di	_
+11234-14	nascosto	_
+11234-15	"	_
+
+#Text=Fini sbugiardato: ecco tutti gli hotel che ospitano profughi
+11278-1	Fini	_
+11278-2	sbugiardato	_
+11278-3	:	_
+11278-4	ecco	_
+11278-5	tutti	_
+11278-6	gli	_
+11278-7	hotel	_
+11278-8	che	_
+11278-9	ospitano	_
+11278-10	profughi	_
+
+#Text=Follia del Tar: vietato espellere i clandestini spacciatori
+10989-1	Follia	_
+10989-2	del	_
+10989-3	Tar	_
+10989-4	:	_
+10989-5	vietato	_
+10989-6	espellere	_
+10989-7	i	_
+10989-8	clandestini	_
+10989-9	spacciatori	_
+
+#Text=Follia europea: accoglieremo pure i "profughi climatici"
+10992-1	Follia	_
+10992-2	europea	_
+10992-3	:	_
+10992-4	accoglieremo	_
+10992-5	pure	_
+10992-6	i	_
+10992-7	"	_
+10992-8	profughi	_
+10992-9	climatici	_
+10992-10	"	_
+
+#Text=Fontana: "Se sarò eletto farò espellere 100mila clandestini dalla Lombardia"
+11088-1	Fontana	_
+11088-2	:	_
+11088-3	"	_
+11088-4	Se	_
+11088-5	sarò	_
+11088-6	eletto	_
+11088-7	farò	_
+11088-8	espellere	_
+11088-9	100mila	_
+11088-10	clandestini	_
+11088-11	dalla	_
+11088-12	Lombardia	_
+11088-13	"	_
+
+#Text=Furbi e incoerenti: bombe umanitarie, ma niente clandestini
+10884-1	Furbi	_
+10884-2	e	_
+10884-3	incoerenti	_
+10884-4	:	_
+10884-5	bombe	_
+10884-6	umanitarie	_
+10884-7	,	_
+10884-8	ma	_
+10884-9	niente	_
+10884-10	clandestini	_
+
+#Text=Furia Cruciani: clandestini farabutti devastano un traghetto
+11470-1	Furia	_
+11470-2	Cruciani	_
+11470-3	:	_
+11470-4	clandestini	_
+11470-5	farabutti	_
+11470-6	devastano	_
+11470-7	un	_
+11470-8	traghetto	_
+
+#Text=Gabanelli bombardiera: "Ecco cosa fare coi migranti". Così asfalta Boldrini, Kyenge e le altre "verginelle"
+11228-1	Gabanelli	_
+11228-2	bombardiera	_
+11228-3	:	_
+11228-4	"	_
+11228-5	Ecco	_
+11228-6	cosa	_
+11228-7	fare	_
+11228-8	coi	_
+11228-9	migranti	_
+11228-10	"	_
+11228-11	.	_
+11228-12	Così	_
+11228-13	asfalta	_
+11228-14	Boldrini	_
+11228-15	,	_
+11228-16	Kyenge	_
+11228-17	e	_
+11228-18	le	_
+11228-19	altre	_
+11228-20	"	_
+11228-21	verginelle	_
+11228-22	"	_
+
+#Text=Giorgia Meloni, una sonora lezione a Madame Boldrini: "Vergogna, ai profughi case e diritti. Italiani umiliati..."
+11291-1	Giorgia	_
+11291-2	Meloni	_
+11291-3	,	_
+11291-4	una	_
+11291-5	sonora	_
+11291-6	lezione	_
+11291-7	a	_
+11291-8	Madame	_
+11291-9	Boldrini	_
+11291-10	:	_
+11291-11	"	_
+11291-12	Vergogna	_
+11291-13	,	_
+11291-14	ai	_
+11291-15	profughi	_
+11291-16	case	_
+11291-17	e	_
+11291-18	diritti	_
+11291-19	.	_
+11291-20	Italiani	_
+11291-21	umiliati	_
+11291-22	.	_
+11291-23	.	_
+11291-24	.	_
+11291-25	"	_
+
+#Text=Giornalismo in salsa Boldrini: censurata la parola "clandestini"
+11270-1	Giornalismo	_
+11270-2	in	_
+11270-3	salsa	_
+11270-4	Boldrini	_
+11270-5	:	_
+11270-6	censurata	_
+11270-7	la	_
+11270-8	parola	_
+11270-9	"	_
+11270-10	clandestini	_
+11270-11	"	_
+
+#Text=Gli 007 rivelano: se i profughi migrano è colpa del loro smartphone
+10812-1	Gli	_
+10812-2	007	_
+10812-3	rivelano	_
+10812-4	:	_
+10812-5	se	_
+10812-6	i	_
+10812-7	profughi	_
+10812-8	migrano	_
+10812-9	è	_
+10812-10	colpa	_
+10812-11	del	_
+10812-12	loro	_
+10812-13	smartphone	_
+
+#Text=Gli immigrati ci invadono e paghiamo per portarli da noi. Così beffano i nostri militari
+11335-1	Gli	_
+11335-2	immigrati	_
+11335-3	ci	_
+11335-4	invadono	_
+11335-5	e	_
+11335-6	paghiamo	_
+11335-7	per	_
+11335-8	portarli	_
+11335-9	da	_
+11335-10	noi	_
+11335-11	.	_
+11335-12	Così	_
+11335-13	beffano	_
+11335-14	i	_
+11335-15	nostri	_
+11335-16	militari	_
+
+#Text=Gli immigrati coprono Cristo di escrementi. L'orrore in Liguria: ecco il loro water / Foto
+10950-1	Gli	_
+10950-2	immigrati	_
+10950-3	coprono	_
+10950-4	Cristo	_
+10950-5	di	_
+10950-6	escrementi	_
+10950-7	.	_
+10950-8	L'orrore	_
+10950-9	in	_
+10950-10	Liguria	_
+10950-11	:	_
+10950-12	ecco	_
+10950-13	il	_
+10950-14	loro	_
+10950-15	water	_
+10950-16	/	_
+10950-17	Foto	_
+
+#Text=Gli immigrati fanno perdere all'Italia 5 miliardi l'anno
+10976-1	Gli	_
+10976-2	immigrati	_
+10976-3	fanno	_
+10976-4	perdere	_
+10976-5	all'Italia	_
+10976-6	5	_
+10976-7	miliardi	_
+10976-8	l'anno	_
+
+#Text=Gli immigrati godono, gli italiani si infuriano: lo Stato regala a loro una "umile" dimora / Foto
+11154-1	Gli	_
+11154-2	immigrati	_
+11154-3	godono	_
+11154-4	,	_
+11154-5	gli	_
+11154-6	italiani	_
+11154-7	si	_
+11154-8	infuriano	_
+11154-9	:	_
+11154-10	lo	_
+11154-11	Stato	_
+11154-12	regala	_
+11154-13	a	_
+11154-14	loro	_
+11154-15	una	_
+11154-16	"	_
+11154-17	umile	_
+11154-18	"	_
+11154-19	dimora	_
+11154-20	/	_
+11154-21	Foto	_
+
+#Text=Gli immigrati in Italia, cosa rischiano le donne. È la Bongiorno l'anti-Boldrini: la scomoda verità
+11334-1	Gli	_
+11334-2	immigrati	_
+11334-3	in	_
+11334-4	Italia	_
+11334-5	,	_
+11334-6	cosa	_
+11334-7	rischiano	_
+11334-8	le	_
+11334-9	donne	_
+11334-10	.	_
+11334-11	È	_
+11334-12	la	_
+11334-13	Bongiorno	_
+11334-14	l'anti-Boldrini	_
+11334-15	:	_
+11334-16	la	_
+11334-17	scomoda	_
+11334-18	verità	_
+
+#Text=Gli intoccabili clandestini –
+10862-1	Gli	_
+10862-2	intoccabili	_
+10862-3	clandestini	_
+10862-4	–	_
+
+#Text=Gli italiani servi degli immigrati L'ultima vergogna: cosa gli paghiamo
+10834-1	Gli	_
+10834-2	italiani	_
+10834-3	servi	_
+10834-4	degli	_
+10834-5	immigrati	_
+10834-6	L'ultima	_
+10834-7	vergogna	_
+10834-8	:	_
+10834-9	cosa	_
+10834-10	gli	_
+10834-11	paghiamo	_
+
+#Text=Grosseto, migranti a lavoro nell'area archeologica ma il sindaco dice no: "Prima vengano altri"
+10925-1	Grosseto	_
+10925-2	,	_
+10925-3	migranti	_
+10925-4	a	_
+10925-5	lavoro	_
+10925-6	nell'area	_
+10925-7	archeologica	_
+10925-8	ma	_
+10925-9	il	_
+10925-10	sindaco	_
+10925-11	dice	_
+10925-12	no	_
+10925-13	:	_
+10925-14	"	_
+10925-15	Prima	_
+10925-16	vengano	_
+10925-17	altri	_
+10925-18	"	_
+
+#Text=I clandestini occupano il villaggio olimpico di Torino. E Fassino non dice nulla
+11229-1	I	_
+11229-2	clandestini	_
+11229-3	occupano	_
+11229-4	il	_
+11229-5	villaggio	_
+11229-6	olimpico	_
+11229-7	di	_
+11229-8	Torino	_
+11229-9	.	_
+11229-10	E	_
+11229-11	Fassino	_
+11229-12	non	_
+11229-13	dice	_
+11229-14	nulla	_
+
+#Text=I clandestini restano in Italia anche dopo essere espulsi
+11232-1	I	_
+11232-2	clandestini	_
+11232-3	restano	_
+11232-4	in	_
+11232-5	Italia	_
+11232-6	anche	_
+11232-7	dopo	_
+11232-8	essere	_
+11232-9	espulsi	_
+
+#Text=I clandestini sputano sull'Italia: "Vi odiamo: non ci date niente"
+10824-1	I	_
+10824-2	clandestini	_
+10824-3	sputano	_
+10824-4	sull'Italia	_
+10824-5	:	_
+10824-6	"	_
+10824-7	Vi	_
+10824-8	odiamo	_
+10824-9	:	_
+10824-10	non	_
+10824-11	ci	_
+10824-12	date	_
+10824-13	niente	_
+10824-14	"	_
+
+#Text=I clandestini? Fermiamoli prima che sbarchino
+10887-1	I	_
+10887-2	clandestini	_
+10887-3	?	_
+10887-4	Fermiamoli	_
+10887-5	prima	_
+10887-6	che	_
+10887-7	sbarchino	_
+
+#Text=I dieci sindaci che rifiutano i clandestini e vengono denunciati
+11210-1	I	_
+11210-2	dieci	_
+11210-3	sindaci	_
+11210-4	che	_
+11210-5	rifiutano	_
+11210-6	i	_
+11210-7	clandestini	_
+11210-8	e	_
+11210-9	vengono	_
+11210-10	denunciati	_
+
+#Text=I dubbi sui profughi che lasciano le donne: "Come mai le abbandonano in guerra?"
+10875-1	I	_
+10875-2	dubbi	_
+10875-3	sui	_
+10875-4	profughi	_
+10875-5	che	_
+10875-6	lasciano	_
+10875-7	le	_
+10875-8	donne	_
+10875-9	:	_
+10875-10	"	_
+10875-11	Come	_
+10875-12	mai	_
+10875-13	le	_
+10875-14	abbandonano	_
+10875-15	in	_
+10875-16	guerra	_
+10875-17	?	_
+10875-18	"	_
+
+#Text=I pusher richiedenti asilo col portafogli colmo di soldi
+11146-1	I	_
+11146-2	pusher	_
+11146-3	richiedenti	_
+11146-4	asilo	_
+11146-5	col	_
+11146-6	portafogli	_
+11146-7	colmo	_
+11146-8	di	_
+11146-9	soldi	_
+
+#Text=I ragazzini profughi africani? Sequestrano un uomo poi... Terrore nella casa famiglia
+11226-1	I	_
+11226-2	ragazzini	_
+11226-3	profughi	_
+11226-4	africani	_
+11226-5	?	_
+11226-6	Sequestrano	_
+11226-7	un	_
+11226-8	uomo	_
+11226-9	poi	_
+11226-10	.	_
+11226-11	.	_
+11226-12	.	_
+11226-13	Terrore	_
+11226-14	nella	_
+11226-15	casa	_
+11226-16	famiglia	_
+
+#Text=Idomeni, sgomberata la "giungla" del più grande campo profughi d'Europa
+10854-1	Idomeni	_
+10854-2	,	_
+10854-3	sgomberata	_
+10854-4	la	_
+10854-5	"	_
+10854-6	giungla	_
+10854-7	"	_
+10854-8	del	_
+10854-9	più	_
+10854-10	grande	_
+10854-11	campo	_
+10854-12	profughi	_
+10854-13	d'Europa	_
+
+#Text=Il 66% degli italiani è contro gli immigrati
+10895-1	Il	_
+10895-2	66%	_
+10895-3	degli	_
+10895-4	italiani	_
+10895-5	è	_
+10895-6	contro	_
+10895-7	gli	_
+10895-8	immigrati	_
+
+#Text=Il boom di ricorsi dei furbetti che chiedono asilo
+10917-1	Il	_
+10917-2	boom	_
+10917-3	di	_
+10917-4	ricorsi	_
+10917-5	dei	_
+10917-6	furbetti	_
+10917-7	che	_
+10917-8	chiedono	_
+10917-9	asilo	_
+
+#Text=Il cartello del sindaco. Paese invaso da immigrati? E lui li umilia così / Guarda
+10839-1	Il	_
+10839-2	cartello	_
+10839-3	del	_
+10839-4	sindaco	_
+10839-5	.	_
+10839-6	Paese	_
+10839-7	invaso	_
+10839-8	da	_
+10839-9	immigrati	_
+10839-10	?	_
+10839-11	E	_
+10839-12	lui	_
+10839-13	li	_
+10839-14	umilia	_
+10839-15	così	_
+10839-16	/	_
+10839-17	Guarda	_
+
+#Text=Il documento cancella metà Italia. Sarà l'estinzione, addio in 50 anni: quanti saranno gli immigrati
+11312-1	Il	_
+11312-2	documento	_
+11312-3	cancella	_
+11312-4	metà	_
+11312-5	Italia	_
+11312-6	.	_
+11312-7	Sarà	_
+11312-8	l'estinzione	_
+11312-9	,	_
+11312-10	addio	_
+11312-11	in	_
+11312-12	50	_
+11312-13	anni	_
+11312-14	:	_
+11312-15	quanti	_
+11312-16	saranno	_
+11312-17	gli	_
+11312-18	immigrati	_
+
+#Text=Il giudice si arrende: "Il clandestino ci crede un Paese senza regole"
+11350-1	Il	_
+11350-2	giudice	_
+11350-3	si	_
+11350-4	arrende	_
+11350-5	:	_
+11350-6	"	_
+11350-7	Il	_
+11350-8	clandestino	_
+11350-9	ci	_
+11350-10	crede	_
+11350-11	un	_
+11350-12	Paese	_
+11350-13	senza	_
+11350-14	regole	_
+11350-15	"	_
+
+#Text=Il governo pensa a banche e clandestini. Il dovere di dire "prima i terremotati"
+10900-1	Il	_
+10900-2	governo	_
+10900-3	pensa	_
+10900-4	a	_
+10900-5	banche	_
+10900-6	e	_
+10900-7	clandestini	_
+10900-8	.	_
+10900-9	Il	_
+10900-10	dovere	_
+10900-11	di	_
+10900-12	dire	_
+10900-13	"	_
+10900-14	prima	_
+10900-15	i	_
+10900-16	terremotati	_
+10900-17	"	_
+
+#Text=Franco Bechis: Pensano ai migranti e dimenticano i terremotati di Amatrice
+11358-1	Franco	_
+11358-2	Bechis	_
+11358-3	:	_
+11358-4	Pensano	_
+11358-5	ai	_
+11358-6	migranti	_
+11358-7	e	_
+11358-8	dimenticano	_
+11358-9	i	_
+11358-10	terremotati	_
+11358-11	di	_
+11358-12	Amatrice	_
+
+#Text=Per i quarant’anni della Rivoluzione islamica l’Iran testa il missile che può colpire l’Europa
+11090-1	Per	_
+11090-2	i	_
+11090-3	quarant	_
+11090-4	’	_
+11090-5	anni	_
+11090-6	della	_
+11090-7	Rivoluzione	_
+11090-8	islamica	_
+11090-9	l	_
+11090-10	’	_
+11090-11	Iran	_
+11090-12	testa	_
+11090-13	il	_
+11090-14	missile	_
+11090-15	che	_
+11090-16	può	_
+11090-17	colpire	_
+11090-18	l	_
+11090-19	’	_
+11090-20	Europa	_
+
+#Text=Matteo Salvini, il video in cui l'immigrato ammette di essere un migrante economico: "Ringraziate il Pd"
+10921-1	Matteo	_
+10921-2	Salvini	_
+10921-3	,	_
+10921-4	il	_
+10921-5	video	_
+10921-6	in	_
+10921-7	cui	_
+10921-8	l'immigrato	_
+10921-9	ammette	_
+10921-10	di	_
+10921-11	essere	_
+10921-12	un	_
+10921-13	migrante	_
+10921-14	economico	_
+10921-15	:	_
+10921-16	"	_
+10921-17	Ringraziate	_
+10921-18	il	_
+10921-19	Pd	_
+10921-20	"	_
+
+#Text=Accoltellati per una parola di troppo davanti a un locale: gravi due 23enni, fermati tre nomadi
+11084-1	Accoltellati	_
+11084-2	per	_
+11084-3	una	_
+11084-4	parola	_
+11084-5	di	_
+11084-6	troppo	_
+11084-7	davanti	_
+11084-8	a	_
+11084-9	un	_
+11084-10	locale	_
+11084-11	:	_
+11084-12	gravi	_
+11084-13	due	_
+11084-14	23enni	_
+11084-15	,	_
+11084-16	fermati	_
+11084-17	tre	_
+11084-18	nomadi	_
+
+#Text=Calci e pugni alle auto parcheggiate in strada: arrestati due immigrati
+10959-1	Calci	_
+10959-2	e	_
+10959-3	pugni	_
+10959-4	alle	_
+10959-5	auto	_
+10959-6	parcheggiate	_
+10959-7	in	_
+10959-8	strada	_
+10959-9	:	_
+10959-10	arrestati	_
+10959-11	due	_
+10959-12	immigrati	_
+
+#Text=8 marzo, volantino maschilista. Segretario Lega Crotone: "Se tocchi donne, gay e migranti è l'inferno"
+11555-1	8	_
+11555-2	marzo	_
+11555-3	,	_
+11555-4	volantino	_
+11555-5	maschilista	_
+11555-6	.	_
+11555-7	Segretario	_
+11555-8	Lega	_
+11555-9	Crotone	_
+11555-10	:	_
+11555-11	"	_
+11555-12	Se	_
+11555-13	tocchi	_
+11555-14	donne	_
+11555-15	,	_
+11555-16	gay	_
+11555-17	e	_
+11555-18	migranti	_
+11555-19	è	_
+11555-20	l'inferno	_
+11555-21	"	_
+
+#Text=Rogo tossico dal campo nomadi di Castel Romano, a Pomezia residenti barricati in casa
+11340-1	Rogo	_
+11340-2	tossico	_
+11340-3	dal	_
+11340-4	campo	_
+11340-5	nomadi	_
+11340-6	di	_
+11340-7	Castel	_
+11340-8	Romano	_
+11340-9	,	_
+11340-10	a	_
+11340-11	Pomezia	_
+11340-12	residenti	_
+11340-13	barricati	_
+11340-14	in	_
+11340-15	casa	_
+
+#Text=Basilicata, Salvini sbeffeggia oppositore: "Avrai la gioia di mantenere a vita dieci bei migranti"
+11378-1	Basilicata	_
+11378-2	,	_
+11378-3	Salvini	_
+11378-4	sbeffeggia	_
+11378-5	oppositore	_
+11378-6	:	_
+11378-7	"	_
+11378-8	Avrai	_
+11378-9	la	_
+11378-10	gioia	_
+11378-11	di	_
+11378-12	mantenere	_
+11378-13	a	_
+11378-14	vita	_
+11378-15	dieci	_
+11378-16	bei	_
+11378-17	migranti	_
+11378-18	"	_
+
+#Text=Matera, Salvini contestato durante il comizio. E lui risponde: "Bravi, avete vinto dieci immigrati da mantenere"
+11540-1	Matera	_
+11540-2	,	_
+11540-3	Salvini	_
+11540-4	contestato	_
+11540-5	durante	_
+11540-6	il	_
+11540-7	comizio	_
+11540-8	.	_
+11540-9	E	_
+11540-10	lui	_
+11540-11	risponde	_
+11540-12	:	_
+11540-13	"	_
+11540-14	Bravi	_
+11540-15	,	_
+11540-16	avete	_
+11540-17	vinto	_
+11540-18	dieci	_
+11540-19	immigrati	_
+11540-20	da	_
+11540-21	mantenere	_
+11540-22	"	_
+
+#Text=Brucia il campo nomadi a Monti Tiburtini. La paura dei residenti: "L'avevamo detto"
+11276-1	Brucia	_
+11276-2	il	_
+11276-3	campo	_
+11276-4	nomadi	_
+11276-5	a	_
+11276-6	Monti	_
+11276-7	Tiburtini	_
+11276-8	.	_
+11276-9	La	_
+11276-10	paura	_
+11276-11	dei	_
+11276-12	residenti	_
+11276-13	:	_
+11276-14	"	_
+11276-15	L'avevamo	_
+11276-16	detto	_
+11276-17	"	_
+
+#Text=Torino, ragazza violentata da un migrante nel parco dopo la discoteca
+11281-1	Torino	_
+11281-2	,	_
+11281-3	ragazza	_
+11281-4	violentata	_
+11281-5	da	_
+11281-6	un	_
+11281-7	migrante	_
+11281-8	nel	_
+11281-9	parco	_
+11281-10	dopo	_
+11281-11	la	_
+11281-12	discoteca	_
+
+#Text=A Lampedusa due sbarchi di migranti in 24 ore con il trucco della «nave madre»
+11271-1	A	_
+11271-2	Lampedusa	_
+11271-3	due	_
+11271-4	sbarchi	_
+11271-5	di	_
+11271-6	migranti	_
+11271-7	in	_
+11271-8	24	_
+11271-9	ore	_
+11271-10	con	_
+11271-11	il	_
+11271-12	trucco	_
+11271-13	della	_
+11271-14	«	_
+11271-15	nave	_
+11271-16	madre	_
+11271-17	»	_
+
+#Text=Roma, vince la rivolta dei cittadini contro i rom: Virginia Raggi si arrende, dove "piazza" i nomadi
+11091-1	Roma	_
+11091-2	,	_
+11091-3	vince	_
+11091-4	la	_
+11091-5	rivolta	_
+11091-6	dei	_
+11091-7	cittadini	_
+11091-8	contro	_
+11091-9	i	_
+11091-10	rom	_
+11091-11	:	_
+11091-12	Virginia	_
+11091-13	Raggi	_
+11091-14	si	_
+11091-15	arrende	_
+11091-16	,	_
+11091-17	dove	_
+11091-18	"	_
+11091-19	piazza	_
+11091-20	"	_
+11091-21	i	_
+11091-22	nomadi	_
+
+#Text=Dramma-Striscia la Notizia, la mossa tragica di Brumotti: aggredito da dieci immigrati, finisce malissimo
+10818-1	Dramma-Striscia	_
+10818-2	la	_
+10818-3	Notizia	_
+10818-4	,	_
+10818-5	la	_
+10818-6	mossa	_
+10818-7	tragica	_
+10818-8	di	_
+10818-9	Brumotti	_
+10818-10	:	_
+10818-11	aggredito	_
+10818-12	da	_
+10818-13	dieci	_
+10818-14	immigrati	_
+10818-15	,	_
+10818-16	finisce	_
+10818-17	malissimo	_
+
+#Text=Falsi permessi di soggiorno: tutti assolti gli immigrati coinvolti
+10835-1	Falsi	_
+10835-2	permessi	_
+10835-3	di	_
+10835-4	soggiorno	_
+10835-5	:	_
+10835-6	tutti	_
+10835-7	assolti	_
+10835-8	gli	_
+10835-9	immigrati	_
+10835-10	coinvolti	_
+
+#Text=Farmaci: 4000 vaccini tifo e 1000 test Tbc a centro richiedenti asilo Sicilia (2)
+10923-1	Farmaci	_
+10923-2	:	_
+10923-3	4000	_
+10923-4	vaccini	_
+10923-5	tifo	_
+10923-6	e	_
+10923-7	1000	_
+10923-8	test	_
+10923-9	Tbc	_
+10923-10	a	_
+10923-11	centro	_
+10923-12	richiedenti	_
+10923-13	asilo	_
+10923-14	Sicilia	_
+10923-15	(	_
+10923-16	2	_
+10923-17	)	_
+
+#Text=Finanzia l'invasione degli immigrati: ecco la prova. La vergogna di George Soros, "padrone" d'Italia
+10941-1	Finanzia	_
+10941-2	l'invasione	_
+10941-3	degli	_
+10941-4	immigrati	_
+10941-5	:	_
+10941-6	ecco	_
+10941-7	la	_
+10941-8	prova	_
+10941-9	.	_
+10941-10	La	_
+10941-11	vergogna	_
+10941-12	di	_
+10941-13	George	_
+10941-14	Soros	_
+10941-15	,	_
+10941-16	"	_
+10941-17	padrone	_
+10941-18	"	_
+10941-19	d'Italia	_
+
+#Text=Formaggi, olio, pomodori e vino: il lavoro degli immigrati che mantiene vive le nostre campagne
+11287-1	Formaggi	_
+11287-2	,	_
+11287-3	olio	_
+11287-4	,	_
+11287-5	pomodori	_
+11287-6	e	_
+11287-7	vino	_
+11287-8	:	_
+11287-9	il	_
+11287-10	lavoro	_
+11287-11	degli	_
+11287-12	immigrati	_
+11287-13	che	_
+11287-14	mantiene	_
+11287-15	vive	_
+11287-16	le	_
+11287-17	nostre	_
+11287-18	campagne	_
+
+#Text=Germania, boom di immigrati italiani
+10891-1	Germania	_
+10891-2	,	_
+10891-3	boom	_
+10891-4	di	_
+10891-5	immigrati	_
+10891-6	italiani	_
+
+#Text=I migranti della Sea Watch in sette Paesi Salvini: "Missione compiuta"
+11024-1	I	_
+11024-2	migranti	_
+11024-3	della	_
+11024-4	Sea	_
+11024-5	Watch	_
+11024-6	in	_
+11024-7	sette	_
+11024-8	Paesi	_
+11024-9	Salvini	_
+11024-10	:	_
+11024-11	"	_
+11024-12	Missione	_
+11024-13	compiuta	_
+11024-14	"	_
+
+#Text=Sea Watch questa mattina a Catania, ok da 6 Paesi per accogliere i migranti
+11457-1	Sea	_
+11457-2	Watch	_
+11457-3	questa	_
+11457-4	mattina	_
+11457-5	a	_
+11457-6	Catania	_
+11457-7	,	_
+11457-8	ok	_
+11457-9	da	_
+11457-10	6	_
+11457-11	Paesi	_
+11457-12	per	_
+11457-13	accogliere	_
+11457-14	i	_
+11457-15	migranti	_
+
+#Text=#fateliscendere, a Bari il flash mob al Fortino per i migranti della Sea Watch
+11400-1	#	_
+11400-2	fateliscendere	_
+11400-3	,	_
+11400-4	a	_
+11400-5	Bari	_
+11400-6	il	_
+11400-7	flash	_
+11400-8	mob	_
+11400-9	al	_
+11400-10	Fortino	_
+11400-11	per	_
+11400-12	i	_
+11400-13	migranti	_
+11400-14	della	_
+11400-15	Sea	_
+11400-16	Watch	_
+
+#Text=Le periferie, i migranti e il bisogno di sicurezza
+11059-1	Le	_
+11059-2	periferie	_
+11059-3	,	_
+11059-4	i	_
+11059-5	migranti	_
+11059-6	e	_
+11059-7	il	_
+11059-8	bisogno	_
+11059-9	di	_
+11059-10	sicurezza	_
+
+#Text=A Catania i 47 migranti della Sea Watch: “Saranno accolti in sette Stati europei”
+11469-1	A	_
+11469-2	Catania	_
+11469-3	i	_
+11469-4	47	_
+11469-5	migranti	_
+11469-6	della	_
+11469-7	Sea	_
+11469-8	Watch	_
+11469-9	:	_
+11469-10	“	_
+11469-11	Saranno	_
+11469-12	accolti	_
+11469-13	in	_
+11469-14	sette	_
+11469-15	Stati	_
+11469-16	europei	_
+11469-17	”	_
+
+#Text=Sea Watch, lo sbarco a Catania: festa tra gli immigrati, parte il circo contro Matteo Salvini
+11086-1	Sea	_
+11086-2	Watch	_
+11086-3	,	_
+11086-4	lo	_
+11086-5	sbarco	_
+11086-6	a	_
+11086-7	Catania	_
+11086-8	:	_
+11086-9	festa	_
+11086-10	tra	_
+11086-11	gli	_
+11086-12	immigrati	_
+11086-13	,	_
+11086-14	parte	_
+11086-15	il	_
+11086-16	circo	_
+11086-17	contro	_
+11086-18	Matteo	_
+11086-19	Salvini	_
+
+#Text=Sea Watch a Catania, applausi per ogni migrante che scende dalla nave
+11439-1	Sea	_
+11439-2	Watch	_
+11439-3	a	_
+11439-4	Catania	_
+11439-5	,	_
+11439-6	applausi	_
+11439-7	per	_
+11439-8	ogni	_
+11439-9	migrante	_
+11439-10	che	_
+11439-11	scende	_
+11439-12	dalla	_
+11439-13	nave	_
+
+#Text=Di Maio e gli 8 pannelli sui risultati del Governo: "Non si può parlare solo di immigrazione"
+10998-1	Di	_
+10998-2	Maio	_
+10998-3	e	_
+10998-4	gli	_
+10998-5	8	_
+10998-6	pannelli	_
+10998-7	sui	_
+10998-8	risultati	_
+10998-9	del	_
+10998-10	Governo	_
+10998-11	:	_
+10998-12	"	_
+10998-13	Non	_
+10998-14	si	_
+10998-15	può	_
+10998-16	parlare	_
+10998-17	solo	_
+10998-18	di	_
+10998-19	immigrazione	_
+10998-20	"	_
+
+#Text=Emirati Arabi, il vescovo Hinder: “Così cristiani e musulmani aspettano il Papa”
+11177-1	Emirati	_
+11177-2	Arabi	_
+11177-3	,	_
+11177-4	il	_
+11177-5	vescovo	_
+11177-6	Hinder	_
+11177-7	:	_
+11177-8	“	_
+11177-9	Così	_
+11177-10	cristiani	_
+11177-11	e	_
+11177-12	musulmani	_
+11177-13	aspettano	_
+11177-14	il	_
+11177-15	Papa	_
+11177-16	”	_
+
+#Text=Montalbano, i nuovi episodi tra migranti e vecchie storie del '43
+11050-1	Montalbano	_
+11050-2	,	_
+11050-3	i	_
+11050-4	nuovi	_
+11050-5	episodi	_
+11050-6	tra	_
+11050-7	migranti	_
+11050-8	e	_
+11050-9	vecchie	_
+11050-10	storie	_
+11050-11	del	_
+11050-12	'	_
+11050-13	43	_
+
+#Text=Montalbano salva i migranti, caos in Rai sul commissario
+11207-1	Montalbano	_
+11207-2	salva	_
+11207-3	i	_
+11207-4	migranti	_
+11207-5	,	_
+11207-6	caos	_
+11207-7	in	_
+11207-8	Rai	_
+11207-9	sul	_
+11207-10	commissario	_
+
+#Text=Studentessa picchiata dall'ex, a Bari presidio di solidarietà: "Per le migranti tutto più difficile"
+11471-1	Studentessa	_
+11471-2	picchiata	_
+11471-3	dall'ex	_
+11471-4	,	_
+11471-5	a	_
+11471-6	Bari	_
+11471-7	presidio	_
+11471-8	di	_
+11471-9	solidarietà	_
+11471-10	:	_
+11471-11	"	_
+11471-12	Per	_
+11471-13	le	_
+11471-14	migranti	_
+11471-15	tutto	_
+11471-16	più	_
+11471-17	difficile	_
+11471-18	"	_
+
+#Text=Palermo, Leoluca Orlando iscrive all'anagrafe quattro stranieri: "Obbligo del sindaco è rispettare la Costituzione"
+11018-1	Palermo	_
+11018-2	,	_
+11018-3	Leoluca	_
+11018-4	Orlando	_
+11018-5	iscrive	_
+11018-6	all'anagrafe	_
+11018-7	quattro	_
+11018-8	stranieri	_
+11018-9	:	_
+11018-10	"	_
+11018-11	Obbligo	_
+11018-12	del	_
+11018-13	sindaco	_
+11018-14	è	_
+11018-15	rispettare	_
+11018-16	la	_
+11018-17	Costituzione	_
+11018-18	"	_
+
+#Text=Salvini contestato a Giulianova: "Assassino di m...". E lui replica: "Hai vinto dieci immigrati a casa tua"
+11321-1	Salvini	_
+11321-2	contestato	_
+11321-3	a	_
+11321-4	Giulianova	_
+11321-5	:	_
+11321-6	"	_
+11321-7	Assassino	_
+11321-8	di	_
+11321-9	m	_
+11321-10	.	_
+11321-11	.	_
+11321-12	.	_
+11321-13	"	_
+11321-14	.	_
+11321-15	E	_
+11321-16	lui	_
+11321-17	replica	_
+11321-18	:	_
+11321-19	"	_
+11321-20	Hai	_
+11321-21	vinto	_
+11321-22	dieci	_
+11321-23	immigrati	_
+11321-24	a	_
+11321-25	casa	_
+11321-26	tua	_
+11321-27	"	_
+
+#Text=Diciotti e Sea Watch, Matteo Salvini e il sondaggio-plebiscito sui migranti. Suicidio Pd: "Il processo..."
+11204-1	Diciotti	_
+11204-2	e	_
+11204-3	Sea	_
+11204-4	Watch	_
+11204-5	,	_
+11204-6	Matteo	_
+11204-7	Salvini	_
+11204-8	e	_
+11204-9	il	_
+11204-10	sondaggio-plebiscito	_
+11204-11	sui	_
+11204-12	migranti	_
+11204-13	.	_
+11204-14	Suicidio	_
+11204-15	Pd	_
+11204-16	:	_
+11204-17	"	_
+11204-18	Il	_
+11204-19	processo	_
+11204-20	.	_
+11204-21	.	_
+11204-22	.	_
+11204-23	"	_
+
+#Text=Auto pirata uccide due migranti in bicicletta a Villa Literno
+11466-1	Auto	_
+11466-2	pirata	_
+11466-3	uccide	_
+11466-4	due	_
+11466-5	migranti	_
+11466-6	in	_
+11466-7	bicicletta	_
+11466-8	a	_
+11466-9	Villa	_
+11466-10	Literno	_
+
+#Text=Qualcuno urla 'assassino' a Salvini. E il vicepremier risponde: "Hai vinto dieci immigrati a casa tua"
+11477-1	Qualcuno	_
+11477-2	urla	_
+11477-3	'	_
+11477-4	assassino	_
+11477-5	'	_
+11477-6	a	_
+11477-7	Salvini	_
+11477-8	.	_
+11477-9	E	_
+11477-10	il	_
+11477-11	vicepremier	_
+11477-12	risponde	_
+11477-13	:	_
+11477-14	"	_
+11477-15	Hai	_
+11477-16	vinto	_
+11477-17	dieci	_
+11477-18	immigrati	_
+11477-19	a	_
+11477-20	casa	_
+11477-21	tua	_
+11477-22	"	_
+
+#Text=Caserta, immigrati in bici travolti e uccisi da auto:  preso il pirata. «Ho sentito urto, ma  non avevo capito»
+11129-1	Caserta	_
+11129-2	,	_
+11129-3	immigrati	_
+11129-4	in	_
+11129-5	bici	_
+11129-6	travolti	_
+11129-7	e	_
+11129-8	uccisi	_
+11129-9	da	_
+11129-10	auto	_
+11129-11	:	_
+11129-12	preso	_
+11129-13	il	_
+11129-14	pirata	_
+11129-15	.	_
+11129-16	«	_
+11129-17	Ho	_
+11129-18	sentito	_
+11129-19	urto	_
+11129-20	,	_
+11129-21	ma	_
+11129-22	non	_
+11129-23	avevo	_
+11129-24	capito	_
+11129-25	»	_
+
+#Text=Sanremo 2019, la domanda sugli immigrati fa sbroccare Claudio Bisio in conferenza stampa
+10916-1	Sanremo	_
+10916-2	2019	_
+10916-3	,	_
+10916-4	la	_
+10916-5	domanda	_
+10916-6	sugli	_
+10916-7	immigrati	_
+10916-8	fa	_
+10916-9	sbroccare	_
+10916-10	Claudio	_
+10916-11	Bisio	_
+10916-12	in	_
+10916-13	conferenza	_
+10916-14	stampa	_
+
+#Text=Lo dico al Corriere - Perché i migranti africani continuano a partire
+11217-1	Lo	_
+11217-2	dico	_
+11217-3	al	_
+11217-4	Corriere	_
+11217-5	-	_
+11217-6	Perché	_
+11217-7	i	_
+11217-8	migranti	_
+11217-9	africani	_
+11217-10	continuano	_
+11217-11	a	_
+11217-12	partire	_
+
+#Text=Sanremo 2019, Pio e Amedeo contro Matteo Salvini sugli immigrati: il ministro risponde
+11379-1	Sanremo	_
+11379-2	2019	_
+11379-3	,	_
+11379-4	Pio	_
+11379-5	e	_
+11379-6	Amedeo	_
+11379-7	contro	_
+11379-8	Matteo	_
+11379-9	Salvini	_
+11379-10	sugli	_
+11379-11	immigrati	_
+11379-12	:	_
+11379-13	il	_
+11379-14	ministro	_
+11379-15	risponde	_
+
+#Text=Gad Lerner e il dossier che inchioda la sinistra: armi, immigrati e navi. Altroché Diciotti
+11348-1	Gad	_
+11348-2	Lerner	_
+11348-3	e	_
+11348-4	il	_
+11348-5	dossier	_
+11348-6	che	_
+11348-7	inchioda	_
+11348-8	la	_
+11348-9	sinistra	_
+11348-10	:	_
+11348-11	armi	_
+11348-12	,	_
+11348-13	immigrati	_
+11348-14	e	_
+11348-15	navi	_
+11348-16	.	_
+11348-17	Altroché	_
+11348-18	Diciotti	_
+
+#Text=Cara Mineo, partiti sul bus i primi 25 migranti che verranno trasferiti
+10808-1	Cara	_
+10808-2	Mineo	_
+10808-3	,	_
+10808-4	partiti	_
+10808-5	sul	_
+10808-6	bus	_
+10808-7	i	_
+10808-8	primi	_
+10808-9	25	_
+10808-10	migranti	_
+10808-11	che	_
+10808-12	verranno	_
+10808-13	trasferiti	_
+
+#Text=Cerca di varcare confine: giovane migrante muore assiderato tra l'Italia e la Francia
+11038-1	Cerca	_
+11038-2	di	_
+11038-3	varcare	_
+11038-4	confine	_
+11038-5	:	_
+11038-6	giovane	_
+11038-7	migrante	_
+11038-8	muore	_
+11038-9	assiderato	_
+11038-10	tra	_
+11038-11	l'Italia	_
+11038-12	e	_
+11038-13	la	_
+11038-14	Francia	_
+
+#Text=Crollano le nascite (-9%), sempre meno italiani: stranieri oltre i cinque milioni
+11076-1	Crollano	_
+11076-2	le	_
+11076-3	nascite	_
+11076-4	(	_
+11076-5	-	_
+11076-6	9%	_
+11076-7	)	_
+11076-8	,	_
+11076-9	sempre	_
+11076-10	meno	_
+11076-11	italiani	_
+11076-12	:	_
+11076-13	stranieri	_
+11076-14	oltre	_
+11076-15	i	_
+11076-16	cinque	_
+11076-17	milioni	_
+
+#Text=Sesto San Giovanni, bando anti-stranieri per le case popolari: solo due assegnazioni su 39 nella ex Stalingrado d'Italia
+10962-1	Sesto	_
+10962-2	San	_
+10962-3	Giovanni	_
+10962-4	,	_
+10962-5	bando	_
+10962-6	anti-stranieri	_
+10962-7	per	_
+10962-8	le	_
+10962-9	case	_
+10962-10	popolari	_
+10962-11	:	_
+10962-12	solo	_
+10962-13	due	_
+10962-14	assegnazioni	_
+10962-15	su	_
+10962-16	39	_
+10962-17	nella	_
+10962-18	ex	_
+10962-19	Stalingrado	_
+10962-20	d'Italia	_
+
+#Text=Sea Watch, Viminale: "Dietrofront di Parigi, non prende migranti economici. Promettono di aiutarci a rimpatriarli"
+11149-1	Sea	_
+11149-2	Watch	_
+11149-3	,	_
+11149-4	Viminale	_
+11149-5	:	_
+11149-6	"	_
+11149-7	Dietrofront	_
+11149-8	di	_
+11149-9	Parigi	_
+11149-10	,	_
+11149-11	non	_
+11149-12	prende	_
+11149-13	migranti	_
+11149-14	economici	_
+11149-15	.	_
+11149-16	Promettono	_
+11149-17	di	_
+11149-18	aiutarci	_
+11149-19	a	_
+11149-20	rimpatriarli	_
+11149-21	"	_
+
+#Text=Sea Watch, vendetta di Macron sui migranti: "La Francia non li prende più". Salvini lo frega: "Allora..."
+10964-1	Sea	_
+10964-2	Watch	_
+10964-3	,	_
+10964-4	vendetta	_
+10964-5	di	_
+10964-6	Macron	_
+10964-7	sui	_
+10964-8	migranti	_
+10964-9	:	_
+10964-10	"	_
+10964-11	La	_
+10964-12	Francia	_
+10964-13	non	_
+10964-14	li	_
+10964-15	prende	_
+10964-16	più	_
+10964-17	"	_
+10964-18	.	_
+10964-19	Salvini	_
+10964-20	lo	_
+10964-21	frega	_
+10964-22	:	_
+10964-23	"	_
+10964-24	Allora	_
+10964-25	.	_
+10964-26	.	_
+10964-27	.	_
+10964-28	"	_
+
+#Text=Sea Watch, il Viminale: “La Francia non vuole più i migranti”
+11445-1	Sea	_
+11445-2	Watch	_
+11445-3	,	_
+11445-4	il	_
+11445-5	Viminale	_
+11445-6	:	_
+11445-7	“	_
+11445-8	La	_
+11445-9	Francia	_
+11445-10	non	_
+11445-11	vuole	_
+11445-12	più	_
+11445-13	i	_
+11445-14	migranti	_
+11445-15	”	_
+
+#Text=Il Papa riceve l'Anm: vuoti legislativi su vita, famiglia e migranti
+11071-1	Il	_
+11071-2	Papa	_
+11071-3	riceve	_
+11071-4	l'Anm	_
+11071-5	:	_
+11071-6	vuoti	_
+11071-7	legislativi	_
+11071-8	su	_
+11071-9	vita	_
+11071-10	,	_
+11071-11	famiglia	_
+11071-12	e	_
+11071-13	migranti	_
+
+#Text=Bari, incendio al Cara: i migranti aiutano a spegnere le fiamme
+10990-1	Bari	_
+10990-2	,	_
+10990-3	incendio	_
+10990-4	al	_
+10990-5	Cara	_
+10990-6	:	_
+10990-7	i	_
+10990-8	migranti	_
+10990-9	aiutano	_
+10990-10	a	_
+10990-11	spegnere	_
+10990-12	le	_
+10990-13	fiamme	_
+
+#Text=Teologi cattolici e musulmani alleati per costruire coesione
+11465-1	Teologi	_
+11465-2	cattolici	_
+11465-3	e	_
+11465-4	musulmani	_
+11465-5	alleati	_
+11465-6	per	_
+11465-7	costruire	_
+11465-8	coesione	_
+
+#Text=Polemica su Montalbano: “Fa propaganda pro migranti”. Il web si divide e twitta anche Salvini
+11286-1	Polemica	_
+11286-2	su	_
+11286-3	Montalbano	_
+11286-4	:	_
+11286-5	“	_
+11286-6	Fa	_
+11286-7	propaganda	_
+11286-8	pro	_
+11286-9	migranti	_
+11286-10	”	_
+11286-11	.	_
+11286-12	Il	_
+11286-13	web	_
+11286-14	si	_
+11286-15	divide	_
+11286-16	e	_
+11286-17	twitta	_
+11286-18	anche	_
+11286-19	Salvini	_
+
+#Text=Luigi Patronaggio, il pm anti-Salvini chiama a lavorare in procura sei immigrati
+10955-1	Luigi	_
+10955-2	Patronaggio	_
+10955-3	,	_
+10955-4	il	_
+10955-5	pm	_
+10955-6	anti-Salvini	_
+10955-7	chiama	_
+10955-8	a	_
+10955-9	lavorare	_
+10955-10	in	_
+10955-11	procura	_
+10955-12	sei	_
+10955-13	immigrati	_
+
+#Text=Una tuta con il velo per convincere le studentesse musulmane a fare sport: l'idea di un ateneo inglese
+11077-1	Una	_
+11077-2	tuta	_
+11077-3	con	_
+11077-4	il	_
+11077-5	velo	_
+11077-6	per	_
+11077-7	convincere	_
+11077-8	le	_
+11077-9	studentesse	_
+11077-10	musulmane	_
+11077-11	a	_
+11077-12	fare	_
+11077-13	sport	_
+11077-14	:	_
+11077-15	l'idea	_
+11077-16	di	_
+11077-17	un	_
+11077-18	ateneo	_
+11077-19	inglese	_
+
+#Text=A Ormea i migranti salvano i castagneti, ma forse il Decreto Sicurezza li farà andare via
+11060-1	A	_
+11060-2	Ormea	_
+11060-3	i	_
+11060-4	migranti	_
+11060-5	salvano	_
+11060-6	i	_
+11060-7	castagneti	_
+11060-8	,	_
+11060-9	ma	_
+11060-10	forse	_
+11060-11	il	_
+11060-12	Decreto	_
+11060-13	Sicurezza	_
+11060-14	li	_
+11060-15	farà	_
+11060-16	andare	_
+11060-17	via	_
+
+#Text=Polizia francese spruzza spray sul treno per stanare i migranti dalla toilette
+11200-1	Polizia	_
+11200-2	francese	_
+11200-3	spruzza	_
+11200-4	spray	_
+11200-5	sul	_
+11200-6	treno	_
+11200-7	per	_
+11200-8	stanare	_
+11200-9	i	_
+11200-10	migranti	_
+11200-11	dalla	_
+11200-12	toilette	_
+
+#Text=Emmanuel Macron, la Francia stana immigrati con lo spray urticante: ha ancora il coraggio di farci la morale?
+10995-1	Emmanuel	_
+10995-2	Macron	_
+10995-3	,	_
+10995-4	la	_
+10995-5	Francia	_
+10995-6	stana	_
+10995-7	immigrati	_
+10995-8	con	_
+10995-9	lo	_
+10995-10	spray	_
+10995-11	urticante	_
+10995-12	:	_
+10995-13	ha	_
+10995-14	ancora	_
+10995-15	il	_
+10995-16	coraggio	_
+10995-17	di	_
+10995-18	farci	_
+10995-19	la	_
+10995-20	morale	_
+10995-21	?	_
+
+#Text=Simone Cristicchi: “Canto per non dimenticare i profughi istriani”
+10848-1	Simone	_
+10848-2	Cristicchi	_
+10848-3	:	_
+10848-4	“	_
+10848-5	Canto	_
+10848-6	per	_
+10848-7	non	_
+10848-8	dimenticare	_
+10848-9	i	_
+10848-10	profughi	_
+10848-11	istriani	_
+10848-12	”	_
+
+#Text=Rogo San Ferdinando: disperazione rabbia e rassegnazione tra i migranti dopo l'incendio
+10813-1	Rogo	_
+10813-2	San	_
+10813-3	Ferdinando	_
+10813-4	:	_
+10813-5	disperazione	_
+10813-6	rabbia	_
+10813-7	e	_
+10813-8	rassegnazione	_
+10813-9	tra	_
+10813-10	i	_
+10813-11	migranti	_
+10813-12	dopo	_
+10813-13	l'incendio	_
+
+#Text=Premio a "La paranza dei bambini".  Il solito Saviano: lo dedica a Ong e migranti
+11455-1	Premio	_
+11455-2	a	_
+11455-3	"	_
+11455-4	La	_
+11455-5	paranza	_
+11455-6	dei	_
+11455-7	bambini	_
+11455-8	"	_
+11455-9	.	_
+11455-10	Il	_
+11455-11	solito	_
+11455-12	Saviano	_
+11455-13	:	_
+11455-14	lo	_
+11455-15	dedica	_
+11455-16	a	_
+11455-17	Ong	_
+11455-18	e	_
+11455-19	migranti	_
+
+#Text=Tiziano Renzi ai domiciliari, la finta coop per guadagnare di più e quei pagamenti fantasma agli immigrati
+10984-1	Tiziano	_
+10984-2	Renzi	_
+10984-3	ai	_
+10984-4	domiciliari	_
+10984-5	,	_
+10984-6	la	_
+10984-7	finta	_
+10984-8	coop	_
+10984-9	per	_
+10984-10	guadagnare	_
+10984-11	di	_
+10984-12	più	_
+10984-13	e	_
+10984-14	quei	_
+10984-15	pagamenti	_
+10984-16	fantasma	_
+10984-17	agli	_
+10984-18	immigrati	_
+
+#Text=Pure l'Antitrust contro Matteo Salvini: "No alla tassa sulle rimesse degli immigrati"
+10885-1	Pure	_
+10885-2	l'Antitrust	_
+10885-3	contro	_
+10885-4	Matteo	_
+10885-5	Salvini	_
+10885-6	:	_
+10885-7	"	_
+10885-8	No	_
+10885-9	alla	_
+10885-10	tassa	_
+10885-11	sulle	_
+10885-12	rimesse	_
+10885-13	degli	_
+10885-14	immigrati	_
+10885-15	"	_
+
+#Text=Emozione a Ceraso, 13 piccoli migranti diventano cittadini onorari. Don Ciotti: "Altri Comuni seguano l'esempio"
+11458-1	Emozione	_
+11458-2	a	_
+11458-3	Ceraso	_
+11458-4	,	_
+11458-5	13	_
+11458-6	piccoli	_
+11458-7	migranti	_
+11458-8	diventano	_
+11458-9	cittadini	_
+11458-10	onorari	_
+11458-11	.	_
+11458-12	Don	_
+11458-13	Ciotti	_
+11458-14	:	_
+11458-15	"	_
+11458-16	Altri	_
+11458-17	Comuni	_
+11458-18	seguano	_
+11458-19	l'esempio	_
+11458-20	"	_
+
+#Text=E adesso la Spagna buonista rimanda i migranti in Marocco
+11370-1	E	_
+11370-2	adesso	_
+11370-3	la	_
+11370-4	Spagna	_
+11370-5	buonista	_
+11370-6	rimanda	_
+11370-7	i	_
+11370-8	migranti	_
+11370-9	in	_
+11370-10	Marocco	_
+
+#Text=Diciotti: migranti costretti a restare a bordo chiedono un risarcimento all’Italia
+10977-1	Diciotti	_
+10977-2	:	_
+10977-3	migranti	_
+10977-4	costretti	_
+10977-5	a	_
+10977-6	restare	_
+10977-7	a	_
+10977-8	bordo	_
+10977-9	chiedono	_
+10977-10	un	_
+10977-11	risarcimento	_
+10977-12	all	_
+10977-13	’	_
+10977-14	Italia	_
+
+#Text=Diciotti, 41 migranti chiedono i danni a Salvini
+11045-1	Diciotti	_
+11045-2	,	_
+11045-3	41	_
+11045-4	migranti	_
+11045-5	chiedono	_
+11045-6	i	_
+11045-7	danni	_
+11045-8	a	_
+11045-9	Salvini	_
+
+#Text=Nave Diciotti, migranti chiedono risarcimento a Salvini e Conte
+11249-1	Nave	_
+11249-2	Diciotti	_
+11249-3	,	_
+11249-4	migranti	_
+11249-5	chiedono	_
+11249-6	risarcimento	_
+11249-7	a	_
+11249-8	Salvini	_
+11249-9	e	_
+11249-10	Conte	_
+
+#Text=I migranti della Diciotti fanno causa: "Adesso Salvini ci paghi i danni"
+11454-1	I	_
+11454-2	migranti	_
+11454-3	della	_
+11454-4	Diciotti	_
+11454-5	fanno	_
+11454-6	causa	_
+11454-7	:	_
+11454-8	"	_
+11454-9	Adesso	_
+11454-10	Salvini	_
+11454-11	ci	_
+11454-12	paghi	_
+11454-13	i	_
+11454-14	danni	_
+11454-15	"	_
+
+#Text=Costretti a rimanere sulla Diciotti. Ora i migranti vogliono il risarcimento
+10800-1	Costretti	_
+10800-2	a	_
+10800-3	rimanere	_
+10800-4	sulla	_
+10800-5	Diciotti	_
+10800-6	.	_
+10800-7	Ora	_
+10800-8	i	_
+10800-9	migranti	_
+10800-10	vogliono	_
+10800-11	il	_
+10800-12	risarcimento	_
+
+#Text=Diciotti, legale dei migranti: "Salvini ha responsabilità e ride? Pensa di stare a Masterchef o al Viminale?"
+11298-1	Diciotti	_
+11298-2	,	_
+11298-3	legale	_
+11298-4	dei	_
+11298-5	migranti	_
+11298-6	:	_
+11298-7	"	_
+11298-8	Salvini	_
+11298-9	ha	_
+11298-10	responsabilità	_
+11298-11	e	_
+11298-12	ride	_
+11298-13	?	_
+11298-14	Pensa	_
+11298-15	di	_
+11298-16	stare	_
+11298-17	a	_
+11298-18	Masterchef	_
+11298-19	o	_
+11298-20	al	_
+11298-21	Viminale	_
+11298-22	?	_
+11298-23	"	_
+
+#Text=«Attentato del cantante gay islamico» Una fiction fa litigare Francia e Israele
+10919-1	«	_
+10919-2	Attentato	_
+10919-3	del	_
+10919-4	cantante	_
+10919-5	gay	_
+10919-6	islamico	_
+10919-7	»	_
+10919-8	Una	_
+10919-9	fiction	_
+10919-10	fa	_
+10919-11	litigare	_
+10919-12	Francia	_
+10919-13	e	_
+10919-14	Israele	_
+
+#Text=Accusa bimbo rom di furto e lo ferisce con una lama: arrestato
+10974-1	Accusa	_
+10974-2	bimbo	_
+10974-3	rom	_
+10974-4	di	_
+10974-5	furto	_
+10974-6	e	_
+10974-7	lo	_
+10974-8	ferisce	_
+10974-9	con	_
+10974-10	una	_
+10974-11	lama	_
+10974-12	:	_
+10974-13	arrestato	_
+
+#Text=I volontari francesi: in un anno 30 migranti morti nel tentativo di attraversare le Alpi
+11186-1	I	_
+11186-2	volontari	_
+11186-3	francesi	_
+11186-4	:	_
+11186-5	in	_
+11186-6	un	_
+11186-7	anno	_
+11186-8	30	_
+11186-9	migranti	_
+11186-10	morti	_
+11186-11	nel	_
+11186-12	tentativo	_
+11186-13	di	_
+11186-14	attraversare	_
+11186-15	le	_
+11186-16	Alpi	_
+
+#Text=Immigrazione, la Sea Watch lascia Catania e parte per Marsiglia
+11492-1	Immigrazione	_
+11492-2	,	_
+11492-3	la	_
+11492-4	Sea	_
+11492-5	Watch	_
+11492-6	lascia	_
+11492-7	Catania	_
+11492-8	e	_
+11492-9	parte	_
+11492-10	per	_
+11492-11	Marsiglia	_
+
+#Text=Aggredisce bambino rom con un taglierino a Termini: «Stavi rubando». Arrestato un 29enne
+11302-1	Aggredisce	_
+11302-2	bambino	_
+11302-3	rom	_
+11302-4	con	_
+11302-5	un	_
+11302-6	taglierino	_
+11302-7	a	_
+11302-8	Termini	_
+11302-9	:	_
+11302-10	«	_
+11302-11	Stavi	_
+11302-12	rubando	_
+11302-13	»	_
+11302-14	.	_
+11302-15	Arrestato	_
+11302-16	un	_
+11302-17	29enne	_
+
+#Text=Giorgia Meloni contro Fabio Fazio: "Guadagni milioni e ci fai lezioni sui migranti?"
+11447-1	Giorgia	_
+11447-2	Meloni	_
+11447-3	contro	_
+11447-4	Fabio	_
+11447-5	Fazio	_
+11447-6	:	_
+11447-7	"	_
+11447-8	Guadagni	_
+11447-9	milioni	_
+11447-10	e	_
+11447-11	ci	_
+11447-12	fai	_
+11447-13	lezioni	_
+11447-14	sui	_
+11447-15	migranti	_
+11447-16	?	_
+11447-17	"	_
+
+#Text=Camilleri e i migranti in Montalbano: «Era cronaca di un anno fa, allora avevamo più cuore»
+11141-1	Camilleri	_
+11141-2	e	_
+11141-3	i	_
+11141-4	migranti	_
+11141-5	in	_
+11141-6	Montalbano	_
+11141-7	:	_
+11141-8	«	_
+11141-9	Era	_
+11141-10	cronaca	_
+11141-11	di	_
+11141-12	un	_
+11141-13	anno	_
+11141-14	fa	_
+11141-15	,	_
+11141-16	allora	_
+11141-17	avevamo	_
+11141-18	più	_
+11141-19	cuore	_
+11141-20	»	_
+
+#Text=Francia, Decathlon cede a proteste e minacce. Ritirato il velo islamico da corsa
+11533-1	Francia	_
+11533-2	,	_
+11533-3	Decathlon	_
+11533-4	cede	_
+11533-5	a	_
+11533-6	proteste	_
+11533-7	e	_
+11533-8	minacce	_
+11533-9	.	_
+11533-10	Ritirato	_
+11533-11	il	_
+11533-12	velo	_
+11533-13	islamico	_
+11533-14	da	_
+11533-15	corsa	_
+
+#Text=Le toghe rosse contro Salvini: così difendono Ong e migranti
+11205-1	Le	_
+11205-2	toghe	_
+11205-3	rosse	_
+11205-4	contro	_
+11205-5	Salvini	_
+11205-6	:	_
+11205-7	così	_
+11205-8	difendono	_
+11205-9	Ong	_
+11205-10	e	_
+11205-11	migranti	_
+
+#Text=Emmanuel Macron, l'orrore "vomitevole" della Francia sui migranti: i giudici lo asfaltano
+11203-1	Emmanuel	_
+11203-2	Macron	_
+11203-3	,	_
+11203-4	l'orrore	_
+11203-5	"	_
+11203-6	vomitevole	_
+11203-7	"	_
+11203-8	della	_
+11203-9	Francia	_
+11203-10	sui	_
+11203-11	migranti	_
+11203-12	:	_
+11203-13	i	_
+11203-14	giudici	_
+11203-15	lo	_
+11203-16	asfaltano	_
+
+#Text=Venezia, ritrae Salvini con un bimbo migrante in braccio. La Digos arriva e filma tutto
+10957-1	Venezia	_
+10957-2	,	_
+10957-3	ritrae	_
+10957-4	Salvini	_
+10957-5	con	_
+10957-6	un	_
+10957-7	bimbo	_
+10957-8	migrante	_
+10957-9	in	_
+10957-10	braccio	_
+10957-11	.	_
+10957-12	La	_
+10957-13	Digos	_
+10957-14	arriva	_
+10957-15	e	_
+10957-16	filma	_
+10957-17	tutto	_
+
+#Text=PiazzaPulita, Paragone scatenato contro Corrado Formigli: "Guardatelo in faccia quando parla di immigrati"
+11383-1	PiazzaPulita	_
+11383-2	,	_
+11383-3	Paragone	_
+11383-4	scatenato	_
+11383-5	contro	_
+11383-6	Corrado	_
+11383-7	Formigli	_
+11383-8	:	_
+11383-9	"	_
+11383-10	Guardatelo	_
+11383-11	in	_
+11383-12	faccia	_
+11383-13	quando	_
+11383-14	parla	_
+11383-15	di	_
+11383-16	immigrati	_
+11383-17	"	_
+
+#Text=Macron: “Sui migranti l’Europa Ã¨ responsabile, a Italia fardello troppo pesante”
+11155-1	Macron	_
+11155-2	:	_
+11155-3	“	_
+11155-4	Sui	_
+11155-5	migranti	_
+11155-6	l	_
+11155-7	’	_
+11155-8	Europa	_
+11155-9	Ã	_
+11155-10	¨	_
+11155-11	responsabile	_
+11155-12	,	_
+11155-13	a	_
+11155-14	Italia	_
+11155-15	fardello	_
+11155-16	troppo	_
+11155-17	pesante	_
+11155-18	”	_
+
+#Text=Carro con i migranti e scritte "no pago affitto": bufera sul carnevale di Formello
+11008-1	Carro	_
+11008-2	con	_
+11008-3	i	_
+11008-4	migranti	_
+11008-5	e	_
+11008-6	scritte	_
+11008-7	"	_
+11008-8	no	_
+11008-9	pago	_
+11008-10	affitto	_
+11008-11	"	_
+11008-12	:	_
+11008-13	bufera	_
+11008-14	sul	_
+11008-15	carnevale	_
+11008-16	di	_
+11008-17	Formello	_
+
+#Text=Tu non sei razzista, sei str.... La donna che difese uno straniero, a Napoli, premiata da Mattarella
+11376-1	Tu	_
+11376-2	non	_
+11376-3	sei	_
+11376-4	razzista	_
+11376-5	,	_
+11376-6	sei	_
+11376-7	str	_
+11376-8	.	_
+11376-9	.	_
+11376-10	.	_
+11376-11	.	_
+11376-12	La	_
+11376-13	donna	_
+11376-14	che	_
+11376-15	difese	_
+11376-16	uno	_
+11376-17	straniero	_
+11376-18	,	_
+11376-19	a	_
+11376-20	Napoli	_
+11376-21	,	_
+11376-22	premiata	_
+11376-23	da	_
+11376-24	Mattarella	_
+
+#Text=Mattarella premia Maria Rosaria Coppola, la donna che difese un immigrato in treno a Napoli
+11437-1	Mattarella	_
+11437-2	premia	_
+11437-3	Maria	_
+11437-4	Rosaria	_
+11437-5	Coppola	_
+11437-6	,	_
+11437-7	la	_
+11437-8	donna	_
+11437-9	che	_
+11437-10	difese	_
+11437-11	un	_
+11437-12	immigrato	_
+11437-13	in	_
+11437-14	treno	_
+11437-15	a	_
+11437-16	Napoli	_
+
+#Text=San Ferdinando, tendopoli militarizzata. I migranti: "Noi siamo qui per lavorare"
+11354-1	San	_
+11354-2	Ferdinando	_
+11354-3	,	_
+11354-4	tendopoli	_
+11354-5	militarizzata	_
+11354-6	.	_
+11354-7	I	_
+11354-8	migranti	_
+11354-9	:	_
+11354-10	"	_
+11354-11	Noi	_
+11354-12	siamo	_
+11354-13	qui	_
+11354-14	per	_
+11354-15	lavorare	_
+11354-16	"	_
+
+#Text=Blitz di 600 agenti al ghetto di San Ferdinando: Salvini sgombera i migranti
+11395-1	Blitz	_
+11395-2	di	_
+11395-3	600	_
+11395-4	agenti	_
+11395-5	al	_
+11395-6	ghetto	_
+11395-7	di	_
+11395-8	San	_
+11395-9	Ferdinando	_
+11395-10	:	_
+11395-11	Salvini	_
+11395-12	sgombera	_
+11395-13	i	_
+11395-14	migranti	_
+
+#Text=Alessandra Ghisleri a L'aria che tira, lezione ai compagni: che roba è stato il corteo pro-immigrati di Milano
+10898-1	Alessandra	_
+10898-2	Ghisleri	_
+10898-3	a	_
+10898-4	L'aria	_
+10898-5	che	_
+10898-6	tira	_
+10898-7	,	_
+10898-8	lezione	_
+10898-9	ai	_
+10898-10	compagni	_
+10898-11	:	_
+10898-12	che	_
+10898-13	roba	_
+10898-14	è	_
+10898-15	stato	_
+10898-16	il	_
+10898-17	corteo	_
+10898-18	pro-immigrati	_
+10898-19	di	_
+10898-20	Milano	_
+
+#Text=Nave militare italiana dichiara un’avaria, Malta va a salvare 87 migranti a sud di Lampedusa
+11293-1	Nave	_
+11293-2	militare	_
+11293-3	italiana	_
+11293-4	dichiara	_
+11293-5	un	_
+11293-6	’	_
+11293-7	avaria	_
+11293-8	,	_
+11293-9	Malta	_
+11293-10	va	_
+11293-11	a	_
+11293-12	salvare	_
+11293-13	87	_
+11293-14	migranti	_
+11293-15	a	_
+11293-16	sud	_
+11293-17	di	_
+11293-18	Lampedusa	_
+
+#Text=Presentato il Festival della salute globale: a Padova si discuterà di medicina, disuguaglianze, migrazioni
+11222-1	Presentato	_
+11222-2	il	_
+11222-3	Festival	_
+11222-4	della	_
+11222-5	salute	_
+11222-6	globale	_
+11222-7	:	_
+11222-8	a	_
+11222-9	Padova	_
+11222-10	si	_
+11222-11	discuterà	_
+11222-12	di	_
+11222-13	medicina	_
+11222-14	,	_
+11222-15	disuguaglianze	_
+11222-16	,	_
+11222-17	migrazioni	_
+
+#Text=Soccorsi al largo di Lampedusa quaranta migranti, tra loro donne e bambine
+11061-1	Soccorsi	_
+11061-2	al	_
+11061-3	largo	_
+11061-4	di	_
+11061-5	Lampedusa	_
+11061-6	quaranta	_
+11061-7	migranti	_
+11061-8	,	_
+11061-9	tra	_
+11061-10	loro	_
+11061-11	donne	_
+11061-12	e	_
+11061-13	bambine	_
+
+#Text=Bruxelles, ministri dell'Interno Ue discutono di migranti. Ma Salvini è a Potenza per la campagna elettorale
+11201-1	Bruxelles	_
+11201-2	,	_
+11201-3	ministri	_
+11201-4	dell'Interno	_
+11201-5	Ue	_
+11201-6	discutono	_
+11201-7	di	_
+11201-8	migranti	_
+11201-9	.	_
+11201-10	Ma	_
+11201-11	Salvini	_
+11201-12	è	_
+11201-13	a	_
+11201-14	Potenza	_
+11201-15	per	_
+11201-16	la	_
+11201-17	campagna	_
+11201-18	elettorale	_
+
+#Text=8 marzo a Milano, le donne in sciopero con Lgbt e migranti: "Uniti nella comunità ideale"
+10859-1	8	_
+10859-2	marzo	_
+10859-3	a	_
+10859-4	Milano	_
+10859-5	,	_
+10859-6	le	_
+10859-7	donne	_
+10859-8	in	_
+10859-9	sciopero	_
+10859-10	con	_
+10859-11	Lgbt	_
+10859-12	e	_
+10859-13	migranti	_
+10859-14	:	_
+10859-15	"	_
+10859-16	Uniti	_
+10859-17	nella	_
+10859-18	comunità	_
+10859-19	ideale	_
+10859-20	"	_
+
+#Text=Festa della donna, a Bari la Cgil raccoglie le storie delle lavoratrici migranti
+11009-1	Festa	_
+11009-2	della	_
+11009-3	donna	_
+11009-4	,	_
+11009-5	a	_
+11009-6	Bari	_
+11009-7	la	_
+11009-8	Cgil	_
+11009-9	raccoglie	_
+11009-10	le	_
+11009-11	storie	_
+11009-12	delle	_
+11009-13	lavoratrici	_
+11009-14	migranti	_
+
+#Text=Razzismo, il pregiudizio verso i migranti non si disinnesca con le aberrazioni buoniste
+10937-1	Razzismo	_
+10937-2	,	_
+10937-3	il	_
+10937-4	pregiudizio	_
+10937-5	verso	_
+10937-6	i	_
+10937-7	migranti	_
+10937-8	non	_
+10937-9	si	_
+10937-10	disinnesca	_
+10937-11	con	_
+10937-12	le	_
+10937-13	aberrazioni	_
+10937-14	buoniste	_
+
+#Text=Portate migranti in Francia: e Macron fa arrestare due autisti italiani
+11468-1	Portate	_
+11468-2	migranti	_
+11468-3	in	_
+11468-4	Francia	_
+11468-5	:	_
+11468-6	e	_
+11468-7	Macron	_
+11468-8	fa	_
+11468-9	arrestare	_
+11468-10	due	_
+11468-11	autisti	_
+11468-12	italiani	_
+
+#Text=Flixbus, autisti ammanettati e chiusi in celle separate dalla polizia francese: «Portate migranti in Francia»
+11145-1	Flixbus	_
+11145-2	,	_
+11145-3	autisti	_
+11145-4	ammanettati	_
+11145-5	e	_
+11145-6	chiusi	_
+11145-7	in	_
+11145-8	celle	_
+11145-9	separate	_
+11145-10	dalla	_
+11145-11	polizia	_
+11145-12	francese	_
+11145-13	:	_
+11145-14	«	_
+11145-15	Portate	_
+11145-16	migranti	_
+11145-17	in	_
+11145-18	Francia	_
+11145-19	»	_
+
+#Text=Croazia, migranti costretti a pronunciare il saluto filonazista
+11382-1	Croazia	_
+11382-2	,	_
+11382-3	migranti	_
+11382-4	costretti	_
+11382-5	a	_
+11382-6	pronunciare	_
+11382-7	il	_
+11382-8	saluto	_
+11382-9	filonazista	_
+
+#Text=Immigrazione, le cifre del trionfo di Matteo Salvini: sbarchi ai minimi da nove anni a questa parte
+11325-1	Immigrazione	_
+11325-2	,	_
+11325-3	le	_
+11325-4	cifre	_
+11325-5	del	_
+11325-6	trionfo	_
+11325-7	di	_
+11325-8	Matteo	_
+11325-9	Salvini	_
+11325-10	:	_
+11325-11	sbarchi	_
+11325-12	ai	_
+11325-13	minimi	_
+11325-14	da	_
+11325-15	nove	_
+11325-16	anni	_
+11325-17	a	_
+11325-18	questa	_
+11325-19	parte	_
+
+#Text=“I musulmani ci invadono”. La strage nelle moschee trasmessa in diretta web
+11002-1	“	_
+11002-2	I	_
+11002-3	musulmani	_
+11002-4	ci	_
+11002-5	invadono	_
+11002-6	”	_
+11002-7	.	_
+11002-8	La	_
+11002-9	strage	_
+11002-10	nelle	_
+11002-11	moschee	_
+11002-12	trasmessa	_
+11002-13	in	_
+11002-14	diretta	_
+11002-15	web	_
+
+#Text=Book Pride, il medico che dà un nome ai migranti annegati: ''Gli oggetti recuperati dalle loro tasche li rendono simili a...
+11056-1	Book	_
+11056-2	Pride	_
+11056-3	,	_
+11056-4	il	_
+11056-5	medico	_
+11056-6	che	_
+11056-7	dà	_
+11056-8	un	_
+11056-9	nome	_
+11056-10	ai	_
+11056-11	migranti	_
+11056-12	annegati	_
+11056-13	:	_
+11056-14	'	_
+11056-15	'	_
+11056-16	Gli	_
+11056-17	oggetti	_
+11056-18	recuperati	_
+11056-19	dalle	_
+11056-20	loro	_
+11056-21	tasche	_
+11056-22	li	_
+11056-23	rendono	_
+11056-24	simili	_
+11056-25	a	_
+11056-26	.	_
+11056-27	.	_
+11056-28	.	_
+
+#Text=Strage Christchurch, la premier Ardern abbraccia la comunità musulmana
+11527-1	Strage	_
+11527-2	Christchurch	_
+11527-3	,	_
+11527-4	la	_
+11527-5	premier	_
+11527-6	Ardern	_
+11527-7	abbraccia	_
+11527-8	la	_
+11527-9	comunità	_
+11527-10	musulmana	_
+
+#Text=Marco Bussetti: “A scuola tuteliamo gli studenti immigrati ma prima i nostri figli”
+10226-1	Marco	_
+10226-2	Bussetti	_
+10226-3	:	_
+10226-4	“	_
+10226-5	A	_
+10226-6	scuola	_
+10226-7	tuteliamo	_
+10226-8	gli	_
+10226-9	studenti	_
+10226-10	immigrati	_
+10226-11	ma	_
+10226-12	prima	_
+10226-13	i	_
+10226-14	nostri	_
+10226-15	figli	_
+10226-16	”	_
+
+#Text=Ancora migranti a Lampedusa. Salvini: "Li rispediamo a casa loro"
+10649-1	Ancora	_
+10649-2	migranti	_
+10649-3	a	_
+10649-4	Lampedusa	_
+10649-5	.	_
+10649-6	Salvini	_
+10649-7	:	_
+10649-8	"	_
+10649-9	Li	_
+10649-10	rispediamo	_
+10649-11	a	_
+10649-12	casa	_
+10649-13	loro	_
+10649-14	"	_
+
+#Text=C’è la scuola, via i migranti: “Siamo contrari all’apartheid ma ora serve più sicurezza”
+10029-1	C	_
+10029-2	’	_
+10029-3	è	_
+10029-4	la	_
+10029-5	scuola	_
+10029-6	,	_
+10029-7	via	_
+10029-8	i	_
+10029-9	migranti	_
+10029-10	:	_
+10029-11	“	_
+10029-12	Siamo	_
+10029-13	contrari	_
+10029-14	all	_
+10029-15	’	_
+10029-16	apartheid	_
+10029-17	ma	_
+10029-18	ora	_
+10029-19	serve	_
+10029-20	più	_
+10029-21	sicurezza	_
+10029-22	”	_
+
+#Text=«I rom non sono uguali a noi». E lo studio di Piazza Pulita applaude il giovane ospite
+10586-1	«	_
+10586-2	I	_
+10586-3	rom	_
+10586-4	non	_
+10586-5	sono	_
+10586-6	uguali	_
+10586-7	a	_
+10586-8	noi	_
+10586-9	»	_
+10586-10	.	_
+10586-11	E	_
+10586-12	lo	_
+10586-13	studio	_
+10586-14	di	_
+10586-15	Piazza	_
+10586-16	Pulita	_
+10586-17	applaude	_
+10586-18	il	_
+10586-19	giovane	_
+10586-20	ospite	_
+
+#Text=Paura nel campo nomadi: giornalista aggredita e derubata
+10687-1	Paura	_
+10687-2	nel	_
+10687-3	campo	_
+10687-4	nomadi	_
+10687-5	:	_
+10687-6	giornalista	_
+10687-7	aggredita	_
+10687-8	e	_
+10687-9	derubata	_
+
+#Text=Libia, l’appello del premier Sarraj: «Fate presto, 800mila tra libici, migranti (e molti terroristi) pronti a invadere l’Italia e l’Europa»
+10472-1	Libia	_
+10472-2	,	_
+10472-3	l	_
+10472-4	’	_
+10472-5	appello	_
+10472-6	del	_
+10472-7	premier	_
+10472-8	Sarraj	_
+10472-9	:	_
+10472-10	«	_
+10472-11	Fate	_
+10472-12	presto	_
+10472-13	,	_
+10472-14	800mila	_
+10472-15	tra	_
+10472-16	libici	_
+10472-17	,	_
+10472-18	migranti	_
+10472-19	(	_
+10472-20	e	_
+10472-21	molti	_
+10472-22	terroristi	_
+10472-23	)	_
+10472-24	pronti	_
+10472-25	a	_
+10472-26	invadere	_
+10472-27	l	_
+10472-28	’	_
+10472-29	Italia	_
+10472-30	e	_
+10472-31	l	_
+10472-32	’	_
+10472-33	Europa	_
+10472-34	»	_
+
+#Text=L'allarme di al-Serraj all'Italia: "800mila migranti pronti a invadervi"
+10129-1	L'allarme	_
+10129-2	di	_
+10129-3	al-Serraj	_
+10129-4	all'Italia	_
+10129-5	:	_
+10129-6	"	_
+10129-7	800mila	_
+10129-8	migranti	_
+10129-9	pronti	_
+10129-10	a	_
+10129-11	invadervi	_
+10129-12	"	_
+
+#Text=In balia di 800mila profughi (e dei pm)
+10546-1	In	_
+10546-2	balia	_
+10546-3	di	_
+10546-4	800mila	_
+10546-5	profughi	_
+10546-6	(	_
+10546-7	e	_
+10546-8	dei	_
+10546-9	pm	_
+10546-10	)	_
+
+#Text=Milano, Sala coccola gli immigrati e loro gli occupano lo stabile
+10208-1	Milano	_
+10208-2	,	_
+10208-3	Sala	_
+10208-4	coccola	_
+10208-5	gli	_
+10208-6	immigrati	_
+10208-7	e	_
+10208-8	loro	_
+10208-9	gli	_
+10208-10	occupano	_
+10208-11	lo	_
+10208-12	stabile	_
+
+#Text=Un pm aveva appena liberato l'immigrato che ha attaccato gli agenti a Torino
+10363-1	Un	_
+10363-2	pm	_
+10363-3	aveva	_
+10363-4	appena	_
+10363-5	liberato	_
+10363-6	l'immigrato	_
+10363-7	che	_
+10363-8	ha	_
+10363-9	attaccato	_
+10363-10	gli	_
+10363-11	agenti	_
+10363-12	a	_
+10363-13	Torino	_
+
+#Text=Milano, rom in villetta col reddito M5S: "E lavoriamo in nero"
+10680-1	Milano	_
+10680-2	,	_
+10680-3	rom	_
+10680-4	in	_
+10680-5	villetta	_
+10680-6	col	_
+10680-7	reddito	_
+10680-8	M5S	_
+10680-9	:	_
+10680-10	"	_
+10680-11	E	_
+10680-12	lavoriamo	_
+10680-13	in	_
+10680-14	nero	_
+10680-15	"	_
+
+#Text=Carpi, aggressione ad una coppia di fidanzati. Fermati tre stranieri
+10285-1	Carpi	_
+10285-2	,	_
+10285-3	aggressione	_
+10285-4	ad	_
+10285-5	una	_
+10285-6	coppia	_
+10285-7	di	_
+10285-8	fidanzati	_
+10285-9	.	_
+10285-10	Fermati	_
+10285-11	tre	_
+10285-12	stranieri	_
+
+#Text=Salvini: «Il calcio? Rimpiango i tre stranieri in campo»
+10305-1	Salvini	_
+10305-2	:	_
+10305-3	«	_
+10305-4	Il	_
+10305-5	calcio	_
+10305-6	?	_
+10305-7	Rimpiango	_
+10305-8	i	_
+10305-9	tre	_
+10305-10	stranieri	_
+10305-11	in	_
+10305-12	campo	_
+10305-13	»	_
+
+#Text=Viterbo, i post del consigliere di Casapound Francesco Chiricozzi: "Lo straniero stupra di più dell'italiano"
+10763-1	Viterbo	_
+10763-2	,	_
+10763-3	i	_
+10763-4	post	_
+10763-5	del	_
+10763-6	consigliere	_
+10763-7	di	_
+10763-8	Casapound	_
+10763-9	Francesco	_
+10763-10	Chiricozzi	_
+10763-11	:	_
+10763-12	"	_
+10763-13	Lo	_
+10763-14	straniero	_
+10763-15	stupra	_
+10763-16	di	_
+10763-17	più	_
+10763-18	dell'italiano	_
+10763-19	"	_
+
+#Text=Reddito, agli stranieri 60mila card ma i controlli solo a ottobre
+10361-1	Reddito	_
+10361-2	,	_
+10361-3	agli	_
+10361-4	stranieri	_
+10361-5	60mila	_
+10361-6	card	_
+10361-7	ma	_
+10361-8	i	_
+10361-9	controlli	_
+10361-10	solo	_
+10361-11	a	_
+10361-12	ottobre	_
+
+#Text=I dipinti offendono i musulmani. E il museo li copre - La Verità
+10313-1	I	_
+10313-2	dipinti	_
+10313-3	offendono	_
+10313-4	i	_
+10313-5	musulmani	_
+10313-6	.	_
+10313-7	E	_
+10313-8	il	_
+10313-9	museo	_
+10313-10	li	_
+10313-11	copre	_
+10313-12	-	_
+10313-13	La	_
+10313-14	Verità	_
+
+#Text=Roma, casa popolare a una famiglia di nomadi. Tensione a Casal Bruciato: "Non ve ce volemo qua!"
+10658-1	Roma	_
+10658-2	,	_
+10658-3	casa	_
+10658-4	popolare	_
+10658-5	a	_
+10658-6	una	_
+10658-7	famiglia	_
+10658-8	di	_
+10658-9	nomadi	_
+10658-10	.	_
+10658-11	Tensione	_
+10658-12	a	_
+10658-13	Casal	_
+10658-14	Bruciato	_
+10658-15	:	_
+10658-16	"	_
+10658-17	Non	_
+10658-18	ve	_
+10658-19	ce	_
+10658-20	volemo	_
+10658-21	qua	_
+10658-22	!	_
+10658-23	"	_
+
+#Text=L'auto dei rom di Casal Bruciato? Targa falsa e senza assicurazione
+10037-1	L'auto	_
+10037-2	dei	_
+10037-3	rom	_
+10037-4	di	_
+10037-5	Casal	_
+10037-6	Bruciato	_
+10037-7	?	_
+10037-8	Targa	_
+10037-9	falsa	_
+10037-10	e	_
+10037-11	senza	_
+10037-12	assicurazione	_
+
+#Text=Casa popolare ai rom anche a Casal de' Pazzi. Residenti sul piede di guerra
+10098-1	Casa	_
+10098-2	popolare	_
+10098-3	ai	_
+10098-4	rom	_
+10098-5	anche	_
+10098-6	a	_
+10098-7	Casal	_
+10098-8	de	_
+10098-9	'	_
+10098-10	Pazzi	_
+10098-11	.	_
+10098-12	Residenti	_
+10098-13	sul	_
+10098-14	piede	_
+10098-15	di	_
+10098-16	guerra	_
+
+#Text=Anziana uccisa dopo la rapina, fermata la banda di ladri rom
+10798-1	Anziana	_
+10798-2	uccisa	_
+10798-3	dopo	_
+10798-4	la	_
+10798-5	rapina	_
+10798-6	,	_
+10798-7	fermata	_
+10798-8	la	_
+10798-9	banda	_
+10798-10	di	_
+10798-11	ladri	_
+10798-12	rom	_
+
+#Text=​Anziana morta dopo rapina a Montesacro, Salvini: «I cinque rom vanno espulsi»
+10312-1	Anziana	_
+10312-2	morta	_
+10312-3	dopo	_
+10312-4	rapina	_
+10312-5	a	_
+10312-6	Montesacro	_
+10312-7	,	_
+10312-8	Salvini	_
+10312-9	:	_
+10312-10	«	_
+10312-11	I	_
+10312-12	cinque	_
+10312-13	rom	_
+10312-14	vanno	_
+10312-15	espulsi	_
+10312-16	»	_
+
+#Text=Il rom che ha ucciso l'anziana: sfilza di reati e un'espulsione
+10444-1	Il	_
+10444-2	rom	_
+10444-3	che	_
+10444-4	ha	_
+10444-5	ucciso	_
+10444-6	l'anziana	_
+10444-7	:	_
+10444-8	sfilza	_
+10444-9	di	_
+10444-10	reati	_
+10444-11	e	_
+10444-12	un'espulsione	_
+
+#Text=Così il Tar si piega ai buonisti e non espelle più l'immigrato
+10797-1	Così	_
+10797-2	il	_
+10797-3	Tar	_
+10797-4	si	_
+10797-5	piega	_
+10797-6	ai	_
+10797-7	buonisti	_
+10797-8	e	_
+10797-9	non	_
+10797-10	espelle	_
+10797-11	più	_
+10797-12	l'immigrato	_
+
+#Text=Il cardinale Müller: "non possiamo pregare come o con i musulmani"
+10366-1	Il	_
+10366-2	cardinale	_
+10366-3	Müller	_
+10366-4	:	_
+10366-5	"	_
+10366-6	non	_
+10366-7	possiamo	_
+10366-8	pregare	_
+10366-9	come	_
+10366-10	o	_
+10366-11	con	_
+10366-12	i	_
+10366-13	musulmani	_
+10366-14	"	_
+
+#Text=Il rogo del migrante con sette identità: brucia una casa e uccide due donne
+10513-1	Il	_
+10513-2	rogo	_
+10513-3	del	_
+10513-4	migrante	_
+10513-5	con	_
+10513-6	sette	_
+10513-7	identità	_
+10513-8	:	_
+10513-9	brucia	_
+10513-10	una	_
+10513-11	casa	_
+10513-12	e	_
+10513-13	uccide	_
+10513-14	due	_
+10513-15	donne	_
+
+#Text=Rivolta a Torpignattara: "Via stranieri e moschee"
+10584-1	Rivolta	_
+10584-2	a	_
+10584-3	Torpignattara	_
+10584-4	:	_
+10584-5	"	_
+10584-6	Via	_
+10584-7	stranieri	_
+10584-8	e	_
+10584-9	moschee	_
+10584-10	"	_
+
+#Text=Degrado Val Melaina, rissa a bottigliate tra rom in pieno giorno
+10695-1	Degrado	_
+10695-2	Val	_
+10695-3	Melaina	_
+10695-4	,	_
+10695-5	rissa	_
+10695-6	a	_
+10695-7	bottigliate	_
+10695-8	tra	_
+10695-9	rom	_
+10695-10	in	_
+10695-11	pieno	_
+10695-12	giorno	_
+
+#Text=Anziana rapinata sull'autobus, i due nomadi in fuga si rifugiano al campo di via Candoni
+10182-1	Anziana	_
+10182-2	rapinata	_
+10182-3	sull'autobus	_
+10182-4	,	_
+10182-5	i	_
+10182-6	due	_
+10182-7	nomadi	_
+10182-8	in	_
+10182-9	fuga	_
+10182-10	si	_
+10182-11	rifugiano	_
+10182-12	al	_
+10182-13	campo	_
+10182-14	di	_
+10182-15	via	_
+10182-16	Candoni	_
+
+#Text=Trump apre il fronte messicano: “Via i migranti o metto i dazi”
+10180-1	Trump	_
+10180-2	apre	_
+10180-3	il	_
+10180-4	fronte	_
+10180-5	messicano	_
+10180-6	:	_
+10180-7	“	_
+10180-8	Via	_
+10180-9	i	_
+10180-10	migranti	_
+10180-11	o	_
+10180-12	metto	_
+10180-13	i	_
+10180-14	dazi	_
+10180-15	”	_
+
+#Text=Bologna, Salvini contro i vertici di pediatria del Sant’Orsola: «Gli immigrati? Record di Tbc e scabbia»
+10223-1	Bologna	_
+10223-2	,	_
+10223-3	Salvini	_
+10223-4	contro	_
+10223-5	i	_
+10223-6	vertici	_
+10223-7	di	_
+10223-8	pediatria	_
+10223-9	del	_
+10223-10	Sant	_
+10223-11	’	_
+10223-12	Orsola	_
+10223-13	:	_
+10223-14	«	_
+10223-15	Gli	_
+10223-16	immigrati	_
+10223-17	?	_
+10223-18	Record	_
+10223-19	di	_
+10223-20	Tbc	_
+10223-21	e	_
+10223-22	scabbia	_
+10223-23	»	_
+
+#Text=Il governo regala il nostro 8 per mille ai profughi
+10280-1	Il	_
+10280-2	governo	_
+10280-3	regala	_
+10280-4	il	_
+10280-5	nostro	_
+10280-6	8	_
+10280-7	per	_
+10280-8	mille	_
+10280-9	ai	_
+10280-10	profughi	_
+
+#Text=Il manifesto per gli immigrati: ​"Se sei venuto per delinquere faremo di tutto per cacciarti"
+10374-1	Il	_
+10374-2	manifesto	_
+10374-3	per	_
+10374-4	gli	_
+10374-5	immigrati	_
+10374-6	:	_
+10374-7	​	_
+10374-8	"	_
+10374-9	Se	_
+10374-10	sei	_
+10374-11	venuto	_
+10374-12	per	_
+10374-13	delinquere	_
+10374-14	faremo	_
+10374-15	di	_
+10374-16	tutto	_
+10374-17	per	_
+10374-18	cacciarti	_
+10374-19	"	_
+
+#Text=Il Paese (vicino a noi) dice basta: "Troppi". Porte chiuse agli immigrati
+10315-1	Il	_
+10315-2	Paese	_
+10315-3	(	_
+10315-4	vicino	_
+10315-5	a	_
+10315-6	noi	_
+10315-7	)	_
+10315-8	dice	_
+10315-9	basta	_
+10315-10	:	_
+10315-11	"	_
+10315-12	Troppi	_
+10315-13	"	_
+10315-14	.	_
+10315-15	Porte	_
+10315-16	chiuse	_
+10315-17	agli	_
+10315-18	immigrati	_
+
+#Text=Il paese invaso dai migranti: 113 profughi con 110 abitanti
+10784-1	Il	_
+10784-2	paese	_
+10784-3	invaso	_
+10784-4	dai	_
+10784-5	migranti	_
+10784-6	:	_
+10784-7	113	_
+10784-8	profughi	_
+10784-9	con	_
+10784-10	110	_
+10784-11	abitanti	_
+
+#Text=Il parroco anti-immigrazione: ​"Non possiamo farci calpestare"
+10576-1	Il	_
+10576-2	parroco	_
+10576-3	anti-immigrazione	_
+10576-4	:	_
+10576-5	​	_
+10576-6	"	_
+10576-7	Non	_
+10576-8	possiamo	_
+10576-9	farci	_
+10576-10	calpestare	_
+10576-11	"	_
+
+#Text=Il piano degli islamici italiani: due milioni di profughi
+10097-1	Il	_
+10097-2	piano	_
+10097-3	degli	_
+10097-4	islamici	_
+10097-5	italiani	_
+10097-6	:	_
+10097-7	due	_
+10097-8	milioni	_
+10097-9	di	_
+10097-10	profughi	_
+
+#Text=Il piano del Viminale: integrare i profughi? Ora tocca pure alle Regioni
+10502-1	Il	_
+10502-2	piano	_
+10502-3	del	_
+10502-4	Viminale	_
+10502-5	:	_
+10502-6	integrare	_
+10502-7	i	_
+10502-8	profughi	_
+10502-9	?	_
+10502-10	Ora	_
+10502-11	tocca	_
+10502-12	pure	_
+10502-13	alle	_
+10502-14	Regioni	_
+
+#Text=Il piano per fermare l'ondata di clandestini: 10mila rimpatri al mese
+10275-1	Il	_
+10275-2	piano	_
+10275-3	per	_
+10275-4	fermare	_
+10275-5	l'ondata	_
+10275-6	di	_
+10275-7	clandestini	_
+10275-8	:	_
+10275-9	10mila	_
+10275-10	rimpatri	_
+10275-11	al	_
+10275-12	mese	_
+
+#Text=Il sindaco anti-immigrati, una rivoluzione nel Pd: "Come ripulisco tutto"
+10488-1	Il	_
+10488-2	sindaco	_
+10488-3	anti-immigrati	_
+10488-4	,	_
+10488-5	una	_
+10488-6	rivoluzione	_
+10488-7	nel	_
+10488-8	Pd	_
+10488-9	:	_
+10488-10	"	_
+10488-11	Come	_
+10488-12	ripulisco	_
+10488-13	tutto	_
+10488-14	"	_
+
+#Text=Il terrore viene da fuori. Sono immigrati l'84% degli attentatori
+10218-1	Il	_
+10218-2	terrore	_
+10218-3	viene	_
+10218-4	da	_
+10218-5	fuori	_
+10218-6	.	_
+10218-7	Sono	_
+10218-8	immigrati	_
+10218-9	l	_
+10218-10	'	_
+10218-11	84%	_
+10218-12	degli	_
+10218-13	attentatori	_
+
+#Text=Il traffico degli appartamenti: ai clandestini nozze e un tetto
+10437-1	Il	_
+10437-2	traffico	_
+10437-3	degli	_
+10437-4	appartamenti	_
+10437-5	:	_
+10437-6	ai	_
+10437-7	clandestini	_
+10437-8	nozze	_
+10437-9	e	_
+10437-10	un	_
+10437-11	tetto	_
+
+#Text=Il Viminale assume (solo per gli immigrati)
+10664-1	Il	_
+10664-2	Viminale	_
+10664-3	assume	_
+10664-4	(	_
+10664-5	solo	_
+10664-6	per	_
+10664-7	gli	_
+10664-8	immigrati	_
+10664-9	)	_
+
+#Text=Immigrati a Roma, è allarme stupro
+10385-1	Immigrati	_
+10385-2	a	_
+10385-3	Roma	_
+10385-4	,	_
+10385-5	è	_
+10385-6	allarme	_
+10385-7	stupro	_
+
+#Text=Immigrati e malattie, toh... Record horror tra i profughi, i 50 casi da brividi (in Italia)
+10522-1	Immigrati	_
+10522-2	e	_
+10522-3	malattie	_
+10522-4	,	_
+10522-5	toh	_
+10522-6	.	_
+10522-7	.	_
+10522-8	.	_
+10522-9	Record	_
+10522-10	horror	_
+10522-11	tra	_
+10522-12	i	_
+10522-13	profughi	_
+10522-14	,	_
+10522-15	i	_
+10522-16	50	_
+10522-17	casi	_
+10522-18	da	_
+10522-19	brividi	_
+10522-20	(	_
+10522-21	in	_
+10522-22	Italia	_
+10522-23	)	_
+
+#Text=Immigrati, ammiraglio brutale: ora basta balle. "Ecco chi trama contro l'Italia, serve una guerra"
+10146-1	Immigrati	_
+10146-2	,	_
+10146-3	ammiraglio	_
+10146-4	brutale	_
+10146-5	:	_
+10146-6	ora	_
+10146-7	basta	_
+10146-8	balle	_
+10146-9	.	_
+10146-10	"	_
+10146-11	Ecco	_
+10146-12	chi	_
+10146-13	trama	_
+10146-14	contro	_
+10146-15	l'Italia	_
+10146-16	,	_
+10146-17	serve	_
+10146-18	una	_
+10146-19	guerra	_
+10146-20	"	_
+
+#Text=Immigrati, ci invadono e loro intascano 100 milioni. La lista delle vergogna: le 15 coop rosse più potenti
+10537-1	Immigrati	_
+10537-2	,	_
+10537-3	ci	_
+10537-4	invadono	_
+10537-5	e	_
+10537-6	loro	_
+10537-7	intascano	_
+10537-8	100	_
+10537-9	milioni	_
+10537-10	.	_
+10537-11	La	_
+10537-12	lista	_
+10537-13	delle	_
+10537-14	vergogna	_
+10537-15	:	_
+10537-16	le	_
+10537-17	15	_
+10537-18	coop	_
+10537-19	rosse	_
+10537-20	più	_
+10537-21	potenti	_
+
+#Text=Immigrati, ecco il trucco-truffa sulle pensioni: come si pappano l'assegno senza versare nulla
+10644-1	Immigrati	_
+10644-2	,	_
+10644-3	ecco	_
+10644-4	il	_
+10644-5	trucco-truffa	_
+10644-6	sulle	_
+10644-7	pensioni	_
+10644-8	:	_
+10644-9	come	_
+10644-10	si	_
+10644-11	pappano	_
+10644-12	l'assegno	_
+10644-13	senza	_
+10644-14	versare	_
+10644-15	nulla	_
+
+#Text=Immigrati, gli avvocati che annullano le espulsioni? Toh, che caso: maxi-scandalo, chi c'è dietro di loro
+10390-1	Immigrati	_
+10390-2	,	_
+10390-3	gli	_
+10390-4	avvocati	_
+10390-5	che	_
+10390-6	annullano	_
+10390-7	le	_
+10390-8	espulsioni	_
+10390-9	?	_
+10390-10	Toh	_
+10390-11	,	_
+10390-12	che	_
+10390-13	caso	_
+10390-14	:	_
+10390-15	maxi-scandalo	_
+10390-16	,	_
+10390-17	chi	_
+10390-18	c'è	_
+10390-19	dietro	_
+10390-20	di	_
+10390-21	loro	_
+
+#Text=Immigrati, la verità nascosta. "Sapete cosa stanno per fare all'Italia?", Meloni apocalittica
+10639-1	Immigrati	_
+10639-2	,	_
+10639-3	la	_
+10639-4	verità	_
+10639-5	nascosta	_
+10639-6	.	_
+10639-7	"	_
+10639-8	Sapete	_
+10639-9	cosa	_
+10639-10	stanno	_
+10639-11	per	_
+10639-12	fare	_
+10639-13	all'Italia	_
+10639-14	?	_
+10639-15	"	_
+10639-16	,	_
+10639-17	Meloni	_
+10639-18	apocalittica	_
+
+#Text=Immigrati, la verità nei numeri: "Crimini 6 volte più di italiani"
+10718-1	Immigrati	_
+10718-2	,	_
+10718-3	la	_
+10718-4	verità	_
+10718-5	nei	_
+10718-6	numeri	_
+10718-7	:	_
+10718-8	"	_
+10718-9	Crimini	_
+10718-10	6	_
+10718-11	volte	_
+10718-12	più	_
+10718-13	di	_
+10718-14	italiani	_
+10718-15	"	_
+
+#Text=Immigrati, mentre gli italiani non arrivano a fine mese... Quanto paga lo Stato per mantenerli: le cifre-vergogna
+10799-1	Immigrati	_
+10799-2	,	_
+10799-3	mentre	_
+10799-4	gli	_
+10799-5	italiani	_
+10799-6	non	_
+10799-7	arrivano	_
+10799-8	a	_
+10799-9	fine	_
+10799-10	mese	_
+10799-11	.	_
+10799-12	.	_
+10799-13	.	_
+10799-14	Quanto	_
+10799-15	paga	_
+10799-16	lo	_
+10799-17	Stato	_
+10799-18	per	_
+10799-19	mantenerli	_
+10799-20	:	_
+10799-21	le	_
+10799-22	cifre-vergogna	_
+
+#Text=Immigrati, Salvini: "Blindare i confini e più espulsioni. Islam di oggi è un pericolo"
+10094-1	Immigrati	_
+10094-2	,	_
+10094-3	Salvini	_
+10094-4	:	_
+10094-5	"	_
+10094-6	Blindare	_
+10094-7	i	_
+10094-8	confini	_
+10094-9	e	_
+10094-10	più	_
+10094-11	espulsioni	_
+10094-12	.	_
+10094-13	Islam	_
+10094-14	di	_
+10094-15	oggi	_
+10094-16	è	_
+10094-17	un	_
+10094-18	pericolo	_
+10094-19	"	_
+
+#Text=Immigrati, vergogna italiana: quanti euro guadagnano con la carità (e come li spendono)
+10163-1	Immigrati	_
+10163-2	,	_
+10163-3	vergogna	_
+10163-4	italiana	_
+10163-5	:	_
+10163-6	quanti	_
+10163-7	euro	_
+10163-8	guadagnano	_
+10163-9	con	_
+10163-10	la	_
+10163-11	carità	_
+10163-12	(	_
+10163-13	e	_
+10163-14	come	_
+10163-15	li	_
+10163-16	spendono	_
+10163-17	)	_
+
+#Text=Immigrati: Calderoli, un governo serio fermerebbe invasione clandestini
+10310-1	Immigrati	_
+10310-2	:	_
+10310-3	Calderoli	_
+10310-4	,	_
+10310-5	un	_
+10310-6	governo	_
+10310-7	serio	_
+10310-8	fermerebbe	_
+10310-9	invasione	_
+10310-10	clandestini	_
+
+#Text=Immigrati: Fugatti (Lega), indegno dare case popolari ai profughi
+10134-1	Immigrati	_
+10134-2	:	_
+10134-3	Fugatti	_
+10134-4	(	_
+10134-5	Lega	_
+10134-6	)	_
+10134-7	,	_
+10134-8	indegno	_
+10134-9	dare	_
+10134-10	case	_
+10134-11	popolari	_
+10134-12	ai	_
+10134-13	profughi	_
+
+#Text=Immigrazione e stupri, ciò che non vogliono rivelare. Ecco le cifre-choc: perché l'invasione è un pericolo
+10716-1	Immigrazione	_
+10716-2	e	_
+10716-3	stupri	_
+10716-4	,	_
+10716-5	ciò	_
+10716-6	che	_
+10716-7	non	_
+10716-8	vogliono	_
+10716-9	rivelare	_
+10716-10	.	_
+10716-11	Ecco	_
+10716-12	le	_
+10716-13	cifre-choc	_
+10716-14	:	_
+10716-15	perché	_
+10716-16	l'invasione	_
+10716-17	è	_
+10716-18	un	_
+10716-19	pericolo	_
+
+#Text=Immigrazione in Italia, la verità del super-esperto. Scenario tragico: "Crisi epocale, perché ci rovinano"
+10431-1	Immigrazione	_
+10431-2	in	_
+10431-3	Italia	_
+10431-4	,	_
+10431-5	la	_
+10431-6	verità	_
+10431-7	del	_
+10431-8	super-esperto	_
+10431-9	.	_
+10431-10	Scenario	_
+10431-11	tragico	_
+10431-12	:	_
+10431-13	"	_
+10431-14	Crisi	_
+10431-15	epocale	_
+10431-16	,	_
+10431-17	perché	_
+10431-18	ci	_
+10431-19	rovinano	_
+10431-20	"	_
+
+#Text=Immigrazione nel caos Gli irregolari in libertà i centri rimpatrio vuoti
+10665-1	Immigrazione	_
+10665-2	nel	_
+10665-3	caos	_
+10665-4	Gli	_
+10665-5	irregolari	_
+10665-6	in	_
+10665-7	libertà	_
+10665-8	i	_
+10665-9	centri	_
+10665-10	rimpatrio	_
+10665-11	vuoti	_
+
+#Text=Immigrazione, a cosa vogliono ridurre i nostri militari. Godono le Ong: la legge per farci invadere "meglio"
+10723-1	Immigrazione	_
+10723-2	,	_
+10723-3	a	_
+10723-4	cosa	_
+10723-5	vogliono	_
+10723-6	ridurre	_
+10723-7	i	_
+10723-8	nostri	_
+10723-9	militari	_
+10723-10	.	_
+10723-11	Godono	_
+10723-12	le	_
+10723-13	Ong	_
+10723-14	:	_
+10723-15	la	_
+10723-16	legge	_
+10723-17	per	_
+10723-18	farci	_
+10723-19	invadere	_
+10723-20	"	_
+10723-21	meglio	_
+10723-22	"	_
+
+#Text=Immigrazione, il vescovo Negri: "Rischio eliminazione della società"
+10178-1	Immigrazione	_
+10178-2	,	_
+10178-3	il	_
+10178-4	vescovo	_
+10178-5	Negri	_
+10178-6	:	_
+10178-7	"	_
+10178-8	Rischio	_
+10178-9	eliminazione	_
+10178-10	della	_
+10178-11	società	_
+10178-12	"	_
+
+#Text=Immigrazione, la lezione della principessa araba senza velo: ecco come ferma l'invasione
+10469-1	Immigrazione	_
+10469-2	,	_
+10469-3	la	_
+10469-4	lezione	_
+10469-5	della	_
+10469-6	principessa	_
+10469-7	araba	_
+10469-8	senza	_
+10469-9	velo	_
+10469-10	:	_
+10469-11	ecco	_
+10469-12	come	_
+10469-13	ferma	_
+10469-14	l'invasione	_
+
+#Text=Immigrazione, la profezia-terremoto sull'invasione: "Arriva una nuova ondata", la bomba del big europeo
+10036-1	Immigrazione	_
+10036-2	,	_
+10036-3	la	_
+10036-4	profezia-terremoto	_
+10036-5	sull'invasione	_
+10036-6	:	_
+10036-7	"	_
+10036-8	Arriva	_
+10036-9	una	_
+10036-10	nuova	_
+10036-11	ondata	_
+10036-12	"	_
+10036-13	,	_
+10036-14	la	_
+10036-15	bomba	_
+10036-16	del	_
+10036-17	big	_
+10036-18	europeo	_
+
+#Text=Immigrazione, la ricetta di Frattini: "Chiudere i porti"
+10729-1	Immigrazione	_
+10729-2	,	_
+10729-3	la	_
+10729-4	ricetta	_
+10729-5	di	_
+10729-6	Frattini	_
+10729-7	:	_
+10729-8	"	_
+10729-9	Chiudere	_
+10729-10	i	_
+10729-11	porti	_
+10729-12	"	_
+
+#Text=Immigrazione, la rotta dei sospetti jihadisti: in Italia su moderni gommoni
+10247-1	Immigrazione	_
+10247-2	,	_
+10247-3	la	_
+10247-4	rotta	_
+10247-5	dei	_
+10247-6	sospetti	_
+10247-7	jihadisti	_
+10247-8	:	_
+10247-9	in	_
+10247-10	Italia	_
+10247-11	su	_
+10247-12	moderni	_
+10247-13	gommoni	_
+
+#Text=Immigrazione, la vergogna Pd. Lo schifo del paesino invaso: ecco quanti sono i "profughi"
+10762-1	Immigrazione	_
+10762-2	,	_
+10762-3	la	_
+10762-4	vergogna	_
+10762-5	Pd	_
+10762-6	.	_
+10762-7	Lo	_
+10762-8	schifo	_
+10762-9	del	_
+10762-10	paesino	_
+10762-11	invaso	_
+10762-12	:	_
+10762-13	ecco	_
+10762-14	quanti	_
+10762-15	sono	_
+10762-16	i	_
+10762-17	"	_
+10762-18	profughi	_
+10762-19	"	_
+
+#Text=In Porta Venezia i negozi chiudono per colpa dei profughi
+10259-1	In	_
+10259-2	Porta	_
+10259-3	Venezia	_
+10259-4	i	_
+10259-5	negozi	_
+10259-6	chiudono	_
+10259-7	per	_
+10259-8	colpa	_
+10259-9	dei	_
+10259-10	profughi	_
+
+#Text=Isis al centro d'accoglienza. "Tagliare la gola agli italiani": toh, ecco chi finisce in galera
+10550-1	Isis	_
+10550-2	al	_
+10550-3	centro	_
+10550-4	d'accoglienza	_
+10550-5	.	_
+10550-6	"	_
+10550-7	Tagliare	_
+10550-8	la	_
+10550-9	gola	_
+10550-10	agli	_
+10550-11	italiani	_
+10550-12	"	_
+10550-13	:	_
+10550-14	toh	_
+10550-15	,	_
+10550-16	ecco	_
+10550-17	chi	_
+10550-18	finisce	_
+10550-19	in	_
+10550-20	galera	_
+
+#Text=Italia invasa dai clandestini: ecco perché
+10148-1	Italia	_
+10148-2	invasa	_
+10148-3	dai	_
+10148-4	clandestini	_
+10148-5	:	_
+10148-6	ecco	_
+10148-7	perché	_
+
+#Text=Italia, la terrificante verità sulla mafia nigeriana: la colpa del governo che non si può più tollerare
+10262-1	Italia	_
+10262-2	,	_
+10262-3	la	_
+10262-4	terrificante	_
+10262-5	verità	_
+10262-6	sulla	_
+10262-7	mafia	_
+10262-8	nigeriana	_
+10262-9	:	_
+10262-10	la	_
+10262-11	colpa	_
+10262-12	del	_
+10262-13	governo	_
+10262-14	che	_
+10262-15	non	_
+10262-16	si	_
+10262-17	può	_
+10262-18	più	_
+10262-19	tollerare	_
+
+#Text=Italia, prima gli immigrati: ecco dove gli regaleranno un ristorante e un lavoro
+10683-1	Italia	_
+10683-2	,	_
+10683-3	prima	_
+10683-4	gli	_
+10683-5	immigrati	_
+10683-6	:	_
+10683-7	ecco	_
+10683-8	dove	_
+10683-9	gli	_
+10683-10	regaleranno	_
+10683-11	un	_
+10683-12	ristorante	_
+10683-13	e	_
+10683-14	un	_
+10683-15	lavoro	_
+
+#Text=Italia, vergogna continua. Stop alla nave anti-scafisti, porte aperte ai clandestini: fanno arrivare solo chi ci vuole invadere
+10400-1	Italia	_
+10400-2	,	_
+10400-3	vergogna	_
+10400-4	continua	_
+10400-5	.	_
+10400-6	Stop	_
+10400-7	alla	_
+10400-8	nave	_
+10400-9	anti-scafisti	_
+10400-10	,	_
+10400-11	porte	_
+10400-12	aperte	_
+10400-13	ai	_
+10400-14	clandestini	_
+10400-15	:	_
+10400-16	fanno	_
+10400-17	arrivare	_
+10400-18	solo	_
+10400-19	chi	_
+10400-20	ci	_
+10400-21	vuole	_
+10400-22	invadere	_
+
+#Text=Italia? Immigrati e sfottò: Mr Europa ci rende onore ma non fermerà l'invasione
+10130-1	Italia	_
+10130-2	?	_
+10130-3	Immigrati	_
+10130-4	e	_
+10130-5	sfottò	_
+10130-6	:	_
+10130-7	Mr	_
+10130-8	Europa	_
+10130-9	ci	_
+10130-10	rende	_
+10130-11	onore	_
+10130-12	ma	_
+10130-13	non	_
+10130-14	fermerà	_
+10130-15	l'invasione	_
+
+#Text=Italiani in strada a -20°, loro qui: la villa del Cinquento agli immigrati. Giardini, lusso e sfarzo: ecco le foto
+10760-1	Italiani	_
+10760-2	in	_
+10760-3	strada	_
+10760-4	a	_
+10760-5	-	_
+10760-6	20	_
+10760-7	°	_
+10760-8	,	_
+10760-9	loro	_
+10760-10	qui	_
+10760-11	:	_
+10760-12	la	_
+10760-13	villa	_
+10760-14	del	_
+10760-15	Cinquento	_
+10760-16	agli	_
+10760-17	immigrati	_
+10760-18	.	_
+10760-19	Giardini	_
+10760-20	,	_
+10760-21	lusso	_
+10760-22	e	_
+10760-23	sfarzo	_
+10760-24	:	_
+10760-25	ecco	_
+10760-26	le	_
+10760-27	foto	_
+
+#Text=Iwobi, l'africano leghista che vuole cacciare gli immigrati: "Malaria, morti e... Ecco perché devono stare a casa loro"
+10078-1	Iwobi	_
+10078-2	,	_
+10078-3	l'africano	_
+10078-4	leghista	_
+10078-5	che	_
+10078-6	vuole	_
+10078-7	cacciare	_
+10078-8	gli	_
+10078-9	immigrati	_
+10078-10	:	_
+10078-11	"	_
+10078-12	Malaria	_
+10078-13	,	_
+10078-14	morti	_
+10078-15	e	_
+10078-16	.	_
+10078-17	.	_
+10078-18	.	_
+10078-19	Ecco	_
+10078-20	perché	_
+10078-21	devono	_
+10078-22	stare	_
+10078-23	a	_
+10078-24	casa	_
+10078-25	loro	_
+10078-26	"	_
+
+#Text=L'accoglienza della 'ndrangheta. "Ai profughi il cibo per i maiali"
+10688-1	L'accoglienza	_
+10688-2	della	_
+10688-3	'	_
+10688-4	ndrangheta	_
+10688-5	.	_
+10688-6	"	_
+10688-7	Ai	_
+10688-8	profughi	_
+10688-9	il	_
+10688-10	cibo	_
+10688-11	per	_
+10688-12	i	_
+10688-13	maiali	_
+10688-14	"	_
+
+#Text=L'Europa caccia i clandestini
+10547-1	L'Europa	_
+10547-2	caccia	_
+10547-3	i	_
+10547-4	clandestini	_
+
+#Text=L'Imam di Catania contro i clandestini: "Basta sbarchi, state a casa vostra!"
+10040-1	L'Imam	_
+10040-2	di	_
+10040-3	Catania	_
+10040-4	contro	_
+10040-5	i	_
+10040-6	clandestini	_
+10040-7	:	_
+10040-8	"	_
+10040-9	Basta	_
+10040-10	sbarchi	_
+10040-11	,	_
+10040-12	state	_
+10040-13	a	_
+10040-14	casa	_
+10040-15	vostra	_
+10040-16	!	_
+10040-17	"	_
+
+#Text=Lite fra nomadi alle nozze tra una 14enne e un 15enne: i parenti dello sposo sparano
+10229-1	Lite	_
+10229-2	fra	_
+10229-3	nomadi	_
+10229-4	alle	_
+10229-5	nozze	_
+10229-6	tra	_
+10229-7	una	_
+10229-8	14enne	_
+10229-9	e	_
+10229-10	un	_
+10229-11	15enne	_
+10229-12	:	_
+10229-13	i	_
+10229-14	parenti	_
+10229-15	dello	_
+10229-16	sposo	_
+10229-17	sparano	_
+
+#Text=Sicurezza, Salvini: "Controllare i centri culturali islamici"
+10034-1	Sicurezza	_
+10034-2	,	_
+10034-3	Salvini	_
+10034-4	:	_
+10034-5	"	_
+10034-6	Controllare	_
+10034-7	i	_
+10034-8	centri	_
+10034-9	culturali	_
+10034-10	islamici	_
+10034-11	"	_
+
+#Text=Immigrazione, il nuovo allarme: sarà una invasione da Marocco ed Egitto, le guerre non c'entrano
+10000-1	Immigrazione	_
+10000-2	,	_
+10000-3	il	_
+10000-4	nuovo	_
+10000-5	allarme	_
+10000-6	:	_
+10000-7	sarà	_
+10000-8	una	_
+10000-9	invasione	_
+10000-10	da	_
+10000-11	Marocco	_
+10000-12	ed	_
+10000-13	Egitto	_
+10000-14	,	_
+10000-15	le	_
+10000-16	guerre	_
+10000-17	non	_
+10000-18	c'entrano	_
+
+#Text=Immigrazione, Viminale: 500 euro a testa ai 13mila profughi per farli uscire dai centri d'accoglienza
+10201-1	Immigrazione	_
+10201-2	,	_
+10201-3	Viminale	_
+10201-4	:	_
+10201-5	500	_
+10201-6	euro	_
+10201-7	a	_
+10201-8	testa	_
+10201-9	ai	_
+10201-10	13mila	_
+10201-11	profughi	_
+10201-12	per	_
+10201-13	farli	_
+10201-14	uscire	_
+10201-15	dai	_
+10201-16	centri	_
+10201-17	d'accoglienza	_
+
+#Text=De Falco: «Salgo a bordo con la Ong In missione per salvare i migranti»
+10411-1	De	_
+10411-2	Falco	_
+10411-3	:	_
+10411-4	«	_
+10411-5	Salgo	_
+10411-6	a	_
+10411-7	bordo	_
+10411-8	con	_
+10411-9	la	_
+10411-10	Ong	_
+10411-11	In	_
+10411-12	missione	_
+10411-13	per	_
+10411-14	salvare	_
+10411-15	i	_
+10411-16	migranti	_
+10411-17	»	_
+
+#Text=Di Maio: “I campi rom vanno chiusi. Alle europee 5 capilista donne per il M5S”
+10189-1	Di	_
+10189-2	Maio	_
+10189-3	:	_
+10189-4	“	_
+10189-5	I	_
+10189-6	campi	_
+10189-7	rom	_
+10189-8	vanno	_
+10189-9	chiusi	_
+10189-10	.	_
+10189-11	Alle	_
+10189-12	europee	_
+10189-13	5	_
+10189-14	capilista	_
+10189-15	donne	_
+10189-16	per	_
+10189-17	il	_
+10189-18	M5S	_
+10189-19	”	_
+
+#Text=Matteo Salvini, i vescovi si convertono sugli immigrati: ha ragione lui, occhio a questi titoli
+10161-1	Matteo	_
+10161-2	Salvini	_
+10161-3	,	_
+10161-4	i	_
+10161-5	vescovi	_
+10161-6	si	_
+10161-7	convertono	_
+10161-8	sugli	_
+10161-9	immigrati	_
+10161-10	:	_
+10161-11	ha	_
+10161-12	ragione	_
+10161-13	lui	_
+10161-14	,	_
+10161-15	occhio	_
+10161-16	a	_
+10161-17	questi	_
+10161-18	titoli	_
+
+#Text=Europee, Salvini: "Oggi vero pericolo è terrorismo islamico, non il ritorno del fascismo, nazismo o comunismo"
+10434-1	Europee	_
+10434-2	,	_
+10434-3	Salvini	_
+10434-4	:	_
+10434-5	"	_
+10434-6	Oggi	_
+10434-7	vero	_
+10434-8	pericolo	_
+10434-9	è	_
+10434-10	terrorismo	_
+10434-11	islamico	_
+10434-12	,	_
+10434-13	non	_
+10434-14	il	_
+10434-15	ritorno	_
+10434-16	del	_
+10434-17	fascismo	_
+10434-18	,	_
+10434-19	nazismo	_
+10434-20	o	_
+10434-21	comunismo	_
+10434-22	"	_
+
+#Text=Niente più affari con i migranti e adesso cooperative e sindacati scendono in piazza
+10217-1	Niente	_
+10217-2	più	_
+10217-3	affari	_
+10217-4	con	_
+10217-5	i	_
+10217-6	migranti	_
+10217-7	e	_
+10217-8	adesso	_
+10217-9	cooperative	_
+10217-10	e	_
+10217-11	sindacati	_
+10217-12	scendono	_
+10217-13	in	_
+10217-14	piazza	_
+
+#Text=Nel Cuneese bambini cattolici e musulmani a scuola di religione insieme
+10122-1	Nel	_
+10122-2	Cuneese	_
+10122-3	bambini	_
+10122-4	cattolici	_
+10122-5	e	_
+10122-6	musulmani	_
+10122-7	a	_
+10122-8	scuola	_
+10122-9	di	_
+10122-10	religione	_
+10122-11	insieme	_
+
+#Text=M5S, Di Maio: "Superiamo i campi rom ma sgomberiamo anche chi occupa abusivamente come CasaPound"
+10530-1	M5S	_
+10530-2	,	_
+10530-3	Di	_
+10530-4	Maio	_
+10530-5	:	_
+10530-6	"	_
+10530-7	Superiamo	_
+10530-8	i	_
+10530-9	campi	_
+10530-10	rom	_
+10530-11	ma	_
+10530-12	sgomberiamo	_
+10530-13	anche	_
+10530-14	chi	_
+10530-15	occupa	_
+10530-16	abusivamente	_
+10530-17	come	_
+10530-18	CasaPound	_
+10530-19	"	_
+
+#Text=Di Maio sfida Salvini: sgomberiamo chi non ha diritto, dai rom a CasaPound
+10527-1	Di	_
+10527-2	Maio	_
+10527-3	sfida	_
+10527-4	Salvini	_
+10527-5	:	_
+10527-6	sgomberiamo	_
+10527-7	chi	_
+10527-8	non	_
+10527-9	ha	_
+10527-10	diritto	_
+10527-11	,	_
+10527-12	dai	_
+10527-13	rom	_
+10527-14	a	_
+10527-15	CasaPound	_
+
+#Text=Proteste e urla contro la casa ai rom: “Meglio i migranti degli zingari”
+10514-1	Proteste	_
+10514-2	e	_
+10514-3	urla	_
+10514-4	contro	_
+10514-5	la	_
+10514-6	casa	_
+10514-7	ai	_
+10514-8	rom	_
+10514-9	:	_
+10514-10	“	_
+10514-11	Meglio	_
+10514-12	i	_
+10514-13	migranti	_
+10514-14	degli	_
+10514-15	zingari	_
+10514-16	”	_
+
+#Text=Inferno-Libia, Tripoli: civili, migranti e rifugiati intrappolati nelle aree dei combattimenti
+10582-1	Inferno-Libia	_
+10582-2	,	_
+10582-3	Tripoli	_
+10582-4	:	_
+10582-5	civili	_
+10582-6	,	_
+10582-7	migranti	_
+10582-8	e	_
+10582-9	rifugiati	_
+10582-10	intrappolati	_
+10582-11	nelle	_
+10582-12	aree	_
+10582-13	dei	_
+10582-14	combattimenti	_
+
+#Text=De Falco: pronto a imbarcarmi sulla Mare Jonio, riprovevole chi specula sui migranti
+10672-1	De	_
+10672-2	Falco	_
+10672-3	:	_
+10672-4	pronto	_
+10672-5	a	_
+10672-6	imbarcarmi	_
+10672-7	sulla	_
+10672-8	Mare	_
+10672-9	Jonio	_
+10672-10	,	_
+10672-11	riprovevole	_
+10672-12	chi	_
+10672-13	specula	_
+10672-14	sui	_
+10672-15	migranti	_
+
+#Text=Investe e uccide un migrante in bici, si ferma ma rischia il linciaggio: salvato dalla polizia
+10243-1	Investe	_
+10243-2	e	_
+10243-3	uccide	_
+10243-4	un	_
+10243-5	migrante	_
+10243-6	in	_
+10243-7	bici	_
+10243-8	,	_
+10243-9	si	_
+10243-10	ferma	_
+10243-11	ma	_
+10243-12	rischia	_
+10243-13	il	_
+10243-14	linciaggio	_
+10243-15	:	_
+10243-16	salvato	_
+10243-17	dalla	_
+10243-18	polizia	_
+
+#Text=Catania, l'ingegnere "negro" che smonta con i numeri le bufale sui migranti
+10030-1	Catania	_
+10030-2	,	_
+10030-3	l'ingegnere	_
+10030-4	"	_
+10030-5	negro	_
+10030-6	"	_
+10030-7	che	_
+10030-8	smonta	_
+10030-9	con	_
+10030-10	i	_
+10030-11	numeri	_
+10030-12	le	_
+10030-13	bufale	_
+10030-14	sui	_
+10030-15	migranti	_
+
+#Text=Mimmo Lucano e altri 26 a giudizio per gestione migranti a Riace. Processo l'11 giugno
+10629-1	Mimmo	_
+10629-2	Lucano	_
+10629-3	e	_
+10629-4	altri	_
+10629-5	26	_
+10629-6	a	_
+10629-7	giudizio	_
+10629-8	per	_
+10629-9	gestione	_
+10629-10	migranti	_
+10629-11	a	_
+10629-12	Riace	_
+10629-13	.	_
+10629-14	Processo	_
+10629-15	l	_
+10629-16	'	_
+10629-17	11	_
+10629-18	giugno	_
+
+#Text=Mimmo Lucano rinviato a giudizio per la gestione dei migranti a Riace
+10181-1	Mimmo	_
+10181-2	Lucano	_
+10181-3	rinviato	_
+10181-4	a	_
+10181-5	giudizio	_
+10181-6	per	_
+10181-7	la	_
+10181-8	gestione	_
+10181-9	dei	_
+10181-10	migranti	_
+10181-11	a	_
+10181-12	Riace	_
+
+#Text=Riace, nuovo avviso di garanzia per Mimmo Lucano: truffa e falso ideologico per le case che ospitavano i migranti
+10283-1	Riace	_
+10283-2	,	_
+10283-3	nuovo	_
+10283-4	avviso	_
+10283-5	di	_
+10283-6	garanzia	_
+10283-7	per	_
+10283-8	Mimmo	_
+10283-9	Lucano	_
+10283-10	:	_
+10283-11	truffa	_
+10283-12	e	_
+10283-13	falso	_
+10283-14	ideologico	_
+10283-15	per	_
+10283-16	le	_
+10283-17	case	_
+10283-18	che	_
+10283-19	ospitavano	_
+10283-20	i	_
+10283-21	migranti	_
+
+#Text=Malta: i 64 migranti della Alan Kurdi smistati in Germania, Francia, Portogallo e Lussemburgo
+10401-1	Malta	_
+10401-2	:	_
+10401-3	i	_
+10401-4	64	_
+10401-5	migranti	_
+10401-6	della	_
+10401-7	Alan	_
+10401-8	Kurdi	_
+10401-9	smistati	_
+10401-10	in	_
+10401-11	Germania	_
+10401-12	,	_
+10401-13	Francia	_
+10401-14	,	_
+10401-15	Portogallo	_
+10401-16	e	_
+10401-17	Lussemburgo	_
+
+#Text=Sea Eye, nessun migrante verrà in Italia. ​Li prendono Merkel e Macron
+10332-1	Sea	_
+10332-2	Eye	_
+10332-3	,	_
+10332-4	nessun	_
+10332-5	migrante	_
+10332-6	verrà	_
+10332-7	in	_
+10332-8	Italia	_
+10332-9	.	_
+10332-10	​	_
+10332-11	Li	_
+10332-12	prendono	_
+10332-13	Merkel	_
+10332-14	e	_
+10332-15	Macron	_
+
+#Text=Sputi e pietre contro mamme e bimbi nomadi: denunciato gruppo di ragazzini
+10789-1	Sputi	_
+10789-2	e	_
+10789-3	pietre	_
+10789-4	contro	_
+10789-5	mamme	_
+10789-6	e	_
+10789-7	bimbi	_
+10789-8	nomadi	_
+10789-9	:	_
+10789-10	denunciato	_
+10789-11	gruppo	_
+10789-12	di	_
+10789-13	ragazzini	_
+
+#Text=Trump attacca Ilhan Omar, la prima musulmana in Congresso
+10626-1	Trump	_
+10626-2	attacca	_
+10626-3	Ilhan	_
+10626-4	Omar	_
+10626-5	,	_
+10626-6	la	_
+10626-7	prima	_
+10626-8	musulmana	_
+10626-9	in	_
+10626-10	Congresso	_
+
+#Text=Libia, la rabbia di Matteo Salvini: perché la guerra può far saltare il suo piano sugli immigrati
+10155-1	Libia	_
+10155-2	,	_
+10155-3	la	_
+10155-4	rabbia	_
+10155-5	di	_
+10155-6	Matteo	_
+10155-7	Salvini	_
+10155-8	:	_
+10155-9	perché	_
+10155-10	la	_
+10155-11	guerra	_
+10155-12	può	_
+10155-13	far	_
+10155-14	saltare	_
+10155-15	il	_
+10155-16	suo	_
+10155-17	piano	_
+10155-18	sugli	_
+10155-19	immigrati	_
+
+#Text=Guerra in Libia: aiuti stranieri alle milizie. Continua la battaglia di Tripoli
+10139-1	Guerra	_
+10139-2	in	_
+10139-3	Libia	_
+10139-4	:	_
+10139-5	aiuti	_
+10139-6	stranieri	_
+10139-7	alle	_
+10139-8	milizie	_
+10139-9	.	_
+10139-10	Continua	_
+10139-11	la	_
+10139-12	battaglia	_
+10139-13	di	_
+10139-14	Tripoli	_
+
+#Text=Libia, il dossier degli 007: seimila profughi pronti a partire per l’Italia
+10202-1	Libia	_
+10202-2	,	_
+10202-3	il	_
+10202-4	dossier	_
+10202-5	degli	_
+10202-6	007	_
+10202-7	:	_
+10202-8	seimila	_
+10202-9	profughi	_
+10202-10	pronti	_
+10202-11	a	_
+10202-12	partire	_
+10202-13	per	_
+10202-14	l	_
+10202-15	’	_
+10202-16	Italia	_
+
+#Text=Iraq: “Era meglio nei campi profughi”. La gente di Mosul si pente di essere tornata a casa
+10678-1	Iraq	_
+10678-2	:	_
+10678-3	“	_
+10678-4	Era	_
+10678-5	meglio	_
+10678-6	nei	_
+10678-7	campi	_
+10678-8	profughi	_
+10678-9	”	_
+10678-10	.	_
+10678-11	La	_
+10678-12	gente	_
+10678-13	di	_
+10678-14	Mosul	_
+10678-15	si	_
+10678-16	pente	_
+10678-17	di	_
+10678-18	essere	_
+10678-19	tornata	_
+10678-20	a	_
+10678-21	casa	_
+
+#Text=La Trenta vuole riaprire i porti: "Dalla Libia rifugiati e non migranti"
+10261-1	La	_
+10261-2	Trenta	_
+10261-3	vuole	_
+10261-4	riaprire	_
+10261-5	i	_
+10261-6	porti	_
+10261-7	:	_
+10261-8	"	_
+10261-9	Dalla	_
+10261-10	Libia	_
+10261-11	rifugiati	_
+10261-12	e	_
+10261-13	non	_
+10261-14	migranti	_
+10261-15	"	_
+
+#Text=Trenta: «È guerra, i migranti diventano rifugiati e vanno accolti. Alla Lega spiego il diritto internazionale»
+10013-1	Trenta	_
+10013-2	:	_
+10013-3	«	_
+10013-4	È	_
+10013-5	guerra	_
+10013-6	,	_
+10013-7	i	_
+10013-8	migranti	_
+10013-9	diventano	_
+10013-10	rifugiati	_
+10013-11	e	_
+10013-12	vanno	_
+10013-13	accolti	_
+10013-14	.	_
+10013-15	Alla	_
+10013-16	Lega	_
+10013-17	spiego	_
+10013-18	il	_
+10013-19	diritto	_
+10013-20	internazionale	_
+10013-21	»	_
+
+#Text=Sarraj: “Ottocentomila migranti pronti a partire per l’Europa e l’Italia”
+10160-1	Sarraj	_
+10160-2	:	_
+10160-3	“	_
+10160-4	Ottocentomila	_
+10160-5	migranti	_
+10160-6	pronti	_
+10160-7	a	_
+10160-8	partire	_
+10160-9	per	_
+10160-10	l	_
+10160-11	’	_
+10160-12	Europa	_
+10160-13	e	_
+10160-14	l	_
+10160-15	’	_
+10160-16	Italia	_
+10160-17	”	_
+
+#Text=Notre Dame, i jihadisti esultano sul web. E sui social monta la tesi del complotto islamico
+10141-1	Notre	_
+10141-2	Dame	_
+10141-3	,	_
+10141-4	i	_
+10141-5	jihadisti	_
+10141-6	esultano	_
+10141-7	sul	_
+10141-8	web	_
+10141-9	.	_
+10141-10	E	_
+10141-11	sui	_
+10141-12	social	_
+10141-13	monta	_
+10141-14	la	_
+10141-15	tesi	_
+10141-16	del	_
+10141-17	complotto	_
+10141-18	islamico	_
+
+#Text=Resa dei conti per Alex Belli, Delia attacca Mila: sei musulmana e...
+10188-1	Resa	_
+10188-2	dei	_
+10188-3	conti	_
+10188-4	per	_
+10188-5	Alex	_
+10188-6	Belli	_
+10188-7	,	_
+10188-8	Delia	_
+10188-9	attacca	_
+10188-10	Mila	_
+10188-11	:	_
+10188-12	sei	_
+10188-13	musulmana	_
+10188-14	e	_
+10188-15	.	_
+10188-16	.	_
+10188-17	.	_
+
+#Text=Minorenni di origine straniera: sono un milione (metà donne) e affrontano discriminazioni per la loro origine
+10186-1	Minorenni	_
+10186-2	di	_
+10186-3	origine	_
+10186-4	straniera	_
+10186-5	:	_
+10186-6	sono	_
+10186-7	un	_
+10186-8	milione	_
+10186-9	(	_
+10186-10	metà	_
+10186-11	donne	_
+10186-12	)	_
+10186-13	e	_
+10186-14	affrontano	_
+10186-15	discriminazioni	_
+10186-16	per	_
+10186-17	la	_
+10186-18	loro	_
+10186-19	origine	_
+
+#Text=Saviano "spara" su Notre Dame: "Affannati per la cattedrale, ma ignoriamo i migranti"
+10635-1	Saviano	_
+10635-2	"	_
+10635-3	spara	_
+10635-4	"	_
+10635-5	su	_
+10635-6	Notre	_
+10635-7	Dame	_
+10635-8	:	_
+10635-9	"	_
+10635-10	Affannati	_
+10635-11	per	_
+10635-12	la	_
+10635-13	cattedrale	_
+10635-14	,	_
+10635-15	ma	_
+10635-16	ignoriamo	_
+10635-17	i	_
+10635-18	migranti	_
+10635-19	"	_
+
+#Text=Tutto il mondo è Salone: migranti, sovranismi, Europa, ma anche fiction, fumetti e rap
+10792-1	Tutto	_
+10792-2	il	_
+10792-3	mondo	_
+10792-4	è	_
+10792-5	Salone	_
+10792-6	:	_
+10792-7	migranti	_
+10792-8	,	_
+10792-9	sovranismi	_
+10792-10	,	_
+10792-11	Europa	_
+10792-12	,	_
+10792-13	ma	_
+10792-14	anche	_
+10792-15	fiction	_
+10792-16	,	_
+10792-17	fumetti	_
+10792-18	e	_
+10792-19	rap	_
+
+#Text=Nei quartieri islamici tra collette e sospetti: “La Chiesa ha già i soldi”
+10168-1	Nei	_
+10168-2	quartieri	_
+10168-3	islamici	_
+10168-4	tra	_
+10168-5	collette	_
+10168-6	e	_
+10168-7	sospetti	_
+10168-8	:	_
+10168-9	“	_
+10168-10	La	_
+10168-11	Chiesa	_
+10168-12	ha	_
+10168-13	già	_
+10168-14	i	_
+10168-15	soldi	_
+10168-16	”	_
+
+#Text=Via Crucis al Colosseo, le meditazioni contestano porti chiusi e lager dei migranti: "Sono i nuovi calvari"
+10107-1	Via	_
+10107-2	Crucis	_
+10107-3	al	_
+10107-4	Colosseo	_
+10107-5	,	_
+10107-6	le	_
+10107-7	meditazioni	_
+10107-8	contestano	_
+10107-9	porti	_
+10107-10	chiusi	_
+10107-11	e	_
+10107-12	lager	_
+10107-13	dei	_
+10107-14	migranti	_
+10107-15	:	_
+10107-16	"	_
+10107-17	Sono	_
+10107-18	i	_
+10107-19	nuovi	_
+10107-20	calvari	_
+10107-21	"	_
+
+#Text=Migranti, i profughi cantano con Mannoia e Turci: nasce 'We are one' il video dello Sprar
+10294-1	Migranti	_
+10294-2	,	_
+10294-3	i	_
+10294-4	profughi	_
+10294-5	cantano	_
+10294-6	con	_
+10294-7	Mannoia	_
+10294-8	e	_
+10294-9	Turci	_
+10294-10	:	_
+10294-11	nasce	_
+10294-12	'	_
+10294-13	We	_
+10294-14	are	_
+10294-15	one	_
+10294-16	'	_
+10294-17	il	_
+10294-18	video	_
+10294-19	dello	_
+10294-20	Sprar	_
+
+#Text=Barchino di migranti tenta di arrivare a remi in Sardegna
+10794-1	Barchino	_
+10794-2	di	_
+10794-3	migranti	_
+10794-4	tenta	_
+10794-5	di	_
+10794-6	arrivare	_
+10794-7	a	_
+10794-8	remi	_
+10794-9	in	_
+10794-10	Sardegna	_
+
+#Text=Firenze, minacciato e offeso dopo aver difeso ragazzo straniero
+10303-1	Firenze	_
+10303-2	,	_
+10303-3	minacciato	_
+10303-4	e	_
+10303-5	offeso	_
+10303-6	dopo	_
+10303-7	aver	_
+10303-8	difeso	_
+10303-9	ragazzo	_
+10303-10	straniero	_
+
+#Text=Rivoluzione “modest fashion” tra hijab e abaya: il velo islamico diventa un must
+10700-1	Rivoluzione	_
+10700-2	“	_
+10700-3	modest	_
+10700-4	fashion	_
+10700-5	”	_
+10700-6	tra	_
+10700-7	hijab	_
+10700-8	e	_
+10700-9	abaya	_
+10700-10	:	_
+10700-11	il	_
+10700-12	velo	_
+10700-13	islamico	_
+10700-14	diventa	_
+10700-15	un	_
+10700-16	must	_
+
+#Text=Porti chiusi dal governo? I migranti partiti dall’Algeria continuano a sbarcare in Sardegna
+10712-1	Porti	_
+10712-2	chiusi	_
+10712-3	dal	_
+10712-4	governo	_
+10712-5	?	_
+10712-6	I	_
+10712-7	migranti	_
+10712-8	partiti	_
+10712-9	dall	_
+10712-10	’	_
+10712-11	Algeria	_
+10712-12	continuano	_
+10712-13	a	_
+10712-14	sbarcare	_
+10712-15	in	_
+10712-16	Sardegna	_
+
+#Text=Lite tra nomadi durante le nozze tra due ragazzini, i parenti dello sposo sparano: accusati di tentato omicidio
+10597-1	Lite	_
+10597-2	tra	_
+10597-3	nomadi	_
+10597-4	durante	_
+10597-5	le	_
+10597-6	nozze	_
+10597-7	tra	_
+10597-8	due	_
+10597-9	ragazzini	_
+10597-10	,	_
+10597-11	i	_
+10597-12	parenti	_
+10597-13	dello	_
+10597-14	sposo	_
+10597-15	sparano	_
+10597-16	:	_
+10597-17	accusati	_
+10597-18	di	_
+10597-19	tentato	_
+10597-20	omicidio	_
+
+#Text=Giovane autistico convinto a sposare una donna straniera per 7mila euro
+10007-1	Giovane	_
+10007-2	autistico	_
+10007-3	convinto	_
+10007-4	a	_
+10007-5	sposare	_
+10007-6	una	_
+10007-7	donna	_
+10007-8	straniera	_
+10007-9	per	_
+10007-10	7mila	_
+10007-11	euro	_
+
+#Text=Bassetti: "Problema non sono i migranti, ma il lavoro che manca"
+10407-1	Bassetti	_
+10407-2	:	_
+10407-3	"	_
+10407-4	Problema	_
+10407-5	non	_
+10407-6	sono	_
+10407-7	i	_
+10407-8	migranti	_
+10407-9	,	_
+10407-10	ma	_
+10407-11	il	_
+10407-12	lavoro	_
+10407-13	che	_
+10407-14	manca	_
+10407-15	"	_
+
+#Text=Via Crucis, papa Francesco prega per i migranti: "Porte chiuse per cuori blindati da calcoli politici"
+10650-1	Via	_
+10650-2	Crucis	_
+10650-3	,	_
+10650-4	papa	_
+10650-5	Francesco	_
+10650-6	prega	_
+10650-7	per	_
+10650-8	i	_
+10650-9	migranti	_
+10650-10	:	_
+10650-11	"	_
+10650-12	Porte	_
+10650-13	chiuse	_
+10650-14	per	_
+10650-15	cuori	_
+10650-16	blindati	_
+10650-17	da	_
+10650-18	calcoli	_
+10650-19	politici	_
+10650-20	"	_
+
+#Text=Sri Lanka, 8 esplosioni in chiese e hotel: 290 vittime, 35 stranieri.   7   kamikaze:  «È terrorismo religioso»
+10663-1	Sri	_
+10663-2	Lanka	_
+10663-3	,	_
+10663-4	8	_
+10663-5	esplosioni	_
+10663-6	in	_
+10663-7	chiese	_
+10663-8	e	_
+10663-9	hotel	_
+10663-10	:	_
+10663-11	290	_
+10663-12	vittime	_
+10663-13	,	_
+10663-14	35	_
+10663-15	stranieri	_
+10663-16	.	_
+10663-17	7	_
+10663-18	kamikaze	_
+10663-19	:	_
+10663-20	«	_
+10663-21	È	_
+10663-22	terrorismo	_
+10663-23	religioso	_
+10663-24	»	_
+
+#Text=Attentato Sri Lanka: «Vendetta islamica per i morti in Nuova Zelanda»
+10674-1	Attentato	_
+10674-2	Sri	_
+10674-3	Lanka	_
+10674-4	:	_
+10674-5	«	_
+10674-6	Vendetta	_
+10674-7	islamica	_
+10674-8	per	_
+10674-9	i	_
+10674-10	morti	_
+10674-11	in	_
+10674-12	Nuova	_
+10674-13	Zelanda	_
+10674-14	»	_
+
+#Text=La Cassazione: “I migranti gay vanno accolti se nei loro Paesi sono a rischio”
+10623-1	La	_
+10623-2	Cassazione	_
+10623-3	:	_
+10623-4	“	_
+10623-5	I	_
+10623-6	migranti	_
+10623-7	gay	_
+10623-8	vanno	_
+10623-9	accolti	_
+10623-10	se	_
+10623-11	nei	_
+10623-12	loro	_
+10623-13	Paesi	_
+10623-14	sono	_
+10623-15	a	_
+10623-16	rischio	_
+10623-17	”	_
+
+#Text=Dalla Svezia arriva Izabella, l'anti-Greta Thunberg che si batte contro immigrazione e teoria del gender
+10525-1	Dalla	_
+10525-2	Svezia	_
+10525-3	arriva	_
+10525-4	Izabella	_
+10525-5	,	_
+10525-6	l'anti-Greta	_
+10525-7	Thunberg	_
+10525-8	che	_
+10525-9	si	_
+10525-10	batte	_
+10525-11	contro	_
+10525-12	immigrazione	_
+10525-13	e	_
+10525-14	teoria	_
+10525-15	del	_
+10525-16	gender	_
+
+#Text=Beppe Grillo al Fatto: "Salvini ministro dell’Interno a sua insaputa. Parla di mafie? No dei migranti"
+10633-1	Beppe	_
+10633-2	Grillo	_
+10633-3	al	_
+10633-4	Fatto	_
+10633-5	:	_
+10633-6	"	_
+10633-7	Salvini	_
+10633-8	ministro	_
+10633-9	dell	_
+10633-10	’	_
+10633-11	Interno	_
+10633-12	a	_
+10633-13	sua	_
+10633-14	insaputa	_
+10633-15	.	_
+10633-16	Parla	_
+10633-17	di	_
+10633-18	mafie	_
+10633-19	?	_
+10633-20	No	_
+10633-21	dei	_
+10633-22	migranti	_
+10633-23	"	_
+
+#Text=Salvini: "90mila i migranti irregolari". E il M5S: "Nel contratto di governo scrisse 500mila"
+10717-1	Salvini	_
+10717-2	:	_
+10717-3	"	_
+10717-4	90mila	_
+10717-5	i	_
+10717-6	migranti	_
+10717-7	irregolari	_
+10717-8	"	_
+10717-9	.	_
+10717-10	E	_
+10717-11	il	_
+10717-12	M5S	_
+10717-13	:	_
+10717-14	"	_
+10717-15	Nel	_
+10717-16	contratto	_
+10717-17	di	_
+10717-18	governo	_
+10717-19	scrisse	_
+10717-20	500mila	_
+10717-21	"	_
+
+#Text=Napoli, i migranti cantano "Bella ciao" con de Magistris
+10379-1	Napoli	_
+10379-2	,	_
+10379-3	i	_
+10379-4	migranti	_
+10379-5	cantano	_
+10379-6	"	_
+10379-7	Bella	_
+10379-8	ciao	_
+10379-9	"	_
+10379-10	con	_
+10379-11	de	_
+10379-12	Magistris	_
+
+#Text=Commento | Crisi libica e profughi, l’Italia è troppo isolata
+10568-1	Commento	_
+10568-2	|	_
+10568-3	Crisi	_
+10568-4	libica	_
+10568-5	e	_
+10568-6	profughi	_
+10568-7	,	_
+10568-8	l	_
+10568-9	’	_
+10568-10	Italia	_
+10568-11	è	_
+10568-12	troppo	_
+10568-13	isolata	_
+
+#Text=Alle celebrazioni per il 25 aprile i giovani immigrati battono gli italiani
+10384-1	Alle	_
+10384-2	celebrazioni	_
+10384-3	per	_
+10384-4	il	_
+10384-5	25	_
+10384-6	aprile	_
+10384-7	i	_
+10384-8	giovani	_
+10384-9	immigrati	_
+10384-10	battono	_
+10384-11	gli	_
+10384-12	italiani	_
+
+#Text=Mafia, Zingaretti: "Appoggio della mafia rom a Salvini sarebbe ennesimo fatto oscuro"
+10555-1	Mafia	_
+10555-2	,	_
+10555-3	Zingaretti	_
+10555-4	:	_
+10555-5	"	_
+10555-6	Appoggio	_
+10555-7	della	_
+10555-8	mafia	_
+10555-9	rom	_
+10555-10	a	_
+10555-11	Salvini	_
+10555-12	sarebbe	_
+10555-13	ennesimo	_
+10555-14	fatto	_
+10555-15	oscuro	_
+10555-16	"	_
+
+#Text=Migranti, "il governo dell'Ungheria lascia i migranti senza cibo. Qualcuno non ha mangiato per 5 giorni"
+10598-1	Migranti	_
+10598-2	,	_
+10598-3	"	_
+10598-4	il	_
+10598-5	governo	_
+10598-6	dell'Ungheria	_
+10598-7	lascia	_
+10598-8	i	_
+10598-9	migranti	_
+10598-10	senza	_
+10598-11	cibo	_
+10598-12	.	_
+10598-13	Qualcuno	_
+10598-14	non	_
+10598-15	ha	_
+10598-16	mangiato	_
+10598-17	per	_
+10598-18	5	_
+10598-19	giorni	_
+10598-20	"	_
+
+#Text=Spari sui migranti in Libia, la testimonianza: "Uomini e donne stavano pregando insieme, poi sono arrivati i soldati"
+10504-1	Spari	_
+10504-2	sui	_
+10504-3	migranti	_
+10504-4	in	_
+10504-5	Libia	_
+10504-6	,	_
+10504-7	la	_
+10504-8	testimonianza	_
+10504-9	:	_
+10504-10	"	_
+10504-11	Uomini	_
+10504-12	e	_
+10504-13	donne	_
+10504-14	stavano	_
+10504-15	pregando	_
+10504-16	insieme	_
+10504-17	,	_
+10504-18	poi	_
+10504-19	sono	_
+10504-20	arrivati	_
+10504-21	i	_
+10504-22	soldati	_
+10504-23	"	_
+
+#Text=Latina, Morra: "Salvini in commissione Antimafia". Sul tavolo i presunti legami tra la Lega e il clan rom Di Silvio
+10345-1	Latina	_
+10345-2	,	_
+10345-3	Morra	_
+10345-4	:	_
+10345-5	"	_
+10345-6	Salvini	_
+10345-7	in	_
+10345-8	commissione	_
+10345-9	Antimafia	_
+10345-10	"	_
+10345-11	.	_
+10345-12	Sul	_
+10345-13	tavolo	_
+10345-14	i	_
+10345-15	presunti	_
+10345-16	legami	_
+10345-17	tra	_
+10345-18	la	_
+10345-19	Lega	_
+10345-20	e	_
+10345-21	il	_
+10345-22	clan	_
+10345-23	rom	_
+10345-24	Di	_
+10345-25	Silvio	_
+
+#Text=Papa Francesco dona 500mila dollari a chi ha aiutato i migranti in Messico
+10578-1	Papa	_
+10578-2	Francesco	_
+10578-3	dona	_
+10578-4	500mila	_
+10578-5	dollari	_
+10578-6	a	_
+10578-7	chi	_
+10578-8	ha	_
+10578-9	aiutato	_
+10578-10	i	_
+10578-11	migranti	_
+10578-12	in	_
+10578-13	Messico	_
+
+#Text=Milano, straniero accecato con lo spray e picchiato: due agenti di polizia a processo
+10511-1	Milano	_
+10511-2	,	_
+10511-3	straniero	_
+10511-4	accecato	_
+10511-5	con	_
+10511-6	lo	_
+10511-7	spray	_
+10511-8	e	_
+10511-9	picchiato	_
+10511-10	:	_
+10511-11	due	_
+10511-12	agenti	_
+10511-13	di	_
+10511-14	polizia	_
+10511-15	a	_
+10511-16	processo	_
+
+#Text=Libia, Papa: "Evacuare profughi dai centri di detenzione con i corridoi umanitari"
+10080-1	Libia	_
+10080-2	,	_
+10080-3	Papa	_
+10080-4	:	_
+10080-5	"	_
+10080-6	Evacuare	_
+10080-7	profughi	_
+10080-8	dai	_
+10080-9	centri	_
+10080-10	di	_
+10080-11	detenzione	_
+10080-12	con	_
+10080-13	i	_
+10080-14	corridoi	_
+10080-15	umanitari	_
+10080-16	"	_
+
+#Text=Il Papa: Libia, corridoi umanitari per i profughi oggi ancora più in pericolo
+10368-1	Il	_
+10368-2	Papa	_
+10368-3	:	_
+10368-4	Libia	_
+10368-5	,	_
+10368-6	corridoi	_
+10368-7	umanitari	_
+10368-8	per	_
+10368-9	i	_
+10368-10	profughi	_
+10368-11	oggi	_
+10368-12	ancora	_
+10368-13	più	_
+10368-14	in	_
+10368-15	pericolo	_
+
+#Text=Sutera, nel borgo siciliano dell'accoglienza bruciato il pulmino per i migranti: "Clima di odio senza precedenti"
+10203-1	Sutera	_
+10203-2	,	_
+10203-3	nel	_
+10203-4	borgo	_
+10203-5	siciliano	_
+10203-6	dell'accoglienza	_
+10203-7	bruciato	_
+10203-8	il	_
+10203-9	pulmino	_
+10203-10	per	_
+10203-11	i	_
+10203-12	migranti	_
+10203-13	:	_
+10203-14	"	_
+10203-15	Clima	_
+10203-16	di	_
+10203-17	odio	_
+10203-18	senza	_
+10203-19	precedenti	_
+10203-20	"	_
+
+#Text=Il Vangelo è tra i migranti: la Chiesa sale sulla Mare Jonio
+10284-1	Il	_
+10284-2	Vangelo	_
+10284-3	è	_
+10284-4	tra	_
+10284-5	i	_
+10284-6	migranti	_
+10284-7	:	_
+10284-8	la	_
+10284-9	Chiesa	_
+10284-10	sale	_
+10284-11	sulla	_
+10284-12	Mare	_
+10284-13	Jonio	_
+
+#Text=Il Papa bacchetta i sovranisti: ​"Le Nazioni sono fatte dai migranti"
+10445-1	Il	_
+10445-2	Papa	_
+10445-3	bacchetta	_
+10445-4	i	_
+10445-5	sovranisti	_
+10445-6	:	_
+10445-7	​	_
+10445-8	"	_
+10445-9	Le	_
+10445-10	Nazioni	_
+10445-11	sono	_
+10445-12	fatte	_
+10445-13	dai	_
+10445-14	migranti	_
+10445-15	"	_
+
+#Text=Maurizio Molinari: "Diseguaglianze e migranti sono il terreno di sfida fra gialloverdi e opposizione"
+10450-1	Maurizio	_
+10450-2	Molinari	_
+10450-3	:	_
+10450-4	"	_
+10450-5	Diseguaglianze	_
+10450-6	e	_
+10450-7	migranti	_
+10450-8	sono	_
+10450-9	il	_
+10450-10	terreno	_
+10450-11	di	_
+10450-12	sfida	_
+10450-13	fra	_
+10450-14	gialloverdi	_
+10450-15	e	_
+10450-16	opposizione	_
+10450-17	"	_
+
+#Text=Reddito di cittadinanza, superata quota un milione: in testa Campania e Sicilia, gli stranieri sono il 10%
+10634-1	Reddito	_
+10634-2	di	_
+10634-3	cittadinanza	_
+10634-4	,	_
+10634-5	superata	_
+10634-6	quota	_
+10634-7	un	_
+10634-8	milione	_
+10634-9	:	_
+10634-10	in	_
+10634-11	testa	_
+10634-12	Campania	_
+10634-13	e	_
+10634-14	Sicilia	_
+10634-15	,	_
+10634-16	gli	_
+10634-17	stranieri	_
+10634-18	sono	_
+10634-19	il	_
+10634-20	10%	_
+
+#Text=Decreto sicurezza, stop dei giudici: sì alla residenza per i profughi
+10615-1	Decreto	_
+10615-2	sicurezza	_
+10615-3	,	_
+10615-4	stop	_
+10615-5	dei	_
+10615-6	giudici	_
+10615-7	:	_
+10615-8	sì	_
+10615-9	alla	_
+10615-10	residenza	_
+10615-11	per	_
+10615-12	i	_
+10615-13	profughi	_
+
+#Text=Il mio dialogo con Babis, il sovranista ceco: “Non sono razzista, mi scelgo i migranti”
+10570-1	Il	_
+10570-2	mio	_
+10570-3	dialogo	_
+10570-4	con	_
+10570-5	Babis	_
+10570-6	,	_
+10570-7	il	_
+10570-8	sovranista	_
+10570-9	ceco	_
+10570-10	:	_
+10570-11	“	_
+10570-12	Non	_
+10570-13	sono	_
+10570-14	razzista	_
+10570-15	,	_
+10570-16	mi	_
+10570-17	scelgo	_
+10570-18	i	_
+10570-19	migranti	_
+10570-20	”	_
+
+#Text=Sicurezza, Morra: "Salvini combatta di più la mafia e meno gli immigrati"
+10743-1	Sicurezza	_
+10743-2	,	_
+10743-3	Morra	_
+10743-4	:	_
+10743-5	"	_
+10743-6	Salvini	_
+10743-7	combatta	_
+10743-8	di	_
+10743-9	più	_
+10743-10	la	_
+10743-11	mafia	_
+10743-12	e	_
+10743-13	meno	_
+10743-14	gli	_
+10743-15	immigrati	_
+10743-16	"	_
+
+#Text=Immigrazione clandestina a Bergamo, le intercettazioni dell'operazione Yuan
+10744-1	Immigrazione	_
+10744-2	clandestina	_
+10744-3	a	_
+10744-4	Bergamo	_
+10744-5	,	_
+10744-6	le	_
+10744-7	intercettazioni	_
+10744-8	dell'operazione	_
+10744-9	Yuan	_
+
+#Text=Immigrazione clandestina, arrestati pubblici ufficiali a Bergamo
+10038-1	Immigrazione	_
+10038-2	clandestina	_
+10038-3	,	_
+10038-4	arrestati	_
+10038-5	pubblici	_
+10038-6	ufficiali	_
+10038-7	a	_
+10038-8	Bergamo	_
+
+#Text=Lavoro e immigrazione, drammi di ieri e di oggi
+10452-1	Lavoro	_
+10452-2	e	_
+10452-3	immigrazione	_
+10452-4	,	_
+10452-5	drammi	_
+10452-6	di	_
+10452-7	ieri	_
+10452-8	e	_
+10452-9	di	_
+10452-10	oggi	_
+
+#Text=Biennale di Venezia, arriva dalla Sicilia la barca in cui morirono 700 migranti
+10689-1	Biennale	_
+10689-2	di	_
+10689-3	Venezia	_
+10689-4	,	_
+10689-5	arriva	_
+10689-6	dalla	_
+10689-7	Sicilia	_
+10689-8	la	_
+10689-9	barca	_
+10689-10	in	_
+10689-11	cui	_
+10689-12	morirono	_
+10689-13	700	_
+10689-14	migranti	_
+
+#Text=Medico risarcito per il G8:  “I soldi di Salvini per salvare i migranti”
+10754-1	Medico	_
+10754-2	risarcito	_
+10754-3	per	_
+10754-4	il	_
+10754-5	G8	_
+10754-6	:	_
+10754-7	“	_
+10754-8	I	_
+10754-9	soldi	_
+10754-10	di	_
+10754-11	Salvini	_
+10754-12	per	_
+10754-13	salvare	_
+10754-14	i	_
+10754-15	migranti	_
+10754-16	”	_
+
+#Text=Il Papa benedice pure le Ong: "Onore a chi accoglie i migranti"
+10435-1	Il	_
+10435-2	Papa	_
+10435-3	benedice	_
+10435-4	pure	_
+10435-5	le	_
+10435-6	Ong	_
+10435-7	:	_
+10435-8	"	_
+10435-9	Onore	_
+10435-10	a	_
+10435-11	chi	_
+10435-12	accoglie	_
+10435-13	i	_
+10435-14	migranti	_
+10435-15	"	_
+
+#Text=Roma, rom a Casal Bruciato: nuove proteste per una casa popolare
+10113-1	Roma	_
+10113-2	,	_
+10113-3	rom	_
+10113-4	a	_
+10113-5	Casal	_
+10113-6	Bruciato	_
+10113-7	:	_
+10113-8	nuove	_
+10113-9	proteste	_
+10113-10	per	_
+10113-11	una	_
+10113-12	casa	_
+10113-13	popolare	_
+
+#Text=Tangenti, Travaglio: "Milano e Calabria? Foto della emergenza italiana: non migranti e altre scemenze ma corruzione"
+10575-1	Tangenti	_
+10575-2	,	_
+10575-3	Travaglio	_
+10575-4	:	_
+10575-5	"	_
+10575-6	Milano	_
+10575-7	e	_
+10575-8	Calabria	_
+10575-9	?	_
+10575-10	Foto	_
+10575-11	della	_
+10575-12	emergenza	_
+10575-13	italiana	_
+10575-14	:	_
+10575-15	non	_
+10575-16	migranti	_
+10575-17	e	_
+10575-18	altre	_
+10575-19	scemenze	_
+10575-20	ma	_
+10575-21	corruzione	_
+10575-22	"	_
+
+#Text=I rom hanno diritto alla casa. E i residenti di Casal Bruciato contestano la Raggi
+10006-1	I	_
+10006-2	rom	_
+10006-3	hanno	_
+10006-4	diritto	_
+10006-5	alla	_
+10006-6	casa	_
+10006-7	.	_
+10006-8	E	_
+10006-9	i	_
+10006-10	residenti	_
+10006-11	di	_
+10006-12	Casal	_
+10006-13	Bruciato	_
+10006-14	contestano	_
+10006-15	la	_
+10006-16	Raggi	_
+
+#Text=San Nicola risplenda per i migranti morti in mare, a Bari la benedizione del vescovo è antirazzista
+10173-1	San	_
+10173-2	Nicola	_
+10173-3	risplenda	_
+10173-4	per	_
+10173-5	i	_
+10173-6	migranti	_
+10173-7	morti	_
+10173-8	in	_
+10173-9	mare	_
+10173-10	,	_
+10173-11	a	_
+10173-12	Bari	_
+10173-13	la	_
+10173-14	benedizione	_
+10173-15	del	_
+10173-16	vescovo	_
+10173-17	è	_
+10173-18	antirazzista	_
+
+#Text=Roma, la famiglia rom barricata nella casa di Casal Bruciato: "Siamo terrorizzati"
+10244-1	Roma	_
+10244-2	,	_
+10244-3	la	_
+10244-4	famiglia	_
+10244-5	rom	_
+10244-6	barricata	_
+10244-7	nella	_
+10244-8	casa	_
+10244-9	di	_
+10244-10	Casal	_
+10244-11	Bruciato	_
+10244-12	:	_
+10244-13	"	_
+10244-14	Siamo	_
+10244-15	terrorizzati	_
+10244-16	"	_
+
+#Text=Casal Bruciato, Raggi: "Famiglia rom ha diritto alla casa: legge si rispetta"
+10652-1	Casal	_
+10652-2	Bruciato	_
+10652-3	,	_
+10652-4	Raggi	_
+10652-5	:	_
+10652-6	"	_
+10652-7	Famiglia	_
+10652-8	rom	_
+10652-9	ha	_
+10652-10	diritto	_
+10652-11	alla	_
+10652-12	casa	_
+10652-13	:	_
+10652-14	legge	_
+10652-15	si	_
+10652-16	rispetta	_
+10652-17	"	_
+
+#Text=Genova, in piazza contro i tagli ai fondi per gli hotel aperti ai migranti: ''Intervenga lo Stato''
+10752-1	Genova	_
+10752-2	,	_
+10752-3	in	_
+10752-4	piazza	_
+10752-5	contro	_
+10752-6	i	_
+10752-7	tagli	_
+10752-8	ai	_
+10752-9	fondi	_
+10752-10	per	_
+10752-11	gli	_
+10752-12	hotel	_
+10752-13	aperti	_
+10752-14	ai	_
+10752-15	migranti	_
+10752-16	:	_
+10752-17	'	_
+10752-18	'	_
+10752-19	Intervenga	_
+10752-20	lo	_
+10752-21	Stato	_
+10752-22	'	_
+10752-23	'	_
+
+#Text=Di Maio: diamo il palazzo di CasaPound agli italiani. Sui rom a Casal Bruciato sbagliato schierarsi
+10492-1	Di	_
+10492-2	Maio	_
+10492-3	:	_
+10492-4	diamo	_
+10492-5	il	_
+10492-6	palazzo	_
+10492-7	di	_
+10492-8	CasaPound	_
+10492-9	agli	_
+10492-10	italiani	_
+10492-11	.	_
+10492-12	Sui	_
+10492-13	rom	_
+10492-14	a	_
+10492-15	Casal	_
+10492-16	Bruciato	_
+10492-17	sbagliato	_
+10492-18	schierarsi	_
+
+#Text=Papa incontra la comunità rom e sinti: 'È cittadino di seconda classe chi scarta altri'
+10567-1	Papa	_
+10567-2	incontra	_
+10567-3	la	_
+10567-4	comunità	_
+10567-5	rom	_
+10567-6	e	_
+10567-7	sinti	_
+10567-8	:	_
+10567-9	'	_
+10567-10	È	_
+10567-11	cittadino	_
+10567-12	di	_
+10567-13	seconda	_
+10567-14	classe	_
+10567-15	chi	_
+10567-16	scarta	_
+10567-17	altri	_
+10567-18	'	_
+
+#Text=Libia, Marina salva i migranti. Ira Salvini, scontro con Trenta
+10690-1	Libia	_
+10690-2	,	_
+10690-3	Marina	_
+10690-4	salva	_
+10690-5	i	_
+10690-6	migranti	_
+10690-7	.	_
+10690-8	Ira	_
+10690-9	Salvini	_
+10690-10	,	_
+10690-11	scontro	_
+10690-12	con	_
+10690-13	Trenta	_
+
+#Text=Casal Bruciato, i rom andranno via: "Lasceremo la casa popolare"
+10732-1	Casal	_
+10732-2	Bruciato	_
+10732-3	,	_
+10732-4	i	_
+10732-5	rom	_
+10732-6	andranno	_
+10732-7	via	_
+10732-8	:	_
+10732-9	"	_
+10732-10	Lasceremo	_
+10732-11	la	_
+10732-12	casa	_
+10732-13	popolare	_
+10732-14	"	_
+
+#Text=Casa ai rom a Casal Bruciato, primi denunciati per la rivolta
+10206-1	Casa	_
+10206-2	ai	_
+10206-3	rom	_
+10206-4	a	_
+10206-5	Casal	_
+10206-6	Bruciato	_
+10206-7	,	_
+10206-8	primi	_
+10206-9	denunciati	_
+10206-10	per	_
+10206-11	la	_
+10206-12	rivolta	_
+
+#Text=Paolo Rumiz: "I monaci ricostruirono l'Europa invasa da migrazioni ben più feroci di quelle di oggi"
+10228-1	Paolo	_
+10228-2	Rumiz	_
+10228-3	:	_
+10228-4	"	_
+10228-5	I	_
+10228-6	monaci	_
+10228-7	ricostruirono	_
+10228-8	l'Europa	_
+10228-9	invasa	_
+10228-10	da	_
+10228-11	migrazioni	_
+10228-12	ben	_
+10228-13	più	_
+10228-14	feroci	_
+10228-15	di	_
+10228-16	quelle	_
+10228-17	di	_
+10228-18	oggi	_
+10228-19	"	_
+
+#Text=Figli di migranti lanciano l'appello alla politica: "La costruzione di coesione sociale fa bene a tutta l'Italia"
+10273-1	Figli	_
+10273-2	di	_
+10273-3	migranti	_
+10273-4	lanciano	_
+10273-5	l'appello	_
+10273-6	alla	_
+10273-7	politica	_
+10273-8	:	_
+10273-9	"	_
+10273-10	La	_
+10273-11	costruzione	_
+10273-12	di	_
+10273-13	coesione	_
+10273-14	sociale	_
+10273-15	fa	_
+10273-16	bene	_
+10273-17	a	_
+10273-18	tutta	_
+10273-19	l'Italia	_
+10273-20	"	_
+
+#Text=Conte fa sbarcare i 36 migranti salvati dalla Marina e li ricolloca in Ue. Di Maio: "Problemi si risolvono senza sbraitare"
+10049-1	Conte	_
+10049-2	fa	_
+10049-3	sbarcare	_
+10049-4	i	_
+10049-5	36	_
+10049-6	migranti	_
+10049-7	salvati	_
+10049-8	dalla	_
+10049-9	Marina	_
+10049-10	e	_
+10049-11	li	_
+10049-12	ricolloca	_
+10049-13	in	_
+10049-14	Ue	_
+10049-15	.	_
+10049-16	Di	_
+10049-17	Maio	_
+10049-18	:	_
+10049-19	"	_
+10049-20	Problemi	_
+10049-21	si	_
+10049-22	risolvono	_
+10049-23	senza	_
+10049-24	sbraitare	_
+10049-25	"	_
+
+#Text=Altaforte e il Primato Nazionale: quella rete di destra che inquina il dibattito anti immigrati sui social media
+10662-1	Altaforte	_
+10662-2	e	_
+10662-3	il	_
+10662-4	Primato	_
+10662-5	Nazionale	_
+10662-6	:	_
+10662-7	quella	_
+10662-8	rete	_
+10662-9	di	_
+10662-10	destra	_
+10662-11	che	_
+10662-12	inquina	_
+10662-13	il	_
+10662-14	dibattito	_
+10662-15	anti	_
+10662-16	immigrati	_
+10662-17	sui	_
+10662-18	social	_
+10662-19	media	_
+
+#Text=Salone del libro, Pif: "L'immigrazione? Per molti di sinistra è solo uno che ti vende le calze"
+10523-1	Salone	_
+10523-2	del	_
+10523-3	libro	_
+10523-4	,	_
+10523-5	Pif	_
+10523-6	:	_
+10523-7	"	_
+10523-8	L'immigrazione	_
+10523-9	?	_
+10523-10	Per	_
+10523-11	molti	_
+10523-12	di	_
+10523-13	sinistra	_
+10523-14	è	_
+10523-15	solo	_
+10523-16	uno	_
+10523-17	che	_
+10523-18	ti	_
+10523-19	vende	_
+10523-20	le	_
+10523-21	calze	_
+10523-22	"	_
+
+#Text=Mare Jonio, applausi a Lampedusa per lo sbarco dei migranti: nave sequestrata
+10485-1	Mare	_
+10485-2	Jonio	_
+10485-3	,	_
+10485-4	applausi	_
+10485-5	a	_
+10485-6	Lampedusa	_
+10485-7	per	_
+10485-8	lo	_
+10485-9	sbarco	_
+10485-10	dei	_
+10485-11	migranti	_
+10485-12	:	_
+10485-13	nave	_
+10485-14	sequestrata	_
+
+#Text=Mare Jonio, Conte: "Con Salvini siamo d'accordo sul sequestro. I migranti verranno fatti scendere"
+10338-1	Mare	_
+10338-2	Jonio	_
+10338-3	,	_
+10338-4	Conte	_
+10338-5	:	_
+10338-6	"	_
+10338-7	Con	_
+10338-8	Salvini	_
+10338-9	siamo	_
+10338-10	d'accordo	_
+10338-11	sul	_
+10338-12	sequestro	_
+10338-13	.	_
+10338-14	I	_
+10338-15	migranti	_
+10338-16	verranno	_
+10338-17	fatti	_
+10338-18	scendere	_
+10338-19	"	_
+
+#Text=Mare Jonio, applausi a Lampedusa per lo sbarco dei migranti: nave sequestrata
+10329-1	Mare	_
+10329-2	Jonio	_
+10329-3	,	_
+10329-4	applausi	_
+10329-5	a	_
+10329-6	Lampedusa	_
+10329-7	per	_
+10329-8	lo	_
+10329-9	sbarco	_
+10329-10	dei	_
+10329-11	migranti	_
+10329-12	:	_
+10329-13	nave	_
+10329-14	sequestrata	_
+
+#Text=Torre Maura, 41 denunciati per le proteste anti nomadi: apologia fascismo e istigazione odio razziale
+10059-1	Torre	_
+10059-2	Maura	_
+10059-3	,	_
+10059-4	41	_
+10059-5	denunciati	_
+10059-6	per	_
+10059-7	le	_
+10059-8	proteste	_
+10059-9	anti	_
+10059-10	nomadi	_
+10059-11	:	_
+10059-12	apologia	_
+10059-13	fascismo	_
+10059-14	e	_
+10059-15	istigazione	_
+10059-16	odio	_
+10059-17	razziale	_
+
+#Text=Giro di vite su migranti e norme “spazza clan”: ecco il “decreto Sicurezza bis”
+10156-1	Giro	_
+10156-2	di	_
+10156-3	vite	_
+10156-4	su	_
+10156-5	migranti	_
+10156-6	e	_
+10156-7	norme	_
+10156-8	“	_
+10156-9	spazza	_
+10156-10	clan	_
+10156-11	”	_
+10156-12	:	_
+10156-13	ecco	_
+10156-14	il	_
+10156-15	“	_
+10156-16	decreto	_
+10156-17	Sicurezza	_
+10156-18	bis	_
+10156-19	”	_
+
+#Text=Settanta migranti intercettati e recuperati a largo di Lampedusa
+10253-1	Settanta	_
+10253-2	migranti	_
+10253-3	intercettati	_
+10253-4	e	_
+10253-5	recuperati	_
+10253-6	a	_
+10253-7	largo	_
+10253-8	di	_
+10253-9	Lampedusa	_
+
+#Text=Decreto sicurezza e multe a chi soccorre i migranti: solo un annuncio
+10581-1	Decreto	_
+10581-2	sicurezza	_
+10581-3	e	_
+10581-4	multe	_
+10581-5	a	_
+10581-6	chi	_
+10581-7	soccorre	_
+10581-8	i	_
+10581-9	migranti	_
+10581-10	:	_
+10581-11	solo	_
+10581-12	un	_
+10581-13	annuncio	_
+
+#Text=Europe Talks - Tra migranti e Russia, oltre 200 cittadini a Bruxelles per discutere il futuro dell'Europa
+10638-1	Europe	_
+10638-2	Talks	_
+10638-3	-	_
+10638-4	Tra	_
+10638-5	migranti	_
+10638-6	e	_
+10638-7	Russia	_
+10638-8	,	_
+10638-9	oltre	_
+10638-10	200	_
+10638-11	cittadini	_
+10638-12	a	_
+10638-13	Bruxelles	_
+10638-14	per	_
+10638-15	discutere	_
+10638-16	il	_
+10638-17	futuro	_
+10638-18	dell'Europa	_
+
+#Text=Patricia Janet Scotland: “Clima e migrazioni sono connessi. Ci salverà il commercio globale”
+10447-1	Patricia	_
+10447-2	Janet	_
+10447-3	Scotland	_
+10447-4	:	_
+10447-5	“	_
+10447-6	Clima	_
+10447-7	e	_
+10447-8	migrazioni	_
+10447-9	sono	_
+10447-10	connessi	_
+10447-11	.	_
+10447-12	Ci	_
+10447-13	salverà	_
+10447-14	il	_
+10447-15	commercio	_
+10447-16	globale	_
+10447-17	”	_
+
+#Text=Napoli, i ragazzi di Scampia in scena su un barcone come i migranti
+10115-1	Napoli	_
+10115-2	,	_
+10115-3	i	_
+10115-4	ragazzi	_
+10115-5	di	_
+10115-6	Scampia	_
+10115-7	in	_
+10115-8	scena	_
+10115-9	su	_
+10115-10	un	_
+10115-11	barcone	_
+10115-12	come	_
+10115-13	i	_
+10115-14	migranti	_
+
+#Text=Migranti, Corte Giustizia Ue: "Vietato il rimpatrio di migranti a rischio soprusi. Anche se non hanno protezione"
+10703-1	Migranti	_
+10703-2	,	_
+10703-3	Corte	_
+10703-4	Giustizia	_
+10703-5	Ue	_
+10703-6	:	_
+10703-7	"	_
+10703-8	Vietato	_
+10703-9	il	_
+10703-10	rimpatrio	_
+10703-11	di	_
+10703-12	migranti	_
+10703-13	a	_
+10703-14	rischio	_
+10703-15	soprusi	_
+10703-16	.	_
+10703-17	Anche	_
+10703-18	se	_
+10703-19	non	_
+10703-20	hanno	_
+10703-21	protezione	_
+10703-22	"	_
+
+#Text=Ramadan, Trump esclude i musulmani americani da cena alla Casa Bianca
+10741-1	Ramadan	_
+10741-2	,	_
+10741-3	Trump	_
+10741-4	esclude	_
+10741-5	i	_
+10741-6	musulmani	_
+10741-7	americani	_
+10741-8	da	_
+10741-9	cena	_
+10741-10	alla	_
+10741-11	Casa	_
+10741-12	Bianca	_
+
+#Text=Merkel chiude alla Lega nel Ppe: «Noi diversi da Salvini, a partire dai migranti»
+10545-1	Merkel	_
+10545-2	chiude	_
+10545-3	alla	_
+10545-4	Lega	_
+10545-5	nel	_
+10545-6	Ppe	_
+10545-7	:	_
+10545-8	«	_
+10545-9	Noi	_
+10545-10	diversi	_
+10545-11	da	_
+10545-12	Salvini	_
+10545-13	,	_
+10545-14	a	_
+10545-15	partire	_
+10545-16	dai	_
+10545-17	migranti	_
+10545-18	»	_
+
+#Text=Sicurezza e migranti, se la Ong sbaglia paga il comandante
+10176-1	Sicurezza	_
+10176-2	e	_
+10176-3	migranti	_
+10176-4	,	_
+10176-5	se	_
+10176-6	la	_
+10176-7	Ong	_
+10176-8	sbaglia	_
+10176-9	paga	_
+10176-10	il	_
+10176-11	comandante	_
+
+#Text=Elezioni Ue, i candidati alla presidenza della Commissione a confronto: ecco le idee su economia e immigrazione
+10172-1	Elezioni	_
+10172-2	Ue	_
+10172-3	,	_
+10172-4	i	_
+10172-5	candidati	_
+10172-6	alla	_
+10172-7	presidenza	_
+10172-8	della	_
+10172-9	Commissione	_
+10172-10	a	_
+10172-11	confronto	_
+10172-12	:	_
+10172-13	ecco	_
+10172-14	le	_
+10172-15	idee	_
+10172-16	su	_
+10172-17	economia	_
+10172-18	e	_
+10172-19	immigrazione	_
+
+#Text=L'italiana "giovane europeo" dell'anno si batte per i diritti dei migranti: "Europe Talks ci aiuta a dialogare"
+10112-1	L'italiana	_
+10112-2	"	_
+10112-3	giovane	_
+10112-4	europeo	_
+10112-5	"	_
+10112-6	dell'anno	_
+10112-7	si	_
+10112-8	batte	_
+10112-9	per	_
+10112-10	i	_
+10112-11	diritti	_
+10112-12	dei	_
+10112-13	migranti	_
+10112-14	:	_
+10112-15	"	_
+10112-16	Europe	_
+10112-17	Talks	_
+10112-18	ci	_
+10112-19	aiuta	_
+10112-20	a	_
+10112-21	dialogare	_
+10112-22	"	_
+
+#Text=Carceri, meno reati ma aumentano i detenuti e le pene sono più lunghe. In calo gli stranieri. Affollamento al 120%
+10782-1	Carceri	_
+10782-2	,	_
+10782-3	meno	_
+10782-4	reati	_
+10782-5	ma	_
+10782-6	aumentano	_
+10782-7	i	_
+10782-8	detenuti	_
+10782-9	e	_
+10782-10	le	_
+10782-11	pene	_
+10782-12	sono	_
+10782-13	più	_
+10782-14	lunghe	_
+10782-15	.	_
+10782-16	In	_
+10782-17	calo	_
+10782-18	gli	_
+10782-19	stranieri	_
+10782-20	.	_
+10782-21	Affollamento	_
+10782-22	al	_
+10782-23	120%	_
+
+#Text=Proteste e disordini anti-nomadi a Roma, 65 indagati di Casapound e Forza Nuova
+10698-1	Proteste	_
+10698-2	e	_
+10698-3	disordini	_
+10698-4	anti-nomadi	_
+10698-5	a	_
+10698-6	Roma	_
+10698-7	,	_
+10698-8	65	_
+10698-9	indagati	_
+10698-10	di	_
+10698-11	Casapound	_
+10698-12	e	_
+10698-13	Forza	_
+10698-14	Nuova	_
+
+#Text=Roma, 65 indagati di Casapound e Forza Nuova per disordini contro rom
+10109-1	Roma	_
+10109-2	,	_
+10109-3	65	_
+10109-4	indagati	_
+10109-5	di	_
+10109-6	Casapound	_
+10109-7	e	_
+10109-8	Forza	_
+10109-9	Nuova	_
+10109-10	per	_
+10109-11	disordini	_
+10109-12	contro	_
+10109-13	rom	_
+
+#Text=Il messaggio di Sala a Salvini: "Sui migranti un po' di cuore in più non guasterebbe"
+10528-1	Il	_
+10528-2	messaggio	_
+10528-3	di	_
+10528-4	Sala	_
+10528-5	a	_
+10528-6	Salvini	_
+10528-7	:	_
+10528-8	"	_
+10528-9	Sui	_
+10528-10	migranti	_
+10528-11	un	_
+10528-12	po	_
+10528-13	'	_
+10528-14	di	_
+10528-15	cuore	_
+10528-16	in	_
+10528-17	più	_
+10528-18	non	_
+10528-19	guasterebbe	_
+10528-20	"	_
+
+#Text=Roma, 65 indagati di CasaPound e Forza Nuova per “odio razziale” contro i rom di Torre Maura
+10556-1	Roma	_
+10556-2	,	_
+10556-3	65	_
+10556-4	indagati	_
+10556-5	di	_
+10556-6	CasaPound	_
+10556-7	e	_
+10556-8	Forza	_
+10556-9	Nuova	_
+10556-10	per	_
+10556-11	“	_
+10556-12	odio	_
+10556-13	razziale	_
+10556-14	”	_
+10556-15	contro	_
+10556-16	i	_
+10556-17	rom	_
+10556-18	di	_
+10556-19	Torre	_
+10556-20	Maura	_
+
+#Text=Jungle Europa: immigrazione, l'emergenza è la mortalità in mare
+10746-1	Jungle	_
+10746-2	Europa	_
+10746-3	:	_
+10746-4	immigrazione	_
+10746-5	,	_
+10746-6	l'emergenza	_
+10746-7	è	_
+10746-8	la	_
+10746-9	mortalità	_
+10746-10	in	_
+10746-11	mare	_
+
+#Text=Meno ricongiungimenti familiari e più competenze, l’America si sceglie i suoi immigrati
+10145-1	Meno	_
+10145-2	ricongiungimenti	_
+10145-3	familiari	_
+10145-4	e	_
+10145-5	più	_
+10145-6	competenze	_
+10145-7	,	_
+10145-8	l	_
+10145-9	’	_
+10145-10	America	_
+10145-11	si	_
+10145-12	sceglie	_
+10145-13	i	_
+10145-14	suoi	_
+10145-15	immigrati	_
+
+#Text=L'età fragile', tra i migranti che compiono 18 anni dopo il Decreto sicurezza: "Si vanifica la nostra integrazione"
+10781-1	L'età	_
+10781-2	fragile	_
+10781-3	'	_
+10781-4	,	_
+10781-5	tra	_
+10781-6	i	_
+10781-7	migranti	_
+10781-8	che	_
+10781-9	compiono	_
+10781-10	18	_
+10781-11	anni	_
+10781-12	dopo	_
+10781-13	il	_
+10781-14	Decreto	_
+10781-15	sicurezza	_
+10781-16	:	_
+10781-17	"	_
+10781-18	Si	_
+10781-19	vanifica	_
+10781-20	la	_
+10781-21	nostra	_
+10781-22	integrazione	_
+10781-23	"	_
+
+#Text=Beppe Sala sbarca a New York e attacca i Salvini "immigrati"
+10376-1	Beppe	_
+10376-2	Sala	_
+10376-3	sbarca	_
+10376-4	a	_
+10376-5	New	_
+10376-6	York	_
+10376-7	e	_
+10376-8	attacca	_
+10376-9	i	_
+10376-10	Salvini	_
+10376-11	"	_
+10376-12	immigrati	_
+10376-13	"	_
+
+#Text=Sea Watch: «Via libera allo sbarco delle famiglie migranti a Lampedusa»
+10777-1	Sea	_
+10777-2	Watch	_
+10777-3	:	_
+10777-4	«	_
+10777-5	Via	_
+10777-6	libera	_
+10777-7	allo	_
+10777-8	sbarco	_
+10777-9	delle	_
+10777-10	famiglie	_
+10777-11	migranti	_
+10777-12	a	_
+10777-13	Lampedusa	_
+10777-14	»	_
+
+#Text=Moni Ovadia a Parma: "Sovranismo? L'Italia in un secolo ha avuto 30 milioni di emigranti"
+10353-1	Moni	_
+10353-2	Ovadia	_
+10353-3	a	_
+10353-4	Parma	_
+10353-5	:	_
+10353-6	"	_
+10353-7	Sovranismo	_
+10353-8	?	_
+10353-9	L'Italia	_
+10353-10	in	_
+10353-11	un	_
+10353-12	secolo	_
+10353-13	ha	_
+10353-14	avuto	_
+10353-15	30	_
+10353-16	milioni	_
+10353-17	di	_
+10353-18	emigranti	_
+10353-19	"	_
+
+#Text=Malta, due militari accusati di omicidio razziale: spari ai migranti «solo perché sono neri». Un morto e due feriti
+10233-1	Malta	_
+10233-2	,	_
+10233-3	due	_
+10233-4	militari	_
+10233-5	accusati	_
+10233-6	di	_
+10233-7	omicidio	_
+10233-8	razziale	_
+10233-9	:	_
+10233-10	spari	_
+10233-11	ai	_
+10233-12	migranti	_
+10233-13	«	_
+10233-14	solo	_
+10233-15	perché	_
+10233-16	sono	_
+10233-17	neri	_
+10233-18	»	_
+10233-19	.	_
+10233-20	Un	_
+10233-21	morto	_
+10233-22	e	_
+10233-23	due	_
+10233-24	feriti	_
+
+#Text=Sea Watch, Finanza sequestra la nave: sbarcano i migranti
+10707-1	Sea	_
+10707-2	Watch	_
+10707-3	,	_
+10707-4	Finanza	_
+10707-5	sequestra	_
+10707-6	la	_
+10707-7	nave	_
+10707-8	:	_
+10707-9	sbarcano	_
+10707-10	i	_
+10707-11	migranti	_
+
+#Text=Sea Watch, Salvini apprende in diretta tv dello sbarco dei migranti: "Procuratore vuole fare il ministro"
+10436-1	Sea	_
+10436-2	Watch	_
+10436-3	,	_
+10436-4	Salvini	_
+10436-5	apprende	_
+10436-6	in	_
+10436-7	diretta	_
+10436-8	tv	_
+10436-9	dello	_
+10436-10	sbarco	_
+10436-11	dei	_
+10436-12	migranti	_
+10436-13	:	_
+10436-14	"	_
+10436-15	Procuratore	_
+10436-16	vuole	_
+10436-17	fare	_
+10436-18	il	_
+10436-19	ministro	_
+10436-20	"	_
+
+#Text=Sea Watch, il pm fa sbarcare i migranti. Salvini: denuncio chi ha aperto i porti
+10085-1	Sea	_
+10085-2	Watch	_
+10085-3	,	_
+10085-4	il	_
+10085-5	pm	_
+10085-6	fa	_
+10085-7	sbarcare	_
+10085-8	i	_
+10085-9	migranti	_
+10085-10	.	_
+10085-11	Salvini	_
+10085-12	:	_
+10085-13	denuncio	_
+10085-14	chi	_
+10085-15	ha	_
+10085-16	aperto	_
+10085-17	i	_
+10085-18	porti	_
+
+#Text=Il pm fa sbarcare i migranti Il capo leghista smentito in tv
+10044-1	Il	_
+10044-2	pm	_
+10044-3	fa	_
+10044-4	sbarcare	_
+10044-5	i	_
+10044-6	migranti	_
+10044-7	Il	_
+10044-8	capo	_
+10044-9	leghista	_
+10044-10	smentito	_
+10044-11	in	_
+10044-12	tv	_
+
+#Text=Pisa, il poster di Salvini con i migranti fatto dagli studenti, Ceccardi: «Va rimosso»
+10602-1	Pisa	_
+10602-2	,	_
+10602-3	il	_
+10602-4	poster	_
+10602-5	di	_
+10602-6	Salvini	_
+10602-7	con	_
+10602-8	i	_
+10602-9	migranti	_
+10602-10	fatto	_
+10602-11	dagli	_
+10602-12	studenti	_
+10602-13	,	_
+10602-14	Ceccardi	_
+10602-15	:	_
+10602-16	«	_
+10602-17	Va	_
+10602-18	rimosso	_
+10602-19	»	_
+
+#Text=Sea Watch e lo sbarco del migrante con una sola gamba: ''Che possa realizzare i suoi sogni''
+10193-1	Sea	_
+10193-2	Watch	_
+10193-3	e	_
+10193-4	lo	_
+10193-5	sbarco	_
+10193-6	del	_
+10193-7	migrante	_
+10193-8	con	_
+10193-9	una	_
+10193-10	sola	_
+10193-11	gamba	_
+10193-12	:	_
+10193-13	'	_
+10193-14	'	_
+10193-15	Che	_
+10193-16	possa	_
+10193-17	realizzare	_
+10193-18	i	_
+10193-19	suoi	_
+10193-20	sogni	_
+10193-21	'	_
+10193-22	'	_
+
+#Text=Decreto Sicurezza Bis, multe più salate per chi soccorre i migranti
+10282-1	Decreto	_
+10282-2	Sicurezza	_
+10282-3	Bis	_
+10282-4	,	_
+10282-5	multe	_
+10282-6	più	_
+10282-7	salate	_
+10282-8	per	_
+10282-9	chi	_
+10282-10	soccorre	_
+10282-11	i	_
+10282-12	migranti	_

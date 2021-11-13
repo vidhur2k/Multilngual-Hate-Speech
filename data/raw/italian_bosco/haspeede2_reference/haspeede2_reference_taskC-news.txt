@@ -1,0 +1,3063 @@
+#Text="Andate pure là, tanto quei fessi degli italiani...". Capito perché ci invadono? Il clandestino confessa
+11976-1	"	O
+11976-2	Andate	O
+11976-3	pure	O
+11976-4	là	O
+11976-5	,	O
+11976-6	tanto	O
+11976-7	quei	O
+11976-8	fessi	O
+11976-9	degli	O
+11976-10	italiani	O
+11976-11	.	O
+11976-12	.	O
+11976-13	.	O
+11976-14	"	O
+11976-15	.	O
+11976-16	Capito	O
+11976-17	perché	O
+11976-18	ci	O
+11976-19	invadono	O
+11976-20	?	O
+11976-21	Il	O
+11976-22	clandestino	O
+11976-23	confessa	O
+
+#Text="Che fine spero che faccia il killer nigeriano di Pamela". La furia cieca della Meloni: le sue parole più dure
+12142-1	"	O
+12142-2	Che	O
+12142-3	fine	O
+12142-4	spero	O
+12142-5	che	O
+12142-6	faccia	O
+12142-7	il	O
+12142-8	killer	O
+12142-9	nigeriano	O
+12142-10	di	O
+12142-11	Pamela	O
+12142-12	"	O
+12142-13	.	O
+12142-14	La	B-NU-CGA
+12142-15	furia	I-NU-CGA
+12142-16	cieca	I-NU-CGA
+12142-17	della	I-NU-CGA
+12142-18	Meloni	I-NU-CGA
+12142-19	:	I-NU-CGA
+12142-20	le	I-NU-CGA
+12142-21	sue	I-NU-CGA
+12142-22	parole	I-NU-CGA
+12142-23	più	I-NU-CGA
+12142-24	dure	I-NU-CGA
+
+#Text="Così i profughi ci svuotano i negozi a Pordenone"
+12088-1	"	O
+12088-2	Così	O
+12088-3	i	O
+12088-4	profughi	O
+12088-5	ci	O
+12088-6	svuotano	O
+12088-7	i	O
+12088-8	negozi	O
+12088-9	a	O
+12088-10	Pordenone	O
+12088-11	"	O
+
+#Text="Così umiliano gli italiani e coccolano i clandestini". La follia del governo: "Per loro gratis...", e ci invadono
+12030-1	"	O
+12030-2	Così	O
+12030-3	umiliano	O
+12030-4	gli	O
+12030-5	italiani	O
+12030-6	e	O
+12030-7	coccolano	O
+12030-8	i	O
+12030-9	clandestini	O
+12030-10	"	O
+12030-11	.	O
+12030-12	La	B-NU-CGA
+12030-13	follia	I-NU-CGA
+12030-14	del	I-NU-CGA
+12030-15	governo	I-NU-CGA
+12030-16	:	I-NU-CGA
+12030-17	"	I-NU-CGA
+12030-18	Per	I-NU-CGA
+12030-19	loro	I-NU-CGA
+12030-20	gratis	I-NU-CGA
+12030-21	.	I-NU-CGA
+12030-22	.	I-NU-CGA
+12030-23	.	I-NU-CGA
+12030-24	"	I-NU-CGA
+12030-25	,	I-NU-CGA
+12030-26	e	O
+12030-27	ci	O
+12030-28	invadono	O
+
+#Text="Danno soldi ai clandestini, ma ai disabili invece...". Bracconeri, il figlio autistico e il durissimo sfogo a "Libero"
+11775-1	"	O
+11775-2	Danno	O
+11775-3	soldi	O
+11775-4	ai	O
+11775-5	clandestini	O
+11775-6	,	O
+11775-7	ma	O
+11775-8	ai	O
+11775-9	disabili	O
+11775-10	invece	O
+11775-11	.	O
+11775-12	.	O
+11775-13	.	O
+11775-14	"	O
+11775-15	.	O
+11775-16	Bracconeri	B-NU-CGA
+11775-17	,	I-NU-CGA
+11775-18	il	I-NU-CGA
+11775-19	figlio	I-NU-CGA
+11775-20	autistico	I-NU-CGA
+11775-21	e	I-NU-CGA
+11775-22	il	I-NU-CGA
+11775-23	durissimo	I-NU-CGA
+11775-24	sfogo	I-NU-CGA
+11775-25	a	I-NU-CGA
+11775-26	"	I-NU-CGA
+11775-27	Libero	I-NU-CGA
+11775-28	"	I-NU-CGA
+
+#Text="Emergenza, Minniti annulla il viaggio e torna in Italia". Immigrati, invasione alle porte: cose mai viste prima
+11630-1	"	O
+11630-2	Emergenza	B-NU-CGA
+11630-3	,	I-NU-CGA
+11630-4	Minniti	O
+11630-5	annulla	O
+11630-6	il	O
+11630-7	viaggio	O
+11630-8	e	O
+11630-9	torna	O
+11630-10	in	O
+11630-11	Italia	O
+11630-12	"	O
+11630-13	.	O
+11630-14	Immigrati	B-NU-CGA
+11630-15	,	I-NU-CGA
+11630-16	invasione	I-NU-CGA
+11630-17	alle	I-NU-CGA
+11630-18	porte	I-NU-CGA
+11630-19	:	I-NU-CGA
+11630-20	cose	I-NU-CGA
+11630-21	mai	I-NU-CGA
+11630-22	viste	I-NU-CGA
+11630-23	prima	I-NU-CGA
+
+#Text="Gli immigrati sono matti", parola di scienziati. Malattie mentali e "risorse", lo studio horror
+11695-1	"	O
+11695-2	Gli	O
+11695-3	immigrati	O
+11695-4	sono	O
+11695-5	matti	O
+11695-6	"	O
+11695-7	,	O
+11695-8	parola	B-NU-CGA
+11695-9	di	I-NU-CGA
+11695-10	scienziati	I-NU-CGA
+11695-11	.	I-NU-CGA
+11695-12	Malattie	B-NU-CGA
+11695-13	mentali	I-NU-CGA
+11695-14	e	I-NU-CGA
+11695-15	"	I-NU-CGA
+11695-16	risorse	I-NU-CGA
+11695-17	"	I-NU-CGA
+11695-18	,	I-NU-CGA
+11695-19	lo	I-NU-CGA
+11695-20	studio	I-NU-CGA
+11695-21	horror	I-NU-CGA
+
+#Text="Ho chiesto ai profughi di lavorare ma preferiscono non fare nulla"
+11866-1	"	O
+11866-2	Ho	O
+11866-3	chiesto	O
+11866-4	ai	O
+11866-5	profughi	O
+11866-6	di	O
+11866-7	lavorare	O
+11866-8	ma	O
+11866-9	preferiscono	O
+11866-10	non	O
+11866-11	fare	O
+11866-12	nulla	O
+11866-13	"	O
+
+#Text="Immigrati bomba sociale Subito via 600mila irregolari"
+12174-1	"	B-NU-CGA
+12174-2	Immigrati	I-NU-CGA
+12174-3	bomba	I-NU-CGA
+12174-4	sociale	I-NU-CGA
+12174-5	Subito	I-NU-CGA
+12174-6	via	I-NU-CGA
+12174-7	600mila	I-NU-CGA
+12174-8	irregolari	I-NU-CGA
+12174-9	"	I-NU-CGA
+
+#Text="Immigrati, così la sinistra ci costringe a tenerli tutti". Meloni, la denuncia: "Il trucco giuridico per rovinare l'Italia"
+11663-1	"	O
+11663-2	Immigrati	B-NU-CGA
+11663-3	,	I-NU-CGA
+11663-4	così	O
+11663-5	la	O
+11663-6	sinistra	O
+11663-7	ci	O
+11663-8	costringe	O
+11663-9	a	O
+11663-10	tenerli	O
+11663-11	tutti	O
+11663-12	"	O
+11663-13	.	O
+11663-14	Meloni	B-NU-CGA
+11663-15	,	I-NU-CGA
+11663-16	la	I-NU-CGA
+11663-17	denuncia	I-NU-CGA
+11663-18	:	I-NU-CGA
+11663-19	"	I-NU-CGA
+11663-20	Il	I-NU-CGA
+11663-21	trucco	I-NU-CGA
+11663-22	giuridico	I-NU-CGA
+11663-23	per	I-NU-CGA
+11663-24	rovinare	I-NU-CGA
+11663-25	l'Italia	I-NU-CGA
+11663-26	"	I-NU-CGA
+
+#Text="Immigrati, venite tutti qui". L'ultima "perla" del Papa: con Scalfari tifa invasione
+11677-1	"	O
+11677-2	Immigrati	O
+11677-3	,	O
+11677-4	venite	O
+11677-5	tutti	O
+11677-6	qui	O
+11677-7	"	O
+11677-8	.	O
+11677-9	L'ultima	B-NU-CGA
+11677-10	"	I-NU-CGA
+11677-11	perla	I-NU-CGA
+11677-12	"	I-NU-CGA
+11677-13	del	I-NU-CGA
+11677-14	Papa	I-NU-CGA
+11677-15	:	I-NU-CGA
+11677-16	con	O
+11677-17	Scalfari	O
+11677-18	tifa	O
+11677-19	invasione	O
+
+#Text="Invasi dagli immigrati? Ci resta solo una possibilità". La drastica idea del generale Jean per salvare l'Italia
+12092-1	"	O
+12092-2	Invasi	B-NU-CGA
+12092-3	dagli	I-NU-CGA
+12092-4	immigrati	I-NU-CGA
+12092-5	?	I-NU-CGA
+12092-6	Ci	O
+12092-7	resta	O
+12092-8	solo	O
+12092-9	una	O
+12092-10	possibilità	O
+12092-11	"	O
+12092-12	.	O
+12092-13	La	B-NU-CGA
+12092-14	drastica	I-NU-CGA
+12092-15	idea	I-NU-CGA
+12092-16	del	I-NU-CGA
+12092-17	generale	I-NU-CGA
+12092-18	Jean	I-NU-CGA
+12092-19	per	I-NU-CGA
+12092-20	salvare	I-NU-CGA
+12092-21	l'Italia	I-NU-CGA
+
+#Text="Io al governo? Come ridurrò clandestini e stupratori": Giorgia Meloni, lezione alla sinistra che "ci ha ridotti a schifo"
+12089-1	"	O
+12089-2	Io	B-NU-CGA
+12089-3	al	I-NU-CGA
+12089-4	governo	I-NU-CGA
+12089-5	?	I-NU-CGA
+12089-6	Come	O
+12089-7	ridurrò	O
+12089-8	clandestini	O
+12089-9	e	O
+12089-10	stupratori	O
+12089-11	"	O
+12089-12	:	O
+12089-13	Giorgia	B-NU-CGA
+12089-14	Meloni	I-NU-CGA
+12089-15	,	I-NU-CGA
+12089-16	lezione	I-NU-CGA
+12089-17	alla	I-NU-CGA
+12089-18	sinistra	I-NU-CGA
+12089-19	che	I-NU-CGA
+12089-20	"	I-NU-CGA
+12089-21	ci	I-NU-CGA
+12089-22	ha	I-NU-CGA
+12089-23	ridotti	I-NU-CGA
+12089-24	a	I-NU-CGA
+12089-25	schifo	I-NU-CGA
+12089-26	"	I-NU-CGA
+
+#Text="Io, ostaggio degli immigrati: ecco come mi hanno ridotta"
+11714-1	"	B-NU-CGA
+11714-2	Io	I-NU-CGA
+11714-3	,	I-NU-CGA
+11714-4	ostaggio	I-NU-CGA
+11714-5	degli	I-NU-CGA
+11714-6	immigrati	I-NU-CGA
+11714-7	:	I-NU-CGA
+11714-8	ecco	I-NU-CGA
+11714-9	come	I-NU-CGA
+11714-10	mi	I-NU-CGA
+11714-11	hanno	I-NU-CGA
+11714-12	ridotta	I-NU-CGA
+11714-13	"	I-NU-CGA
+
+#Text="Italia serva, calpestata e invasa", adesso basta. Immigrati, Feltri sale sul panzer: "Atto di forza"
+11808-1	"	B-NU-CGA
+11808-2	Italia	I-NU-CGA
+11808-3	serva	I-NU-CGA
+11808-4	,	I-NU-CGA
+11808-5	calpestata	I-NU-CGA
+11808-6	e	I-NU-CGA
+11808-7	invasa	I-NU-CGA
+11808-8	"	I-NU-CGA
+11808-9	,	I-NU-CGA
+11808-10	adesso	I-NU-CGA
+11808-11	basta	I-NU-CGA
+11808-12	.	I-NU-CGA
+11808-13	Immigrati	B-NU-CGA
+11808-14	,	I-NU-CGA
+11808-15	Feltri	O
+11808-16	sale	O
+11808-17	sul	O
+11808-18	panzer	O
+11808-19	:	O
+11808-20	"	B-NU-CGA
+11808-21	Atto	I-NU-CGA
+11808-22	di	I-NU-CGA
+11808-23	forza	I-NU-CGA
+11808-24	"	I-NU-CGA
+
+#Text="L'immigrazione indiscriminata porta all'islamizzazione"
+11904-1	"	O
+11904-2	L'immigrazione	O
+11904-3	indiscriminata	O
+11904-4	porta	O
+11904-5	all'islamizzazione	O
+11904-6	"	O
+
+#Text="Macché poveri e disperati. Questi sono falsi profughi"
+12183-1	"	O
+12183-2	Macché	B-NU-CGA
+12183-3	poveri	I-NU-CGA
+12183-4	e	I-NU-CGA
+12183-5	disperati	I-NU-CGA
+12183-6	.	I-NU-CGA
+12183-7	Questi	O
+12183-8	sono	O
+12183-9	falsi	O
+12183-10	profughi	O
+12183-11	"	O
+
+#Text="Malaria? E' solo l'inizio...". La tremenda profezia del leghista africano: cosa succederà in Italia
+12108-1	"	O
+12108-2	Malaria	B-NU-CGA
+12108-3	?	I-NU-CGA
+12108-4	E	O
+12108-5	'	O
+12108-6	solo	O
+12108-7	l'inizio	O
+12108-8	.	O
+12108-9	.	O
+12108-10	.	O
+12108-11	"	O
+12108-12	.	O
+12108-13	La	B-NU-CGA
+12108-14	tremenda	I-NU-CGA
+12108-15	profezia	I-NU-CGA
+12108-16	del	I-NU-CGA
+12108-17	leghista	I-NU-CGA
+12108-18	africano	I-NU-CGA
+12108-19	:	I-NU-CGA
+12108-20	cosa	O
+12108-21	succederà	O
+12108-22	in	O
+12108-23	Italia	O
+
+#Text="Migranti" o "profughi", comunque invasori
+12023-1	"	B-NU-CGA
+12023-2	Migranti	I-NU-CGA
+12023-3	"	I-NU-CGA
+12023-4	o	I-NU-CGA
+12023-5	"	I-NU-CGA
+12023-6	profughi	I-NU-CGA
+12023-7	"	I-NU-CGA
+12023-8	,	I-NU-CGA
+12023-9	comunque	I-NU-CGA
+12023-10	invasori	I-NU-CGA
+
+#Text="Perché non voglio immigrati, cosa sarebbe l'Italia senza di loro": Sallusti, una durissima verità
+12114-1	"	O
+12114-2	Perché	O
+12114-3	non	O
+12114-4	voglio	O
+12114-5	immigrati	O
+12114-6	,	O
+12114-7	cosa	O
+12114-8	sarebbe	O
+12114-9	l'Italia	O
+12114-10	senza	O
+12114-11	di	O
+12114-12	loro	O
+12114-13	"	O
+12114-14	:	O
+12114-15	Sallusti	B-NU-CGA
+12114-16	,	I-NU-CGA
+12114-17	una	I-NU-CGA
+12114-18	durissima	I-NU-CGA
+12114-19	verità	I-NU-CGA
+
+#Text="Sapete cosa voglio fare agli immigrati violenti?": Don Gigi, il prete giustiziere (anche con l'Islam)
+11853-1	"	O
+11853-2	Sapete	O
+11853-3	cosa	O
+11853-4	voglio	O
+11853-5	fare	O
+11853-6	agli	O
+11853-7	immigrati	O
+11853-8	violenti	O
+11853-9	?	O
+11853-10	"	O
+11853-11	:	O
+11853-12	Don	B-NU-CGA
+11853-13	Gigi	I-NU-CGA
+11853-14	,	I-NU-CGA
+11853-15	il	I-NU-CGA
+11853-16	prete	I-NU-CGA
+11853-17	giustiziere	I-NU-CGA
+11853-18	(	I-NU-CGA
+11853-19	anche	I-NU-CGA
+11853-20	con	I-NU-CGA
+11853-21	l'Islam	I-NU-CGA
+11853-22	)	I-NU-CGA
+
+#Text="Sapete quanti soldi diamo agli immigrati e quanti ai poveri italiani?". Socci svela la vergogna
+11742-1	"	O
+11742-2	Sapete	O
+11742-3	quanti	O
+11742-4	soldi	O
+11742-5	diamo	O
+11742-6	agli	O
+11742-7	immigrati	O
+11742-8	e	O
+11742-9	quanti	O
+11742-10	ai	O
+11742-11	poveri	O
+11742-12	italiani	O
+11742-13	?	O
+11742-14	"	O
+11742-15	.	O
+11742-16	Socci	O
+11742-17	svela	O
+11742-18	la	O
+11742-19	vergogna	O
+
+#Text=Altro che profughi, arrivano clandestini
+11780-1	Altro	B-NU-CGA
+11780-2	che	I-NU-CGA
+11780-3	profughi	I-NU-CGA
+11780-4	,	I-NU-CGA
+11780-5	arrivano	O
+11780-6	clandestini	O
+
+#Text=Atti osceni davanti ai bambini: il parco di Milano in balìa dei migranti
+11897-1	Atti	B-NU-CGA
+11897-2	osceni	I-NU-CGA
+11897-3	davanti	I-NU-CGA
+11897-4	ai	I-NU-CGA
+11897-5	bambini	I-NU-CGA
+11897-6	:	I-NU-CGA
+11897-7	il	I-NU-CGA
+11897-8	parco	I-NU-CGA
+11897-9	di	I-NU-CGA
+11897-10	Milano	I-NU-CGA
+11897-11	in	I-NU-CGA
+11897-12	balìa	I-NU-CGA
+11897-13	dei	I-NU-CGA
+11897-14	migranti	I-NU-CGA
+
+#Text=Calderoli, la sua soluzione drastica contro gli stupri dei migranti: "Dobbiamo castrarli tutti"
+11634-1	Calderoli	B-NU-CGA
+11634-2	,	I-NU-CGA
+11634-3	la	I-NU-CGA
+11634-4	sua	I-NU-CGA
+11634-5	soluzione	I-NU-CGA
+11634-6	drastica	I-NU-CGA
+11634-7	contro	I-NU-CGA
+11634-8	gli	I-NU-CGA
+11634-9	stupri	I-NU-CGA
+11634-10	dei	I-NU-CGA
+11634-11	migranti	I-NU-CGA
+11634-12	:	I-NU-CGA
+11634-13	"	O
+11634-14	Dobbiamo	O
+11634-15	castrarli	O
+11634-16	tutti	O
+11634-17	"	O
+
+#Text=Sea Watch, l'ultima presa in giro degli immigrati all'Italia: i minori nati tutti lo stesso giorno
+11251-1	Sea	B-NU-CGA
+11251-2	Watch	I-NU-CGA
+11251-3	,	I-NU-CGA
+11251-4	l'ultima	I-NU-CGA
+11251-5	presa	I-NU-CGA
+11251-6	in	I-NU-CGA
+11251-7	giro	I-NU-CGA
+11251-8	degli	I-NU-CGA
+11251-9	immigrati	I-NU-CGA
+11251-10	all'Italia	I-NU-CGA
+11251-11	:	I-NU-CGA
+11251-12	i	I-NU-CGA
+11251-13	minori	I-NU-CGA
+11251-14	nati	I-NU-CGA
+11251-15	tutti	I-NU-CGA
+11251-16	lo	I-NU-CGA
+11251-17	stesso	I-NU-CGA
+11251-18	giorno	I-NU-CGA
+
+#Text=Sanremo 2019, don Salvatore Picca il prete pro-Salvini massacra il festival: "Vinci se sei musulmano e drogato"
+11318-1	Sanremo	B-NU-CGA
+11318-2	2019	I-NU-CGA
+11318-3	,	I-NU-CGA
+11318-4	don	O
+11318-5	Salvatore	O
+11318-6	Picca	O
+11318-7	il	O
+11318-8	prete	O
+11318-9	pro-Salvini	O
+11318-10	massacra	O
+11318-11	il	O
+11318-12	festival	O
+11318-13	:	O
+11318-14	"	O
+11318-15	Vinci	O
+11318-16	se	O
+11318-17	sei	O
+11318-18	musulmano	O
+11318-19	e	O
+11318-20	drogato	O
+11318-21	"	O
+
+#Text=Sanremo, prete contro Mahmood: "Ha vinto un immigrato con i tatuaggi…"
+11412-1	Sanremo	B-NU-CGA
+11412-2	,	I-NU-CGA
+11412-3	prete	I-NU-CGA
+11412-4	contro	I-NU-CGA
+11412-5	Mahmood	I-NU-CGA
+11412-6	:	I-NU-CGA
+11412-7	"	O
+11412-8	Ha	O
+11412-9	vinto	O
+11412-10	un	O
+11412-11	immigrato	O
+11412-12	con	O
+11412-13	i	O
+11412-14	tatuaggi	O
+11412-15	…	O
+11412-16	"	O
+
+#Text=Matteo Salvini, bomba a urne aperte in Sardegna: "Volete più immigrati? Votate Pd"
+11488-1	Matteo	B-NU-CGA
+11488-2	Salvini	I-NU-CGA
+11488-3	,	I-NU-CGA
+11488-4	bomba	I-NU-CGA
+11488-5	a	I-NU-CGA
+11488-6	urne	I-NU-CGA
+11488-7	aperte	I-NU-CGA
+11488-8	in	I-NU-CGA
+11488-9	Sardegna	I-NU-CGA
+11488-10	:	I-NU-CGA
+11488-11	"	O
+11488-12	Volete	O
+11488-13	più	O
+11488-14	immigrati	O
+11488-15	?	O
+11488-16	Votate	O
+11488-17	Pd	O
+11488-18	"	O
+
+#Text=Le spese pazze del governo Oltre 23mila euro per i rom
+11114-1	Le	B-NU-CGA
+11114-2	spese	I-NU-CGA
+11114-3	pazze	I-NU-CGA
+11114-4	del	I-NU-CGA
+11114-5	governo	I-NU-CGA
+11114-6	Oltre	I-NU-CGA
+11114-7	23mila	I-NU-CGA
+11114-8	euro	I-NU-CGA
+11114-9	per	I-NU-CGA
+11114-10	i	I-NU-CGA
+11114-11	rom	I-NU-CGA
+
+#Text=Ecco il reddito di cittadinanza Pacchia per immigrati e rom
+10853-1	Ecco	B-NU-CGA
+10853-2	il	I-NU-CGA
+10853-3	reddito	I-NU-CGA
+10853-4	di	I-NU-CGA
+10853-5	cittadinanza	I-NU-CGA
+10853-6	Pacchia	I-NU-CGA
+10853-7	per	I-NU-CGA
+10853-8	immigrati	I-NU-CGA
+10853-9	e	I-NU-CGA
+10853-10	rom	I-NU-CGA
+
+#Text=I migranti vogliono il sussidio. In arrivo una pioggia di ricorsi
+11266-1	I	O
+11266-2	migranti	O
+11266-3	vogliono	O
+11266-4	il	O
+11266-5	sussidio	O
+11266-6	.	O
+11266-7	In	B-NU-CGA
+11266-8	arrivo	I-NU-CGA
+11266-9	una	I-NU-CGA
+11266-10	pioggia	I-NU-CGA
+11266-11	di	I-NU-CGA
+11266-12	ricorsi	I-NU-CGA
+
+#Text=Falsi attestati a 6mila immigrati: permessi di soggiorno in regalo
+11549-1	Falsi	B-NU-CGA
+11549-2	attestati	I-NU-CGA
+11549-3	a	I-NU-CGA
+11549-4	6mila	I-NU-CGA
+11549-5	immigrati	I-NU-CGA
+11549-6	:	I-NU-CGA
+11549-7	permessi	I-NU-CGA
+11549-8	di	I-NU-CGA
+11549-9	soggiorno	I-NU-CGA
+11549-10	in	I-NU-CGA
+11549-11	regalo	I-NU-CGA
+
+#Text=Il regno di immigrati e no global: "Ecco l'anticamera dell'inferno"
+11491-1	Il	B-NU-CGA
+11491-2	regno	I-NU-CGA
+11491-3	di	I-NU-CGA
+11491-4	immigrati	I-NU-CGA
+11491-5	e	I-NU-CGA
+11491-6	no	I-NU-CGA
+11491-7	global	I-NU-CGA
+11491-8	:	I-NU-CGA
+11491-9	"	I-NU-CGA
+11491-10	Ecco	I-NU-CGA
+11491-11	l'anticamera	I-NU-CGA
+11491-12	dell'inferno	I-NU-CGA
+11491-13	"	I-NU-CGA
+
+#Text=Clandestini, i pm disfa-leggi a scuola di ostruzionismo
+11443-1	Clandestini	B-NU-CGA
+11443-2	,	I-NU-CGA
+11443-3	i	I-NU-CGA
+11443-4	pm	I-NU-CGA
+11443-5	disfa-leggi	I-NU-CGA
+11443-6	a	I-NU-CGA
+11443-7	scuola	I-NU-CGA
+11443-8	di	I-NU-CGA
+11443-9	ostruzionismo	I-NU-CGA
+
+#Text=Clandestini, la retromarcia della Cassazione: &quot;Vanno espulsi anche se i figli vanno a scuola&quot;
+11040-1	Clandestini	B-NU-CGA
+11040-2	,	I-NU-CGA
+11040-3	la	I-NU-CGA
+11040-4	retromarcia	I-NU-CGA
+11040-5	della	I-NU-CGA
+11040-6	Cassazione	I-NU-CGA
+11040-7	:	I-NU-CGA
+11040-8	&	O
+11040-9	quot	O
+11040-10	;	O
+11040-11	Vanno	O
+11040-12	espulsi	O
+11040-13	anche	O
+11040-14	se	O
+11040-15	i	O
+11040-16	figli	O
+11040-17	vanno	O
+11040-18	a	O
+11040-19	scuola	O
+11040-20	&	O
+11040-21	quot	O
+11040-22	;	O
+
+#Text=Classe solo di bimbi immigrati: a Padova "spariscono" gli italiani
+11171-1	Classe	B-NU-CGA
+11171-2	solo	I-NU-CGA
+11171-3	di	I-NU-CGA
+11171-4	bimbi	I-NU-CGA
+11171-5	immigrati	I-NU-CGA
+11171-6	:	I-NU-CGA
+11171-7	a	O
+11171-8	Padova	O
+11171-9	"	O
+11171-10	spariscono	O
+11171-11	"	O
+11171-12	gli	O
+11171-13	italiani	O
+
+#Text=Come ci si sbarazza degli immigrati africani: ecco la durissima lezione di Israele all'Italia
+11474-1	Come	O
+11474-2	ci	O
+11474-3	si	O
+11474-4	sbarazza	O
+11474-5	degli	O
+11474-6	immigrati	O
+11474-7	africani	O
+11474-8	:	O
+11474-9	ecco	B-NU-CGA
+11474-10	la	I-NU-CGA
+11474-11	durissima	I-NU-CGA
+11474-12	lezione	I-NU-CGA
+11474-13	di	I-NU-CGA
+11474-14	Israele	I-NU-CGA
+11474-15	all'Italia	I-NU-CGA
+
+#Text=Come rimanere clandestini a norma di legge
+10860-1	Come	B-NU-CGA
+10860-2	rimanere	I-NU-CGA
+10860-3	clandestini	I-NU-CGA
+10860-4	a	I-NU-CGA
+10860-5	norma	I-NU-CGA
+10860-6	di	I-NU-CGA
+10860-7	legge	I-NU-CGA
+
+#Text=Come ti addomestico il clandestino
+11513-1	Come	O
+11513-2	ti	O
+11513-3	addomestico	O
+11513-4	il	O
+11513-5	clandestino	O
+
+#Text=Con Appendino Torino mecca dei musulmani
+11487-1	Con	B-NU-CGA
+11487-2	Appendino	I-NU-CGA
+11487-3	Torino	I-NU-CGA
+11487-4	mecca	I-NU-CGA
+11487-5	dei	I-NU-CGA
+11487-6	musulmani	I-NU-CGA
+
+#Text=Cona, profughi molestano una 17enne
+11062-1	Cona	B-NU-CGA
+11062-2	,	I-NU-CGA
+11062-3	profughi	O
+11062-4	molestano	O
+11062-5	una	O
+11062-6	17enne	O
+
+#Text=Cosa succede in questo residence per immigrati? Piscina, festini, droga e sesso: i dettagli-scandalo
+10826-1	Cosa	O
+10826-2	succede	O
+10826-3	in	O
+10826-4	questo	O
+10826-5	residence	O
+10826-6	per	O
+10826-7	immigrati	O
+10826-8	?	O
+10826-9	Piscina	B-NU-CGA
+10826-10	,	I-NU-CGA
+10826-11	festini	I-NU-CGA
+10826-12	,	I-NU-CGA
+10826-13	droga	I-NU-CGA
+10826-14	e	I-NU-CGA
+10826-15	sesso	I-NU-CGA
+10826-16	:	I-NU-CGA
+10826-17	i	I-NU-CGA
+10826-18	dettagli-scandalo	I-NU-CGA
+
+#Text=Così gli immigrati sostituiscono e umiliano Gesù. La denuncia di Socci: il volantino-vergogna / Foto
+11316-1	Così	O
+11316-2	gli	O
+11316-3	immigrati	O
+11316-4	sostituiscono	O
+11316-5	e	O
+11316-6	umiliano	O
+11316-7	Gesù	O
+11316-8	.	O
+11316-9	La	B-NU-CGA
+11316-10	denuncia	I-NU-CGA
+11316-11	di	I-NU-CGA
+11316-12	Socci	I-NU-CGA
+11316-13	:	I-NU-CGA
+11316-14	il	I-NU-CGA
+11316-15	volantino-vergogna	I-NU-CGA
+11316-16	/	O
+11316-17	Foto	O
+
+#Text=Così il governo Renzi regala ​la cittadinanza agli immigrati
+11280-1	Così	O
+11280-2	il	O
+11280-3	governo	O
+11280-4	Renzi	O
+11280-5	regala	O
+11280-6	​	O
+11280-7	la	O
+11280-8	cittadinanza	O
+11280-9	agli	O
+11280-10	immigrati	O
+
+#Text=Così l'elemosina finanzia il racket dei clandestini
+11214-1	Così	O
+11214-2	l'elemosina	O
+11214-3	finanzia	O
+11214-4	il	O
+11214-5	racket	O
+11214-6	dei	O
+11214-7	clandestini	O
+
+#Text=Così Renzi si è venduto l'Italia. Immigrati, parla l'ex ministro: "In cambio di soldi...", suicidio
+11308-1	Così	O
+11308-2	Renzi	O
+11308-3	si	O
+11308-4	è	O
+11308-5	venduto	O
+11308-6	l'Italia	O
+11308-7	.	O
+11308-8	Immigrati	B-NU-CGA
+11308-9	,	I-NU-CGA
+11308-10	parla	O
+11308-11	l'ex	O
+11308-12	ministro	O
+11308-13	:	O
+11308-14	"	B-NU-CGA
+11308-15	In	I-NU-CGA
+11308-16	cambio	I-NU-CGA
+11308-17	di	I-NU-CGA
+11308-18	soldi	I-NU-CGA
+11308-19	.	I-NU-CGA
+11308-20	.	I-NU-CGA
+11308-21	.	I-NU-CGA
+11308-22	"	I-NU-CGA
+11308-23	,	I-NU-CGA
+11308-24	suicidio	I-NU-CGA
+
+#Text=Cure a costo zero anche per i clandestini
+10966-1	Cure	B-NU-CGA
+10966-2	a	I-NU-CGA
+10966-3	costo	I-NU-CGA
+10966-4	zero	I-NU-CGA
+10966-5	anche	I-NU-CGA
+10966-6	per	I-NU-CGA
+10966-7	i	I-NU-CGA
+10966-8	clandestini	I-NU-CGA
+
+#Text=Da "clandestini" a "zingaro" le parole vietate per sentenza
+11199-1	Da	B-NU-CGA
+11199-2	"	I-NU-CGA
+11199-3	clandestini	I-NU-CGA
+11199-4	"	I-NU-CGA
+11199-5	a	I-NU-CGA
+11199-6	"	I-NU-CGA
+11199-7	zingaro	I-NU-CGA
+11199-8	"	I-NU-CGA
+11199-9	le	I-NU-CGA
+11199-10	parole	I-NU-CGA
+11199-11	vietate	I-NU-CGA
+11199-12	per	I-NU-CGA
+11199-13	sentenza	I-NU-CGA
+
+#Text=Dà la casa ai profughi. E gli italiani?
+11172-1	Dà	O
+11172-2	la	O
+11172-3	casa	O
+11172-4	ai	O
+11172-5	profughi	O
+11172-6	.	O
+11172-7	E	B-NU-CGA
+11172-8	gli	I-NU-CGA
+11172-9	italiani	I-NU-CGA
+11172-10	?	I-NU-CGA
+
+#Text=Dopo aver tagliato ai disabili, Renzi regala un miliardo ai richiedenti asilo
+11007-1	Dopo	O
+11007-2	aver	O
+11007-3	tagliato	O
+11007-4	ai	O
+11007-5	disabili	O
+11007-6	,	O
+11007-7	Renzi	O
+11007-8	regala	O
+11007-9	un	O
+11007-10	miliardo	O
+11007-11	ai	O
+11007-12	richiedenti	O
+11007-13	asilo	O
+
+#Text=Dopo lo spottone pro-immigrazione, Favino da non credere: fino a dove si spinge sul monologo a Sanremo
+11360-1	Dopo	B-NU-CGA
+11360-2	lo	I-NU-CGA
+11360-3	spottone	I-NU-CGA
+11360-4	pro-immigrazione	I-NU-CGA
+11360-5	,	I-NU-CGA
+11360-6	Favino	I-NU-CGA
+11360-7	da	I-NU-CGA
+11360-8	non	I-NU-CGA
+11360-9	credere	I-NU-CGA
+11360-10	:	I-NU-CGA
+11360-11	fino	O
+11360-12	a	O
+11360-13	dove	O
+11360-14	si	O
+11360-15	spinge	O
+11360-16	sul	O
+11360-17	monologo	O
+11360-18	a	O
+11360-19	Sanremo	O
+
+#Text=E Minniti apre il "corridoio elettorale". I primi 160 profughi arrivano in aereo
+10914-1	E	O
+10914-2	Minniti	O
+10914-3	apre	O
+10914-4	il	O
+10914-5	"	O
+10914-6	corridoio	O
+10914-7	elettorale	O
+10914-8	"	O
+10914-9	.	O
+10914-10	I	O
+10914-11	primi	O
+10914-12	160	O
+10914-13	profughi	O
+10914-14	arrivano	O
+10914-15	in	O
+10914-16	aereo	O
+
+#Text=È reato dire "clandestino"
+10934-1	È	O
+10934-2	reato	O
+10934-3	dire	O
+10934-4	"	O
+10934-5	clandestino	O
+10934-6	"	O
+
+#Text=Ecco chi ci porta i profughi a domicilio. Chi sono e cosa fanno nel Mediterraneo
+11345-1	Ecco	B-NU-CGA
+11345-2	chi	I-NU-CGA
+11345-3	ci	I-NU-CGA
+11345-4	porta	I-NU-CGA
+11345-5	i	I-NU-CGA
+11345-6	profughi	I-NU-CGA
+11345-7	a	I-NU-CGA
+11345-8	domicilio	I-NU-CGA
+11345-9	.	I-NU-CGA
+11345-10	Chi	O
+11345-11	sono	O
+11345-12	e	O
+11345-13	cosa	O
+11345-14	fanno	O
+11345-15	nel	O
+11345-16	Mediterraneo	O
+
+#Text=Ecco come l'immigrazione ha ucciso il turismo a Fiuggi
+11144-1	Ecco	B-NU-CGA
+11144-2	come	I-NU-CGA
+11144-3	l'immigrazione	I-NU-CGA
+11144-4	ha	I-NU-CGA
+11144-5	ucciso	I-NU-CGA
+11144-6	il	I-NU-CGA
+11144-7	turismo	I-NU-CGA
+11144-8	a	I-NU-CGA
+11144-9	Fiuggi	I-NU-CGA
+
+#Text=Ecco come rovinano l'Italia: immigrati, scippi e rapine? Le cifre-verità sulle "risorse"
+10828-1	Ecco	B-NU-CGA
+10828-2	come	I-NU-CGA
+10828-3	rovinano	I-NU-CGA
+10828-4	l'Italia	I-NU-CGA
+10828-5	:	I-NU-CGA
+10828-6	immigrati	I-NU-CGA
+10828-7	,	I-NU-CGA
+10828-8	scippi	I-NU-CGA
+10828-9	e	I-NU-CGA
+10828-10	rapine	I-NU-CGA
+10828-11	?	I-NU-CGA
+10828-12	Le	I-NU-CGA
+10828-13	cifre-verità	I-NU-CGA
+10828-14	sulle	I-NU-CGA
+10828-15	"	I-NU-CGA
+10828-16	risorse	I-NU-CGA
+10828-17	"	I-NU-CGA
+
+#Text=Ecco il sito che indica le rotte. Toh il trucchetto dei migranti: l'invenzione è di due italiane
+11054-1	Ecco	B-NU-CGA
+11054-2	il	I-NU-CGA
+11054-3	sito	I-NU-CGA
+11054-4	che	I-NU-CGA
+11054-5	indica	I-NU-CGA
+11054-6	le	I-NU-CGA
+11054-7	rotte	I-NU-CGA
+11054-8	.	I-NU-CGA
+11054-9	Toh	B-NU-CGA
+11054-10	il	I-NU-CGA
+11054-11	trucchetto	I-NU-CGA
+11054-12	dei	I-NU-CGA
+11054-13	migranti	I-NU-CGA
+11054-14	:	I-NU-CGA
+11054-15	l'invenzione	O
+11054-16	è	O
+11054-17	di	O
+11054-18	due	O
+11054-19	italiane	O
+
+#Text=Ecco la notizia più attesa. Immigrati, il dato pazzesco: in Italia adesso cambia tutto?
+10949-1	Ecco	B-NU-CGA
+10949-2	la	I-NU-CGA
+10949-3	notizia	I-NU-CGA
+10949-4	più	I-NU-CGA
+10949-5	attesa	I-NU-CGA
+10949-6	.	I-NU-CGA
+10949-7	Immigrati	B-NU-CGA
+10949-8	,	I-NU-CGA
+10949-9	il	I-NU-CGA
+10949-10	dato	I-NU-CGA
+10949-11	pazzesco	I-NU-CGA
+10949-12	:	I-NU-CGA
+10949-13	in	O
+10949-14	Italia	O
+10949-15	adesso	O
+10949-16	cambia	O
+10949-17	tutto	O
+10949-18	?	O
+
+#Text=Ecco le bugie dei clandestini per ottenere asilo
+10958-1	Ecco	B-NU-CGA
+10958-2	le	I-NU-CGA
+10958-3	bugie	I-NU-CGA
+10958-4	dei	I-NU-CGA
+10958-5	clandestini	I-NU-CGA
+10958-6	per	I-NU-CGA
+10958-7	ottenere	I-NU-CGA
+10958-8	asilo	I-NU-CGA
+
+#Text=Ecco perché i migranti saranno sempre di più e l'Italia perde la loro parte migliore
+11033-1	Ecco	B-NU-CGA
+11033-2	perché	I-NU-CGA
+11033-3	i	I-NU-CGA
+11033-4	migranti	I-NU-CGA
+11033-5	saranno	I-NU-CGA
+11033-6	sempre	I-NU-CGA
+11033-7	di	I-NU-CGA
+11033-8	più	I-NU-CGA
+11033-9	e	I-NU-CGA
+11033-10	l'Italia	I-NU-CGA
+11033-11	perde	I-NU-CGA
+11033-12	la	I-NU-CGA
+11033-13	loro	I-NU-CGA
+11033-14	parte	I-NU-CGA
+11033-15	migliore	I-NU-CGA
+
+#Text=Emma Bonino è fuori, delirio sugli immigrati: "Senza di loro...". Mai sentito prima: fino a dove si spinge
+10918-1	Emma	O
+10918-2	Bonino	O
+10918-3	è	O
+10918-4	fuori	O
+10918-5	,	O
+10918-6	delirio	B-NU-CGA
+10918-7	sugli	I-NU-CGA
+10918-8	immigrati	I-NU-CGA
+10918-9	:	I-NU-CGA
+10918-10	"	I-NU-CGA
+10918-11	Senza	I-NU-CGA
+10918-12	di	I-NU-CGA
+10918-13	loro	I-NU-CGA
+10918-14	.	I-NU-CGA
+10918-15	.	I-NU-CGA
+10918-16	.	I-NU-CGA
+10918-17	"	I-NU-CGA
+10918-18	.	I-NU-CGA
+10918-19	Mai	B-NU-CGA
+10918-20	sentito	I-NU-CGA
+10918-21	prima	I-NU-CGA
+10918-22	:	I-NU-CGA
+10918-23	fino	O
+10918-24	a	O
+10918-25	dove	O
+10918-26	si	O
+10918-27	spinge	O
+
+#Text=Eraclea, profughi protestano per il cibo e lo buttano in strada
+11191-1	Eraclea	B-NU-CGA
+11191-2	,	I-NU-CGA
+11191-3	profughi	O
+11191-4	protestano	O
+11191-5	per	O
+11191-6	il	O
+11191-7	cibo	O
+11191-8	e	O
+11191-9	lo	O
+11191-10	buttano	O
+11191-11	in	O
+11191-12	strada	O
+
+#Text=Ergastolo al somalo-bestia: cosa faceva ai profughi, come ha reagito col giudice
+11344-1	Ergastolo	B-NU-CGA
+11344-2	al	I-NU-CGA
+11344-3	somalo-bestia	I-NU-CGA
+11344-4	:	I-NU-CGA
+11344-5	cosa	O
+11344-6	faceva	O
+11344-7	ai	O
+11344-8	profughi	O
+11344-9	,	O
+11344-10	come	O
+11344-11	ha	O
+11344-12	reagito	O
+11344-13	col	O
+11344-14	giudice	O
+
+#Text=Esuli, clandestini e rom &quot;Tutte le emergenze le scaricano su Milano&quot;
+11161-1	Esuli	B-NU-CGA
+11161-2	,	I-NU-CGA
+11161-3	clandestini	I-NU-CGA
+11161-4	e	I-NU-CGA
+11161-5	rom	I-NU-CGA
+11161-6	&	O
+11161-7	quot	O
+11161-8	;	O
+11161-9	Tutte	O
+11161-10	le	O
+11161-11	emergenze	O
+11161-12	le	O
+11161-13	scaricano	O
+11161-14	su	O
+11161-15	Milano	O
+11161-16	&	O
+11161-17	quot	O
+11161-18	;	O
+
+#Text=Evviva Papa Francesco, ma non i clandestini
+11017-1	Evviva	B-NU-CGA
+11017-2	Papa	I-NU-CGA
+11017-3	Francesco	I-NU-CGA
+11017-4	,	I-NU-CGA
+11017-5	ma	I-NU-CGA
+11017-6	non	I-NU-CGA
+11017-7	i	I-NU-CGA
+11017-8	clandestini	I-NU-CGA
+
+#Text=Expo: Bordonali, richiedenti asilo in campo base simbolo fallimento governo
+11390-1	Expo	B-NU-CGA
+11390-2	:	I-NU-CGA
+11390-3	Bordonali	I-NU-CGA
+11390-4	,	I-NU-CGA
+11390-5	richiedenti	I-NU-CGA
+11390-6	asilo	I-NU-CGA
+11390-7	in	I-NU-CGA
+11390-8	campo	I-NU-CGA
+11390-9	base	I-NU-CGA
+11390-10	simbolo	I-NU-CGA
+11390-11	fallimento	I-NU-CGA
+11390-12	governo	I-NU-CGA
+
+#Text=Facci contro gli immigrati: "Ci stanno sostituendo. Basta balle: ecco cosa sono"
+11052-1	Facci	B-NU-CGA
+11052-2	contro	I-NU-CGA
+11052-3	gli	I-NU-CGA
+11052-4	immigrati	I-NU-CGA
+11052-5	:	I-NU-CGA
+11052-6	"	O
+11052-7	Ci	O
+11052-8	stanno	O
+11052-9	sostituendo	O
+11052-10	.	O
+11052-11	Basta	B-NU-CGA
+11052-12	balle	I-NU-CGA
+11052-13	:	I-NU-CGA
+11052-14	ecco	I-NU-CGA
+11052-15	cosa	I-NU-CGA
+11052-16	sono	I-NU-CGA
+11052-17	"	O
+
+#Text=Fascisti? No, islamici integrati. La figlia vive "all'occidentale", come l'hanno brutalizzata
+11165-1	Fascisti	B-NU-CGA
+11165-2	?	I-NU-CGA
+11165-3	No	I-NU-CGA
+11165-4	,	I-NU-CGA
+11165-5	islamici	I-NU-CGA
+11165-6	integrati	I-NU-CGA
+11165-7	.	I-NU-CGA
+11165-8	La	O
+11165-9	figlia	O
+11165-10	vive	O
+11165-11	"	O
+11165-12	all'occidentale	O
+11165-13	"	O
+11165-14	,	O
+11165-15	come	O
+11165-16	l'hanno	O
+11165-17	brutalizzata	O
+
+#Text=Ferrara, aggredita e pestata da cinque immigrati
+10886-1	Ferrara	B-NU-CGA
+10886-2	,	I-NU-CGA
+10886-3	aggredita	I-NU-CGA
+10886-4	e	I-NU-CGA
+10886-5	pestata	I-NU-CGA
+10886-6	da	I-NU-CGA
+10886-7	cinque	I-NU-CGA
+10886-8	immigrati	I-NU-CGA
+
+#Text=Ferrara, il sindaco leghista: "Denuncia chi ospita i migranti di nascosto"
+11234-1	Ferrara	B-NU-CGA
+11234-2	,	I-NU-CGA
+11234-3	il	I-NU-CGA
+11234-4	sindaco	I-NU-CGA
+11234-5	leghista	I-NU-CGA
+11234-6	:	I-NU-CGA
+11234-7	"	O
+11234-8	Denuncia	O
+11234-9	chi	O
+11234-10	ospita	O
+11234-11	i	O
+11234-12	migranti	O
+11234-13	di	O
+11234-14	nascosto	O
+11234-15	"	O
+
+#Text=Fini sbugiardato: ecco tutti gli hotel che ospitano profughi
+11278-1	Fini	B-NU-CGA
+11278-2	sbugiardato	I-NU-CGA
+11278-3	:	I-NU-CGA
+11278-4	ecco	I-NU-CGA
+11278-5	tutti	I-NU-CGA
+11278-6	gli	I-NU-CGA
+11278-7	hotel	I-NU-CGA
+11278-8	che	I-NU-CGA
+11278-9	ospitano	I-NU-CGA
+11278-10	profughi	I-NU-CGA
+
+#Text=Follia del Tar: vietato espellere i clandestini spacciatori
+10989-1	Follia	B-NU-CGA
+10989-2	del	I-NU-CGA
+10989-3	Tar	I-NU-CGA
+10989-4	:	I-NU-CGA
+10989-5	vietato	I-NU-CGA
+10989-6	espellere	I-NU-CGA
+10989-7	i	I-NU-CGA
+10989-8	clandestini	I-NU-CGA
+10989-9	spacciatori	I-NU-CGA
+
+#Text=Follia europea: accoglieremo pure i "profughi climatici"
+10992-1	Follia	B-NU-CGA
+10992-2	europea	I-NU-CGA
+10992-3	:	I-NU-CGA
+10992-4	accoglieremo	O
+10992-5	pure	O
+10992-6	i	O
+10992-7	"	O
+10992-8	profughi	O
+10992-9	climatici	O
+10992-10	"	O
+
+#Text=Fontana: "Se sarò eletto farò espellere 100mila clandestini dalla Lombardia"
+11088-1	Fontana	B-NU-CGA
+11088-2	:	I-NU-CGA
+11088-3	"	O
+11088-4	Se	O
+11088-5	sarò	O
+11088-6	eletto	O
+11088-7	farò	O
+11088-8	espellere	O
+11088-9	100mila	O
+11088-10	clandestini	O
+11088-11	dalla	O
+11088-12	Lombardia	O
+11088-13	"	O
+
+#Text=Furbi e incoerenti: bombe umanitarie, ma niente clandestini
+10884-1	Furbi	B-NU-CGA
+10884-2	e	I-NU-CGA
+10884-3	incoerenti	I-NU-CGA
+10884-4	:	I-NU-CGA
+10884-5	bombe	I-NU-CGA
+10884-6	umanitarie	I-NU-CGA
+10884-7	,	I-NU-CGA
+10884-8	ma	I-NU-CGA
+10884-9	niente	I-NU-CGA
+10884-10	clandestini	I-NU-CGA
+
+#Text=Furia Cruciani: clandestini farabutti devastano un traghetto
+11470-1	Furia	B-NU-CGA
+11470-2	Cruciani	I-NU-CGA
+11470-3	:	I-NU-CGA
+11470-4	clandestini	O
+11470-5	farabutti	O
+11470-6	devastano	O
+11470-7	un	O
+11470-8	traghetto	O
+
+#Text=Gabanelli bombardiera: "Ecco cosa fare coi migranti". Così asfalta Boldrini, Kyenge e le altre "verginelle"
+11228-1	Gabanelli	B-NU-CGA
+11228-2	bombardiera	I-NU-CGA
+11228-3	:	I-NU-CGA
+11228-4	"	I-NU-CGA
+11228-5	Ecco	I-NU-CGA
+11228-6	cosa	I-NU-CGA
+11228-7	fare	I-NU-CGA
+11228-8	coi	I-NU-CGA
+11228-9	migranti	I-NU-CGA
+11228-10	"	I-NU-CGA
+11228-11	.	I-NU-CGA
+11228-12	Così	O
+11228-13	asfalta	O
+11228-14	Boldrini	O
+11228-15	,	O
+11228-16	Kyenge	O
+11228-17	e	O
+11228-18	le	O
+11228-19	altre	O
+11228-20	"	O
+11228-21	verginelle	O
+11228-22	"	O
+
+#Text=Giorgia Meloni, una sonora lezione a Madame Boldrini: "Vergogna, ai profughi case e diritti. Italiani umiliati..."
+11291-1	Giorgia	B-NU-CGA
+11291-2	Meloni	I-NU-CGA
+11291-3	,	I-NU-CGA
+11291-4	una	I-NU-CGA
+11291-5	sonora	I-NU-CGA
+11291-6	lezione	I-NU-CGA
+11291-7	a	I-NU-CGA
+11291-8	Madame	I-NU-CGA
+11291-9	Boldrini	I-NU-CGA
+11291-10	:	I-NU-CGA
+11291-11	"	I-NU-CGA
+11291-12	Vergogna	I-NU-CGA
+11291-13	,	I-NU-CGA
+11291-14	ai	I-NU-CGA
+11291-15	profughi	I-NU-CGA
+11291-16	case	I-NU-CGA
+11291-17	e	I-NU-CGA
+11291-18	diritti	I-NU-CGA
+11291-19	.	I-NU-CGA
+11291-20	Italiani	I-NU-CGA
+11291-21	umiliati	I-NU-CGA
+11291-22	.	I-NU-CGA
+11291-23	.	I-NU-CGA
+11291-24	.	I-NU-CGA
+11291-25	"	I-NU-CGA
+
+#Text=Giornalismo in salsa Boldrini: censurata la parola "clandestini"
+11270-1	Giornalismo	B-NU-CGA
+11270-2	in	I-NU-CGA
+11270-3	salsa	I-NU-CGA
+11270-4	Boldrini	I-NU-CGA
+11270-5	:	I-NU-CGA
+11270-6	censurata	I-NU-CGA
+11270-7	la	I-NU-CGA
+11270-8	parola	I-NU-CGA
+11270-9	"	I-NU-CGA
+11270-10	clandestini	I-NU-CGA
+11270-11	"	I-NU-CGA
+
+#Text=Gli 007 rivelano: se i profughi migrano è colpa del loro smartphone
+10812-1	Gli	O
+10812-2	007	O
+10812-3	rivelano	O
+10812-4	:	O
+10812-5	se	O
+10812-6	i	O
+10812-7	profughi	O
+10812-8	migrano	O
+10812-9	è	O
+10812-10	colpa	O
+10812-11	del	O
+10812-12	loro	O
+10812-13	smartphone	O
+
+#Text=Gli immigrati ci invadono e paghiamo per portarli da noi. Così beffano i nostri militari
+11335-1	Gli	O
+11335-2	immigrati	O
+11335-3	ci	O
+11335-4	invadono	O
+11335-5	e	O
+11335-6	paghiamo	O
+11335-7	per	O
+11335-8	portarli	O
+11335-9	da	O
+11335-10	noi	O
+11335-11	.	O
+11335-12	Così	O
+11335-13	beffano	O
+11335-14	i	O
+11335-15	nostri	O
+11335-16	militari	O
+
+#Text=Gli immigrati coprono Cristo di escrementi. L'orrore in Liguria: ecco il loro water / Foto
+10950-1	Gli	O
+10950-2	immigrati	O
+10950-3	coprono	O
+10950-4	Cristo	O
+10950-5	di	O
+10950-6	escrementi	O
+10950-7	.	O
+10950-8	L'orrore	B-NU-CGA
+10950-9	in	I-NU-CGA
+10950-10	Liguria	I-NU-CGA
+10950-11	:	I-NU-CGA
+10950-12	ecco	I-NU-CGA
+10950-13	il	I-NU-CGA
+10950-14	loro	I-NU-CGA
+10950-15	water	I-NU-CGA
+10950-16	/	O
+10950-17	Foto	O
+
+#Text=Gli immigrati fanno perdere all'Italia 5 miliardi l'anno
+10976-1	Gli	O
+10976-2	immigrati	O
+10976-3	fanno	O
+10976-4	perdere	O
+10976-5	all'Italia	O
+10976-6	5	O
+10976-7	miliardi	O
+10976-8	l'anno	O
+
+#Text=Gli immigrati godono, gli italiani si infuriano: lo Stato regala a loro una "umile" dimora / Foto
+11154-1	Gli	O
+11154-2	immigrati	O
+11154-3	godono	O
+11154-4	,	O
+11154-5	gli	O
+11154-6	italiani	O
+11154-7	si	O
+11154-8	infuriano	O
+11154-9	:	O
+11154-10	lo	O
+11154-11	Stato	O
+11154-12	regala	O
+11154-13	a	O
+11154-14	loro	O
+11154-15	una	O
+11154-16	"	O
+11154-17	umile	O
+11154-18	"	O
+11154-19	dimora	O
+11154-20	/	O
+11154-21	Foto	O
+
+#Text=Gli immigrati in Italia, cosa rischiano le donne. È la Bongiorno l'anti-Boldrini: la scomoda verità
+11334-1	Gli	B-NU-CGA
+11334-2	immigrati	I-NU-CGA
+11334-3	in	I-NU-CGA
+11334-4	Italia	I-NU-CGA
+11334-5	,	I-NU-CGA
+11334-6	cosa	O
+11334-7	rischiano	O
+11334-8	le	O
+11334-9	donne	O
+11334-10	.	O
+11334-11	È	O
+11334-12	la	O
+11334-13	Bongiorno	O
+11334-14	l'anti-Boldrini	O
+11334-15	:	O
+11334-16	la	B-NU-CGA
+11334-17	scomoda	I-NU-CGA
+11334-18	verità	I-NU-CGA
+
+#Text=Gli intoccabili clandestini –
+10862-1	Gli	B-NU-CGA
+10862-2	intoccabili	I-NU-CGA
+10862-3	clandestini	I-NU-CGA
+10862-4	–	I-NU-CGA
+
+#Text=Gli italiani servi degli immigrati L'ultima vergogna: cosa gli paghiamo
+10834-1	Gli	B-NU-CGA
+10834-2	italiani	I-NU-CGA
+10834-3	servi	I-NU-CGA
+10834-4	degli	I-NU-CGA
+10834-5	immigrati	I-NU-CGA
+10834-6	L'ultima	I-NU-CGA
+10834-7	vergogna	I-NU-CGA
+10834-8	:	I-NU-CGA
+10834-9	cosa	O
+10834-10	gli	O
+10834-11	paghiamo	O
+
+#Text=Grosseto, migranti a lavoro nell'area archeologica ma il sindaco dice no: "Prima vengano altri"
+10925-1	Grosseto	B-NU-CGA
+10925-2	,	I-NU-CGA
+10925-3	migranti	I-NU-CGA
+10925-4	a	I-NU-CGA
+10925-5	lavoro	I-NU-CGA
+10925-6	nell'area	I-NU-CGA
+10925-7	archeologica	I-NU-CGA
+10925-8	ma	O
+10925-9	il	O
+10925-10	sindaco	O
+10925-11	dice	O
+10925-12	no	O
+10925-13	:	O
+10925-14	"	O
+10925-15	Prima	O
+10925-16	vengano	O
+10925-17	altri	O
+10925-18	"	O
+
+#Text=I clandestini occupano il villaggio olimpico di Torino. E Fassino non dice nulla
+11229-1	I	O
+11229-2	clandestini	O
+11229-3	occupano	O
+11229-4	il	O
+11229-5	villaggio	O
+11229-6	olimpico	O
+11229-7	di	O
+11229-8	Torino	O
+11229-9	.	O
+11229-10	E	O
+11229-11	Fassino	O
+11229-12	non	O
+11229-13	dice	O
+11229-14	nulla	O
+
+#Text=I clandestini restano in Italia anche dopo essere espulsi
+11232-1	I	O
+11232-2	clandestini	O
+11232-3	restano	O
+11232-4	in	O
+11232-5	Italia	O
+11232-6	anche	O
+11232-7	dopo	O
+11232-8	essere	O
+11232-9	espulsi	O
+
+#Text=I clandestini sputano sull'Italia: "Vi odiamo: non ci date niente"
+10824-1	I	O
+10824-2	clandestini	O
+10824-3	sputano	O
+10824-4	sull'Italia	O
+10824-5	:	O
+10824-6	"	O
+10824-7	Vi	O
+10824-8	odiamo	O
+10824-9	:	O
+10824-10	non	O
+10824-11	ci	O
+10824-12	date	O
+10824-13	niente	O
+10824-14	"	O
+
+#Text=I clandestini? Fermiamoli prima che sbarchino
+10887-1	I	B-NU-CGA
+10887-2	clandestini	I-NU-CGA
+10887-3	?	I-NU-CGA
+10887-4	Fermiamoli	O
+10887-5	prima	O
+10887-6	che	O
+10887-7	sbarchino	O
+
+#Text=I dieci sindaci che rifiutano i clandestini e vengono denunciati
+11210-1	I	B-NU-CGA
+11210-2	dieci	I-NU-CGA
+11210-3	sindaci	I-NU-CGA
+11210-4	che	I-NU-CGA
+11210-5	rifiutano	I-NU-CGA
+11210-6	i	I-NU-CGA
+11210-7	clandestini	I-NU-CGA
+11210-8	e	I-NU-CGA
+11210-9	vengono	I-NU-CGA
+11210-10	denunciati	I-NU-CGA
+
+#Text=I dubbi sui profughi che lasciano le donne: "Come mai le abbandonano in guerra?"
+10875-1	I	B-NU-CGA
+10875-2	dubbi	I-NU-CGA
+10875-3	sui	I-NU-CGA
+10875-4	profughi	I-NU-CGA
+10875-5	che	I-NU-CGA
+10875-6	lasciano	I-NU-CGA
+10875-7	le	I-NU-CGA
+10875-8	donne	I-NU-CGA
+10875-9	:	I-NU-CGA
+10875-10	"	O
+10875-11	Come	O
+10875-12	mai	O
+10875-13	le	O
+10875-14	abbandonano	O
+10875-15	in	O
+10875-16	guerra	O
+10875-17	?	O
+10875-18	"	O
+
+#Text=I pusher richiedenti asilo col portafogli colmo di soldi
+11146-1	I	B-NU-CGA
+11146-2	pusher	I-NU-CGA
+11146-3	richiedenti	I-NU-CGA
+11146-4	asilo	I-NU-CGA
+11146-5	col	I-NU-CGA
+11146-6	portafogli	I-NU-CGA
+11146-7	colmo	I-NU-CGA
+11146-8	di	I-NU-CGA
+11146-9	soldi	I-NU-CGA
+
+#Text=I ragazzini profughi africani? Sequestrano un uomo poi... Terrore nella casa famiglia
+11226-1	I	B-NU-CGA
+11226-2	ragazzini	I-NU-CGA
+11226-3	profughi	I-NU-CGA
+11226-4	africani	I-NU-CGA
+11226-5	?	I-NU-CGA
+11226-6	Sequestrano	O
+11226-7	un	O
+11226-8	uomo	O
+11226-9	poi	O
+11226-10	.	O
+11226-11	.	O
+11226-12	.	O
+11226-13	Terrore	B-NU-CGA
+11226-14	nella	I-NU-CGA
+11226-15	casa	I-NU-CGA
+11226-16	famiglia	I-NU-CGA
+
+#Text=Idomeni, sgomberata la "giungla" del più grande campo profughi d'Europa
+10854-1	Idomeni	B-NU-CGA
+10854-2	,	I-NU-CGA
+10854-3	sgomberata	I-NU-CGA
+10854-4	la	I-NU-CGA
+10854-5	"	I-NU-CGA
+10854-6	giungla	I-NU-CGA
+10854-7	"	I-NU-CGA
+10854-8	del	I-NU-CGA
+10854-9	più	I-NU-CGA
+10854-10	grande	I-NU-CGA
+10854-11	campo	I-NU-CGA
+10854-12	profughi	I-NU-CGA
+10854-13	d'Europa	I-NU-CGA
+
+#Text=Il 66% degli italiani è contro gli immigrati
+10895-1	Il	O
+10895-2	66%	O
+10895-3	degli	O
+10895-4	italiani	O
+10895-5	è	O
+10895-6	contro	O
+10895-7	gli	O
+10895-8	immigrati	O
+
+#Text=Il boom di ricorsi dei furbetti che chiedono asilo
+10917-1	Il	B-NU-CGA
+10917-2	boom	I-NU-CGA
+10917-3	di	I-NU-CGA
+10917-4	ricorsi	I-NU-CGA
+10917-5	dei	I-NU-CGA
+10917-6	furbetti	I-NU-CGA
+10917-7	che	I-NU-CGA
+10917-8	chiedono	I-NU-CGA
+10917-9	asilo	I-NU-CGA
+
+#Text=Il cartello del sindaco. Paese invaso da immigrati? E lui li umilia così / Guarda
+10839-1	Il	B-NU-CGA
+10839-2	cartello	I-NU-CGA
+10839-3	del	I-NU-CGA
+10839-4	sindaco	I-NU-CGA
+10839-5	.	I-NU-CGA
+10839-6	Paese	B-NU-CGA
+10839-7	invaso	I-NU-CGA
+10839-8	da	I-NU-CGA
+10839-9	immigrati	I-NU-CGA
+10839-10	?	I-NU-CGA
+10839-11	E	O
+10839-12	lui	O
+10839-13	li	O
+10839-14	umilia	O
+10839-15	così	O
+10839-16	/	O
+10839-17	Guarda	O
+
+#Text=Il documento cancella metà Italia. Sarà l'estinzione, addio in 50 anni: quanti saranno gli immigrati
+11312-1	Il	O
+11312-2	documento	O
+11312-3	cancella	O
+11312-4	metà	O
+11312-5	Italia	O
+11312-6	.	O
+11312-7	Sarà	O
+11312-8	l'estinzione	O
+11312-9	,	O
+11312-10	addio	B-NU-CGA
+11312-11	in	I-NU-CGA
+11312-12	50	I-NU-CGA
+11312-13	anni	I-NU-CGA
+11312-14	:	I-NU-CGA
+11312-15	quanti	O
+11312-16	saranno	O
+11312-17	gli	O
+11312-18	immigrati	O
+
+#Text=Il giudice si arrende: "Il clandestino ci crede un Paese senza regole"
+11350-1	Il	O
+11350-2	giudice	O
+11350-3	si	O
+11350-4	arrende	O
+11350-5	:	O
+11350-6	"	O
+11350-7	Il	O
+11350-8	clandestino	O
+11350-9	ci	O
+11350-10	crede	O
+11350-11	un	O
+11350-12	Paese	O
+11350-13	senza	O
+11350-14	regole	O
+11350-15	"	O
+
+#Text=Il governo pensa a banche e clandestini. Il dovere di dire "prima i terremotati"
+10900-1	Il	O
+10900-2	governo	O
+10900-3	pensa	O
+10900-4	a	O
+10900-5	banche	O
+10900-6	e	O
+10900-7	clandestini	O
+10900-8	.	O
+10900-9	Il	B-NU-CGA
+10900-10	dovere	I-NU-CGA
+10900-11	di	I-NU-CGA
+10900-12	dire	I-NU-CGA
+10900-13	"	I-NU-CGA
+10900-14	prima	I-NU-CGA
+10900-15	i	I-NU-CGA
+10900-16	terremotati	I-NU-CGA
+10900-17	"	I-NU-CGA
+
+#Text=Marco Bussetti: “A scuola tuteliamo gli studenti immigrati ma prima i nostri figli”
+10226-1	Marco	B-NU-CGA
+10226-2	Bussetti	I-NU-CGA
+10226-3	:	I-NU-CGA
+10226-4	“	O
+10226-5	A	O
+10226-6	scuola	O
+10226-7	tuteliamo	O
+10226-8	gli	O
+10226-9	studenti	O
+10226-10	immigrati	O
+10226-11	ma	O
+10226-12	prima	B-NU-CGA
+10226-13	i	I-NU-CGA
+10226-14	nostri	I-NU-CGA
+10226-15	figli	I-NU-CGA
+10226-16	”	O
+
+#Text=Ancora migranti a Lampedusa. Salvini: "Li rispediamo a casa loro"
+10649-1	Ancora	B-NU-CGA
+10649-2	migranti	I-NU-CGA
+10649-3	a	I-NU-CGA
+10649-4	Lampedusa	I-NU-CGA
+10649-5	.	I-NU-CGA
+10649-6	Salvini	B-NU-CGA
+10649-7	:	I-NU-CGA
+10649-8	"	O
+10649-9	Li	O
+10649-10	rispediamo	O
+10649-11	a	O
+10649-12	casa	O
+10649-13	loro	O
+10649-14	"	O
+
+#Text=C’è la scuola, via i migranti: “Siamo contrari all’apartheid ma ora serve più sicurezza”
+10029-1	C	O
+10029-2	’	O
+10029-3	è	O
+10029-4	la	O
+10029-5	scuola	O
+10029-6	,	O
+10029-7	via	B-NU-CGA
+10029-8	i	I-NU-CGA
+10029-9	migranti	I-NU-CGA
+10029-10	:	I-NU-CGA
+10029-11	“	O
+10029-12	Siamo	O
+10029-13	contrari	O
+10029-14	all	O
+10029-15	’	O
+10029-16	apartheid	O
+10029-17	ma	O
+10029-18	ora	O
+10029-19	serve	O
+10029-20	più	O
+10029-21	sicurezza	O
+10029-22	”	O
+
+#Text=«I rom non sono uguali a noi». E lo studio di Piazza Pulita applaude il giovane ospite
+10586-1	«	O
+10586-2	I	O
+10586-3	rom	O
+10586-4	non	O
+10586-5	sono	O
+10586-6	uguali	O
+10586-7	a	O
+10586-8	noi	O
+10586-9	»	O
+10586-10	.	O
+10586-11	E	O
+10586-12	lo	O
+10586-13	studio	O
+10586-14	di	O
+10586-15	Piazza	O
+10586-16	Pulita	O
+10586-17	applaude	O
+10586-18	il	O
+10586-19	giovane	O
+10586-20	ospite	O
+
+#Text=Paura nel campo nomadi: giornalista aggredita e derubata
+10687-1	Paura	B-NU-CGA
+10687-2	nel	I-NU-CGA
+10687-3	campo	I-NU-CGA
+10687-4	nomadi	I-NU-CGA
+10687-5	:	I-NU-CGA
+10687-6	giornalista	I-NU-CGA
+10687-7	aggredita	I-NU-CGA
+10687-8	e	I-NU-CGA
+10687-9	derubata	I-NU-CGA
+
+#Text=Libia, l’appello del premier Sarraj: «Fate presto, 800mila tra libici, migranti (e molti terroristi) pronti a invadere l’Italia e l’Europa»
+10472-1	Libia	B-NU-CGA
+10472-2	,	I-NU-CGA
+10472-3	l	I-NU-CGA
+10472-4	’	I-NU-CGA
+10472-5	appello	I-NU-CGA
+10472-6	del	I-NU-CGA
+10472-7	premier	I-NU-CGA
+10472-8	Sarraj	I-NU-CGA
+10472-9	:	I-NU-CGA
+10472-10	«	O
+10472-11	Fate	O
+10472-12	presto	O
+10472-13	,	O
+10472-14	800mila	B-NU-CGA
+10472-15	tra	I-NU-CGA
+10472-16	libici	I-NU-CGA
+10472-17	,	I-NU-CGA
+10472-18	migranti	I-NU-CGA
+10472-19	(	I-NU-CGA
+10472-20	e	I-NU-CGA
+10472-21	molti	I-NU-CGA
+10472-22	terroristi	I-NU-CGA
+10472-23	)	I-NU-CGA
+10472-24	pronti	I-NU-CGA
+10472-25	a	I-NU-CGA
+10472-26	invadere	I-NU-CGA
+10472-27	l	I-NU-CGA
+10472-28	’	I-NU-CGA
+10472-29	Italia	I-NU-CGA
+10472-30	e	I-NU-CGA
+10472-31	l	I-NU-CGA
+10472-32	’	I-NU-CGA
+10472-33	Europa	I-NU-CGA
+10472-34	»	O
+
+#Text=L'allarme di al-Serraj all'Italia: "800mila migranti pronti a invadervi"
+10129-1	L'allarme	B-NU-CGA
+10129-2	di	I-NU-CGA
+10129-3	al-Serraj	I-NU-CGA
+10129-4	all'Italia	I-NU-CGA
+10129-5	:	I-NU-CGA
+10129-6	"	I-NU-CGA
+10129-7	800mila	I-NU-CGA
+10129-8	migranti	I-NU-CGA
+10129-9	pronti	I-NU-CGA
+10129-10	a	I-NU-CGA
+10129-11	invadervi	I-NU-CGA
+10129-12	"	I-NU-CGA
+
+#Text=In balia di 800mila profughi (e dei pm)
+10546-1	In	B-NU-CGA
+10546-2	balia	I-NU-CGA
+10546-3	di	I-NU-CGA
+10546-4	800mila	I-NU-CGA
+10546-5	profughi	I-NU-CGA
+10546-6	(	I-NU-CGA
+10546-7	e	I-NU-CGA
+10546-8	dei	I-NU-CGA
+10546-9	pm	I-NU-CGA
+10546-10	)	I-NU-CGA
+
+#Text=Milano, Sala coccola gli immigrati e loro gli occupano lo stabile
+10208-1	Milano	B-NU-CGA
+10208-2	,	I-NU-CGA
+10208-3	Sala	O
+10208-4	coccola	O
+10208-5	gli	O
+10208-6	immigrati	O
+10208-7	e	O
+10208-8	loro	O
+10208-9	gli	O
+10208-10	occupano	O
+10208-11	lo	O
+10208-12	stabile	O
+
+#Text=Un pm aveva appena liberato l'immigrato che ha attaccato gli agenti a Torino
+10363-1	Un	O
+10363-2	pm	O
+10363-3	aveva	O
+10363-4	appena	O
+10363-5	liberato	O
+10363-6	l'immigrato	O
+10363-7	che	O
+10363-8	ha	O
+10363-9	attaccato	O
+10363-10	gli	O
+10363-11	agenti	O
+10363-12	a	O
+10363-13	Torino	O
+
+#Text=Milano, rom in villetta col reddito M5S: "E lavoriamo in nero"
+10680-1	Milano	B-NU-CGA
+10680-2	,	I-NU-CGA
+10680-3	rom	I-NU-CGA
+10680-4	in	I-NU-CGA
+10680-5	villetta	I-NU-CGA
+10680-6	col	I-NU-CGA
+10680-7	reddito	I-NU-CGA
+10680-8	M5S	I-NU-CGA
+10680-9	:	I-NU-CGA
+10680-10	"	O
+10680-11	E	O
+10680-12	lavoriamo	O
+10680-13	in	O
+10680-14	nero	O
+10680-15	"	O
+
+#Text=Carpi, aggressione ad una coppia di fidanzati. Fermati tre stranieri
+10285-1	Carpi	B-NU-CGA
+10285-2	,	I-NU-CGA
+10285-3	aggressione	I-NU-CGA
+10285-4	ad	I-NU-CGA
+10285-5	una	I-NU-CGA
+10285-6	coppia	I-NU-CGA
+10285-7	di	I-NU-CGA
+10285-8	fidanzati	I-NU-CGA
+10285-9	.	I-NU-CGA
+10285-10	Fermati	B-NU-CGA
+10285-11	tre	I-NU-CGA
+10285-12	stranieri	I-NU-CGA
+
+#Text=Salvini: «Il calcio? Rimpiango i tre stranieri in campo»
+10305-1	Salvini	B-NU-CGA
+10305-2	:	I-NU-CGA
+10305-3	«	I-NU-CGA
+10305-4	Il	I-NU-CGA
+10305-5	calcio	I-NU-CGA
+10305-6	?	I-NU-CGA
+10305-7	Rimpiango	O
+10305-8	i	O
+10305-9	tre	O
+10305-10	stranieri	O
+10305-11	in	O
+10305-12	campo	O
+10305-13	»	O
+
+#Text=Viterbo, i post del consigliere di Casapound Francesco Chiricozzi: "Lo straniero stupra di più dell'italiano"
+10763-1	Viterbo	B-NU-CGA
+10763-2	,	I-NU-CGA
+10763-3	i	I-NU-CGA
+10763-4	post	I-NU-CGA
+10763-5	del	I-NU-CGA
+10763-6	consigliere	I-NU-CGA
+10763-7	di	I-NU-CGA
+10763-8	Casapound	I-NU-CGA
+10763-9	Francesco	I-NU-CGA
+10763-10	Chiricozzi	I-NU-CGA
+10763-11	:	I-NU-CGA
+10763-12	"	O
+10763-13	Lo	O
+10763-14	straniero	O
+10763-15	stupra	O
+10763-16	di	O
+10763-17	più	O
+10763-18	dell'italiano	O
+10763-19	"	O
+
+#Text=Reddito, agli stranieri 60mila card ma i controlli solo a ottobre
+10361-1	Reddito	B-NU-CGA
+10361-2	,	I-NU-CGA
+10361-3	agli	I-NU-CGA
+10361-4	stranieri	I-NU-CGA
+10361-5	60mila	I-NU-CGA
+10361-6	card	I-NU-CGA
+10361-7	ma	I-NU-CGA
+10361-8	i	I-NU-CGA
+10361-9	controlli	I-NU-CGA
+10361-10	solo	I-NU-CGA
+10361-11	a	I-NU-CGA
+10361-12	ottobre	I-NU-CGA
+
+#Text=I dipinti offendono i musulmani. E il museo li copre - La Verità
+10313-1	I	O
+10313-2	dipinti	O
+10313-3	offendono	O
+10313-4	i	O
+10313-5	musulmani	O
+10313-6	.	O
+10313-7	E	O
+10313-8	il	O
+10313-9	museo	O
+10313-10	li	O
+10313-11	copre	O
+10313-12	-	O
+10313-13	La	O
+10313-14	Verità	O
+
+#Text=Roma, casa popolare a una famiglia di nomadi. Tensione a Casal Bruciato: "Non ve ce volemo qua!"
+10658-1	Roma	B-NU-CGA
+10658-2	,	I-NU-CGA
+10658-3	casa	I-NU-CGA
+10658-4	popolare	I-NU-CGA
+10658-5	a	I-NU-CGA
+10658-6	una	I-NU-CGA
+10658-7	famiglia	I-NU-CGA
+10658-8	di	I-NU-CGA
+10658-9	nomadi	I-NU-CGA
+10658-10	.	I-NU-CGA
+10658-11	Tensione	B-NU-CGA
+10658-12	a	I-NU-CGA
+10658-13	Casal	I-NU-CGA
+10658-14	Bruciato	I-NU-CGA
+10658-15	:	I-NU-CGA
+10658-16	"	O
+10658-17	Non	O
+10658-18	ve	O
+10658-19	ce	O
+10658-20	volemo	O
+10658-21	qua	O
+10658-22	!	O
+10658-23	"	O
+
+#Text=L'auto dei rom di Casal Bruciato? Targa falsa e senza assicurazione
+10037-1	L'auto	B-NU-CGA
+10037-2	dei	I-NU-CGA
+10037-3	rom	I-NU-CGA
+10037-4	di	I-NU-CGA
+10037-5	Casal	I-NU-CGA
+10037-6	Bruciato	I-NU-CGA
+10037-7	?	I-NU-CGA
+10037-8	Targa	I-NU-CGA
+10037-9	falsa	I-NU-CGA
+10037-10	e	I-NU-CGA
+10037-11	senza	I-NU-CGA
+10037-12	assicurazione	I-NU-CGA
+
+#Text=Casa popolare ai rom anche a Casal de' Pazzi. Residenti sul piede di guerra
+10098-1	Casa	B-NU-CGA
+10098-2	popolare	I-NU-CGA
+10098-3	ai	I-NU-CGA
+10098-4	rom	I-NU-CGA
+10098-5	anche	I-NU-CGA
+10098-6	a	I-NU-CGA
+10098-7	Casal	I-NU-CGA
+10098-8	de	I-NU-CGA
+10098-9	'	I-NU-CGA
+10098-10	Pazzi	I-NU-CGA
+10098-11	.	I-NU-CGA
+10098-12	Residenti	B-NU-CGA
+10098-13	sul	I-NU-CGA
+10098-14	piede	I-NU-CGA
+10098-15	di	I-NU-CGA
+10098-16	guerra	I-NU-CGA
+
+#Text=Anziana uccisa dopo la rapina, fermata la banda di ladri rom
+10798-1	Anziana	B-NU-CGA
+10798-2	uccisa	I-NU-CGA
+10798-3	dopo	I-NU-CGA
+10798-4	la	I-NU-CGA
+10798-5	rapina	I-NU-CGA
+10798-6	,	I-NU-CGA
+10798-7	fermata	I-NU-CGA
+10798-8	la	I-NU-CGA
+10798-9	banda	I-NU-CGA
+10798-10	di	I-NU-CGA
+10798-11	ladri	I-NU-CGA
+10798-12	rom	I-NU-CGA
+
+#Text=​Anziana morta dopo rapina a Montesacro, Salvini: «I cinque rom vanno espulsi»
+10312-1	Anziana	B-NU-CGA
+10312-2	morta	I-NU-CGA
+10312-3	dopo	I-NU-CGA
+10312-4	rapina	I-NU-CGA
+10312-5	a	I-NU-CGA
+10312-6	Montesacro	I-NU-CGA
+10312-7	,	I-NU-CGA
+10312-8	Salvini	I-NU-CGA
+10312-9	:	I-NU-CGA
+10312-10	«	O
+10312-11	I	O
+10312-12	cinque	O
+10312-13	rom	O
+10312-14	vanno	O
+10312-15	espulsi	O
+10312-16	»	O
+
+#Text=Il rom che ha ucciso l'anziana: sfilza di reati e un'espulsione
+10444-1	Il	B-NU-CGA
+10444-2	rom	I-NU-CGA
+10444-3	che	I-NU-CGA
+10444-4	ha	I-NU-CGA
+10444-5	ucciso	I-NU-CGA
+10444-6	l'anziana	I-NU-CGA
+10444-7	:	I-NU-CGA
+10444-8	sfilza	I-NU-CGA
+10444-9	di	I-NU-CGA
+10444-10	reati	I-NU-CGA
+10444-11	e	I-NU-CGA
+10444-12	un'espulsione	I-NU-CGA
+
+#Text=Così il Tar si piega ai buonisti e non espelle più l'immigrato
+10797-1	Così	O
+10797-2	il	O
+10797-3	Tar	O
+10797-4	si	O
+10797-5	piega	O
+10797-6	ai	O
+10797-7	buonisti	O
+10797-8	e	O
+10797-9	non	O
+10797-10	espelle	O
+10797-11	più	O
+10797-12	l'immigrato	O
+
+#Text=Il cardinale Müller: "non possiamo pregare come o con i musulmani"
+10366-1	Il	B-NU-CGA
+10366-2	cardinale	I-NU-CGA
+10366-3	Müller	I-NU-CGA
+10366-4	:	I-NU-CGA
+10366-5	"	O
+10366-6	non	O
+10366-7	possiamo	O
+10366-8	pregare	O
+10366-9	come	O
+10366-10	o	O
+10366-11	con	O
+10366-12	i	O
+10366-13	musulmani	O
+10366-14	"	O
+
+#Text=Il rogo del migrante con sette identità: brucia una casa e uccide due donne
+10513-1	Il	B-NU-CGA
+10513-2	rogo	I-NU-CGA
+10513-3	del	I-NU-CGA
+10513-4	migrante	I-NU-CGA
+10513-5	con	I-NU-CGA
+10513-6	sette	I-NU-CGA
+10513-7	identità	I-NU-CGA
+10513-8	:	I-NU-CGA
+10513-9	brucia	O
+10513-10	una	O
+10513-11	casa	O
+10513-12	e	O
+10513-13	uccide	O
+10513-14	due	O
+10513-15	donne	O
+
+#Text=Rivolta a Torpignattara: "Via stranieri e moschee"
+10584-1	Rivolta	B-NU-CGA
+10584-2	a	I-NU-CGA
+10584-3	Torpignattara	I-NU-CGA
+10584-4	:	I-NU-CGA
+10584-5	"	I-NU-CGA
+10584-6	Via	I-NU-CGA
+10584-7	stranieri	I-NU-CGA
+10584-8	e	I-NU-CGA
+10584-9	moschee	I-NU-CGA
+10584-10	"	I-NU-CGA
+
+#Text=Degrado Val Melaina, rissa a bottigliate tra rom in pieno giorno
+10695-1	Degrado	B-NU-CGA
+10695-2	Val	I-NU-CGA
+10695-3	Melaina	I-NU-CGA
+10695-4	,	I-NU-CGA
+10695-5	rissa	I-NU-CGA
+10695-6	a	I-NU-CGA
+10695-7	bottigliate	I-NU-CGA
+10695-8	tra	I-NU-CGA
+10695-9	rom	I-NU-CGA
+10695-10	in	I-NU-CGA
+10695-11	pieno	I-NU-CGA
+10695-12	giorno	I-NU-CGA
+
+#Text=Anziana rapinata sull'autobus, i due nomadi in fuga si rifugiano al campo di via Candoni
+10182-1	Anziana	B-NU-CGA
+10182-2	rapinata	I-NU-CGA
+10182-3	sull'autobus	I-NU-CGA
+10182-4	,	I-NU-CGA
+10182-5	i	O
+10182-6	due	O
+10182-7	nomadi	O
+10182-8	in	O
+10182-9	fuga	O
+10182-10	si	O
+10182-11	rifugiano	O
+10182-12	al	O
+10182-13	campo	O
+10182-14	di	O
+10182-15	via	O
+10182-16	Candoni	O
+
+#Text=Trump apre il fronte messicano: “Via i migranti o metto i dazi”
+10180-1	Trump	O
+10180-2	apre	O
+10180-3	il	O
+10180-4	fronte	O
+10180-5	messicano	O
+10180-6	:	O
+10180-7	“	O
+10180-8	Via	B-NU-CGA
+10180-9	i	I-NU-CGA
+10180-10	migranti	I-NU-CGA
+10180-11	o	O
+10180-12	metto	O
+10180-13	i	O
+10180-14	dazi	O
+10180-15	”	O
+
+#Text=Bologna, Salvini contro i vertici di pediatria del Sant’Orsola: «Gli immigrati? Record di Tbc e scabbia»
+10223-1	Bologna	B-NU-CGA
+10223-2	,	I-NU-CGA
+10223-3	Salvini	I-NU-CGA
+10223-4	contro	I-NU-CGA
+10223-5	i	I-NU-CGA
+10223-6	vertici	I-NU-CGA
+10223-7	di	I-NU-CGA
+10223-8	pediatria	I-NU-CGA
+10223-9	del	I-NU-CGA
+10223-10	Sant	I-NU-CGA
+10223-11	’	I-NU-CGA
+10223-12	Orsola	I-NU-CGA
+10223-13	:	I-NU-CGA
+10223-14	«	I-NU-CGA
+10223-15	Gli	I-NU-CGA
+10223-16	immigrati	I-NU-CGA
+10223-17	?	I-NU-CGA
+10223-18	Record	I-NU-CGA
+10223-19	di	I-NU-CGA
+10223-20	Tbc	I-NU-CGA
+10223-21	e	I-NU-CGA
+10223-22	scabbia	I-NU-CGA
+10223-23	»	I-NU-CGA
+
+#Text=Il governo regala il nostro 8 per mille ai profughi
+10280-1	Il	O
+10280-2	governo	O
+10280-3	regala	O
+10280-4	il	O
+10280-5	nostro	O
+10280-6	8	O
+10280-7	per	O
+10280-8	mille	O
+10280-9	ai	O
+10280-10	profughi	O
+
+#Text=Il manifesto per gli immigrati: ​"Se sei venuto per delinquere faremo di tutto per cacciarti"
+10374-1	Il	B-NU-CGA
+10374-2	manifesto	I-NU-CGA
+10374-3	per	I-NU-CGA
+10374-4	gli	I-NU-CGA
+10374-5	immigrati	I-NU-CGA
+10374-6	:	I-NU-CGA
+10374-7	​	O
+10374-8	"	O
+10374-9	Se	O
+10374-10	sei	O
+10374-11	venuto	O
+10374-12	per	O
+10374-13	delinquere	O
+10374-14	faremo	O
+10374-15	di	O
+10374-16	tutto	O
+10374-17	per	O
+10374-18	cacciarti	O
+10374-19	"	O
+
+#Text=Il Paese (vicino a noi) dice basta: "Troppi". Porte chiuse agli immigrati
+10315-1	Il	O
+10315-2	Paese	O
+10315-3	(	O
+10315-4	vicino	O
+10315-5	a	O
+10315-6	noi	O
+10315-7	)	O
+10315-8	dice	O
+10315-9	basta	O
+10315-10	:	O
+10315-11	"	B-NU-CGA
+10315-12	Troppi	I-NU-CGA
+10315-13	"	I-NU-CGA
+10315-14	.	I-NU-CGA
+10315-15	Porte	B-NU-CGA
+10315-16	chiuse	I-NU-CGA
+10315-17	agli	I-NU-CGA
+10315-18	immigrati	I-NU-CGA
+
+#Text=Il paese invaso dai migranti: 113 profughi con 110 abitanti
+10784-1	Il	B-NU-CGA
+10784-2	paese	I-NU-CGA
+10784-3	invaso	I-NU-CGA
+10784-4	dai	I-NU-CGA
+10784-5	migranti	I-NU-CGA
+10784-6	:	I-NU-CGA
+10784-7	113	I-NU-CGA
+10784-8	profughi	I-NU-CGA
+10784-9	con	I-NU-CGA
+10784-10	110	I-NU-CGA
+10784-11	abitanti	I-NU-CGA
+
+#Text=Il parroco anti-immigrazione: ​"Non possiamo farci calpestare"
+10576-1	Il	B-NU-CGA
+10576-2	parroco	I-NU-CGA
+10576-3	anti-immigrazione	I-NU-CGA
+10576-4	:	I-NU-CGA
+10576-5	​	O
+10576-6	"	O
+10576-7	Non	O
+10576-8	possiamo	O
+10576-9	farci	O
+10576-10	calpestare	O
+10576-11	"	O
+
+#Text=Il piano degli islamici italiani: due milioni di profughi
+10097-1	Il	B-NU-CGA
+10097-2	piano	I-NU-CGA
+10097-3	degli	I-NU-CGA
+10097-4	islamici	I-NU-CGA
+10097-5	italiani	I-NU-CGA
+10097-6	:	I-NU-CGA
+10097-7	due	I-NU-CGA
+10097-8	milioni	I-NU-CGA
+10097-9	di	I-NU-CGA
+10097-10	profughi	I-NU-CGA
+
+#Text=Il piano del Viminale: integrare i profughi? Ora tocca pure alle Regioni
+10502-1	Il	B-NU-CGA
+10502-2	piano	I-NU-CGA
+10502-3	del	I-NU-CGA
+10502-4	Viminale	I-NU-CGA
+10502-5	:	I-NU-CGA
+10502-6	integrare	I-NU-CGA
+10502-7	i	I-NU-CGA
+10502-8	profughi	I-NU-CGA
+10502-9	?	I-NU-CGA
+10502-10	Ora	O
+10502-11	tocca	O
+10502-12	pure	O
+10502-13	alle	O
+10502-14	Regioni	O
+
+#Text=Il piano per fermare l'ondata di clandestini: 10mila rimpatri al mese
+10275-1	Il	B-NU-CGA
+10275-2	piano	I-NU-CGA
+10275-3	per	I-NU-CGA
+10275-4	fermare	I-NU-CGA
+10275-5	l'ondata	I-NU-CGA
+10275-6	di	I-NU-CGA
+10275-7	clandestini	I-NU-CGA
+10275-8	:	I-NU-CGA
+10275-9	10mila	I-NU-CGA
+10275-10	rimpatri	I-NU-CGA
+10275-11	al	I-NU-CGA
+10275-12	mese	I-NU-CGA
+
+#Text=Il sindaco anti-immigrati, una rivoluzione nel Pd: "Come ripulisco tutto"
+10488-1	Il	B-NU-CGA
+10488-2	sindaco	I-NU-CGA
+10488-3	anti-immigrati	I-NU-CGA
+10488-4	,	I-NU-CGA
+10488-5	una	I-NU-CGA
+10488-6	rivoluzione	I-NU-CGA
+10488-7	nel	I-NU-CGA
+10488-8	Pd	I-NU-CGA
+10488-9	:	I-NU-CGA
+10488-10	"	O
+10488-11	Come	O
+10488-12	ripulisco	O
+10488-13	tutto	O
+10488-14	"	O
+
+#Text=Il terrore viene da fuori. Sono immigrati l'84% degli attentatori
+10218-1	Il	O
+10218-2	terrore	O
+10218-3	viene	O
+10218-4	da	O
+10218-5	fuori	O
+10218-6	.	O
+10218-7	Sono	O
+10218-8	immigrati	O
+10218-9	l	O
+10218-10	'	O
+10218-11	84%	O
+10218-12	degli	O
+10218-13	attentatori	O
+
+#Text=Il traffico degli appartamenti: ai clandestini nozze e un tetto
+10437-1	Il	B-NU-CGA
+10437-2	traffico	I-NU-CGA
+10437-3	degli	I-NU-CGA
+10437-4	appartamenti	I-NU-CGA
+10437-5	:	I-NU-CGA
+10437-6	ai	I-NU-CGA
+10437-7	clandestini	I-NU-CGA
+10437-8	nozze	I-NU-CGA
+10437-9	e	I-NU-CGA
+10437-10	un	I-NU-CGA
+10437-11	tetto	I-NU-CGA
+
+#Text=Il Viminale assume (solo per gli immigrati)
+10664-1	Il	O
+10664-2	Viminale	O
+10664-3	assume	O
+10664-4	(	O
+10664-5	solo	O
+10664-6	per	O
+10664-7	gli	O
+10664-8	immigrati	O
+10664-9	)	O
+
+#Text=Immigrati a Roma, è allarme stupro
+10385-1	Immigrati	B-NU-CGA
+10385-2	a	I-NU-CGA
+10385-3	Roma	I-NU-CGA
+10385-4	,	I-NU-CGA
+10385-5	è	O
+10385-6	allarme	O
+10385-7	stupro	O
+
+#Text=Immigrati e malattie, toh... Record horror tra i profughi, i 50 casi da brividi (in Italia)
+10522-1	Immigrati	B-NU-CGA
+10522-2	e	I-NU-CGA
+10522-3	malattie	I-NU-CGA
+10522-4	,	I-NU-CGA
+10522-5	toh	I-NU-CGA
+10522-6	.	I-NU-CGA
+10522-7	.	I-NU-CGA
+10522-8	.	I-NU-CGA
+10522-9	Record	I-NU-CGA
+10522-10	horror	I-NU-CGA
+10522-11	tra	I-NU-CGA
+10522-12	i	I-NU-CGA
+10522-13	profughi	I-NU-CGA
+10522-14	,	I-NU-CGA
+10522-15	i	I-NU-CGA
+10522-16	50	I-NU-CGA
+10522-17	casi	I-NU-CGA
+10522-18	da	I-NU-CGA
+10522-19	brividi	I-NU-CGA
+10522-20	(	I-NU-CGA
+10522-21	in	I-NU-CGA
+10522-22	Italia	I-NU-CGA
+10522-23	)	I-NU-CGA
+
+#Text=Immigrati, ammiraglio brutale: ora basta balle. "Ecco chi trama contro l'Italia, serve una guerra"
+10146-1	Immigrati	B-NU-CGA
+10146-2	,	I-NU-CGA
+10146-3	ammiraglio	I-NU-CGA
+10146-4	brutale	I-NU-CGA
+10146-5	:	I-NU-CGA
+10146-6	ora	I-NU-CGA
+10146-7	basta	I-NU-CGA
+10146-8	balle	I-NU-CGA
+10146-9	.	I-NU-CGA
+10146-10	"	O
+10146-11	Ecco	B-NU-CGA
+10146-12	chi	I-NU-CGA
+10146-13	trama	I-NU-CGA
+10146-14	contro	I-NU-CGA
+10146-15	l'Italia	I-NU-CGA
+10146-16	,	I-NU-CGA
+10146-17	serve	O
+10146-18	una	O
+10146-19	guerra	O
+10146-20	"	O
+
+#Text=Immigrati, ci invadono e loro intascano 100 milioni. La lista delle vergogna: le 15 coop rosse più potenti
+10537-1	Immigrati	B-NU-CGA
+10537-2	,	I-NU-CGA
+10537-3	ci	O
+10537-4	invadono	O
+10537-5	e	O
+10537-6	loro	O
+10537-7	intascano	O
+10537-8	100	O
+10537-9	milioni	O
+10537-10	.	O
+10537-11	La	B-NU-CGA
+10537-12	lista	I-NU-CGA
+10537-13	delle	I-NU-CGA
+10537-14	vergogna	I-NU-CGA
+10537-15	:	I-NU-CGA
+10537-16	le	I-NU-CGA
+10537-17	15	I-NU-CGA
+10537-18	coop	I-NU-CGA
+10537-19	rosse	I-NU-CGA
+10537-20	più	I-NU-CGA
+10537-21	potenti	I-NU-CGA
+
+#Text=Immigrati, ecco il trucco-truffa sulle pensioni: come si pappano l'assegno senza versare nulla
+10644-1	Immigrati	B-NU-CGA
+10644-2	,	I-NU-CGA
+10644-3	ecco	I-NU-CGA
+10644-4	il	I-NU-CGA
+10644-5	trucco-truffa	I-NU-CGA
+10644-6	sulle	I-NU-CGA
+10644-7	pensioni	I-NU-CGA
+10644-8	:	I-NU-CGA
+10644-9	come	O
+10644-10	si	O
+10644-11	pappano	O
+10644-12	l'assegno	O
+10644-13	senza	O
+10644-14	versare	O
+10644-15	nulla	O
+
+#Text=Immigrati, gli avvocati che annullano le espulsioni? Toh, che caso: maxi-scandalo, chi c'è dietro di loro
+10390-1	Immigrati	B-NU-CGA
+10390-2	,	I-NU-CGA
+10390-3	gli	I-NU-CGA
+10390-4	avvocati	I-NU-CGA
+10390-5	che	I-NU-CGA
+10390-6	annullano	I-NU-CGA
+10390-7	le	I-NU-CGA
+10390-8	espulsioni	I-NU-CGA
+10390-9	?	I-NU-CGA
+10390-10	Toh	I-NU-CGA
+10390-11	,	I-NU-CGA
+10390-12	che	I-NU-CGA
+10390-13	caso	I-NU-CGA
+10390-14	:	I-NU-CGA
+10390-15	maxi-scandalo	I-NU-CGA
+10390-16	,	I-NU-CGA
+10390-17	chi	O
+10390-18	c'è	O
+10390-19	dietro	O
+10390-20	di	O
+10390-21	loro	O
+
+#Text=Immigrati, la verità nascosta. "Sapete cosa stanno per fare all'Italia?", Meloni apocalittica
+10639-1	Immigrati	B-NU-CGA
+10639-2	,	I-NU-CGA
+10639-3	la	I-NU-CGA
+10639-4	verità	I-NU-CGA
+10639-5	nascosta	I-NU-CGA
+10639-6	.	I-NU-CGA
+10639-7	"	O
+10639-8	Sapete	O
+10639-9	cosa	O
+10639-10	stanno	O
+10639-11	per	O
+10639-12	fare	O
+10639-13	all'Italia	O
+10639-14	?	O
+10639-15	"	O
+10639-16	,	O
+10639-17	Meloni	B-NU-CGA
+10639-18	apocalittica	I-NU-CGA
+
+#Text=Immigrati, la verità nei numeri: "Crimini 6 volte più di italiani"
+10718-1	Immigrati	B-NU-CGA
+10718-2	,	I-NU-CGA
+10718-3	la	I-NU-CGA
+10718-4	verità	I-NU-CGA
+10718-5	nei	I-NU-CGA
+10718-6	numeri	I-NU-CGA
+10718-7	:	I-NU-CGA
+10718-8	"	I-NU-CGA
+10718-9	Crimini	I-NU-CGA
+10718-10	6	I-NU-CGA
+10718-11	volte	I-NU-CGA
+10718-12	più	I-NU-CGA
+10718-13	di	I-NU-CGA
+10718-14	italiani	I-NU-CGA
+10718-15	"	I-NU-CGA
+
+#Text=Immigrati, mentre gli italiani non arrivano a fine mese... Quanto paga lo Stato per mantenerli: le cifre-vergogna
+10799-1	Immigrati	B-NU-CGA
+10799-2	,	I-NU-CGA
+10799-3	mentre	O
+10799-4	gli	O
+10799-5	italiani	O
+10799-6	non	O
+10799-7	arrivano	O
+10799-8	a	O
+10799-9	fine	O
+10799-10	mese	O
+10799-11	.	O
+10799-12	.	O
+10799-13	.	O
+10799-14	Quanto	O
+10799-15	paga	O
+10799-16	lo	O
+10799-17	Stato	O
+10799-18	per	O
+10799-19	mantenerli	O
+10799-20	:	O
+10799-21	le	B-NU-CGA
+10799-22	cifre-vergogna	I-NU-CGA
+
+#Text=Immigrati, Salvini: "Blindare i confini e più espulsioni. Islam di oggi è un pericolo"
+10094-1	Immigrati	B-NU-CGA
+10094-2	,	I-NU-CGA
+10094-3	Salvini	I-NU-CGA
+10094-4	:	I-NU-CGA
+10094-5	"	I-NU-CGA
+10094-6	Blindare	I-NU-CGA
+10094-7	i	I-NU-CGA
+10094-8	confini	I-NU-CGA
+10094-9	e	I-NU-CGA
+10094-10	più	I-NU-CGA
+10094-11	espulsioni	I-NU-CGA
+10094-12	.	I-NU-CGA
+10094-13	Islam	O
+10094-14	di	O
+10094-15	oggi	O
+10094-16	è	O
+10094-17	un	O
+10094-18	pericolo	O
+10094-19	"	O
+
+#Text=Immigrati, vergogna italiana: quanti euro guadagnano con la carità (e come li spendono)
+10163-1	Immigrati	B-NU-CGA
+10163-2	,	I-NU-CGA
+10163-3	vergogna	I-NU-CGA
+10163-4	italiana	I-NU-CGA
+10163-5	:	I-NU-CGA
+10163-6	quanti	O
+10163-7	euro	O
+10163-8	guadagnano	O
+10163-9	con	O
+10163-10	la	O
+10163-11	carità	O
+10163-12	(	O
+10163-13	e	O
+10163-14	come	O
+10163-15	li	O
+10163-16	spendono	O
+10163-17	)	O
+
+#Text=Immigrati: Calderoli, un governo serio fermerebbe invasione clandestini
+10310-1	Immigrati	B-NU-CGA
+10310-2	:	I-NU-CGA
+10310-3	Calderoli	I-NU-CGA
+10310-4	,	I-NU-CGA
+10310-5	un	O
+10310-6	governo	O
+10310-7	serio	O
+10310-8	fermerebbe	O
+10310-9	invasione	O
+10310-10	clandestini	O
+
+#Text=Immigrati: Fugatti (Lega), indegno dare case popolari ai profughi
+10134-1	Immigrati	B-NU-CGA
+10134-2	:	I-NU-CGA
+10134-3	Fugatti	I-NU-CGA
+10134-4	(	I-NU-CGA
+10134-5	Lega	I-NU-CGA
+10134-6	)	I-NU-CGA
+10134-7	,	I-NU-CGA
+10134-8	indegno	I-NU-CGA
+10134-9	dare	I-NU-CGA
+10134-10	case	I-NU-CGA
+10134-11	popolari	I-NU-CGA
+10134-12	ai	I-NU-CGA
+10134-13	profughi	I-NU-CGA
+
+#Text=Immigrazione e stupri, ciò che non vogliono rivelare. Ecco le cifre-choc: perché l'invasione è un pericolo
+10716-1	Immigrazione	B-NU-CGA
+10716-2	e	I-NU-CGA
+10716-3	stupri	I-NU-CGA
+10716-4	,	I-NU-CGA
+10716-5	ciò	I-NU-CGA
+10716-6	che	I-NU-CGA
+10716-7	non	I-NU-CGA
+10716-8	vogliono	I-NU-CGA
+10716-9	rivelare	I-NU-CGA
+10716-10	.	I-NU-CGA
+10716-11	Ecco	B-NU-CGA
+10716-12	le	I-NU-CGA
+10716-13	cifre-choc	I-NU-CGA
+10716-14	:	I-NU-CGA
+10716-15	perché	O
+10716-16	l'invasione	O
+10716-17	è	O
+10716-18	un	O
+10716-19	pericolo	O
+
+#Text=Immigrazione in Italia, la verità del super-esperto. Scenario tragico: "Crisi epocale, perché ci rovinano"
+10431-1	Immigrazione	B-NU-CGA
+10431-2	in	I-NU-CGA
+10431-3	Italia	I-NU-CGA
+10431-4	,	I-NU-CGA
+10431-5	la	I-NU-CGA
+10431-6	verità	I-NU-CGA
+10431-7	del	I-NU-CGA
+10431-8	super-esperto	I-NU-CGA
+10431-9	.	I-NU-CGA
+10431-10	Scenario	B-NU-CGA
+10431-11	tragico	I-NU-CGA
+10431-12	:	I-NU-CGA
+10431-13	"	I-NU-CGA
+10431-14	Crisi	I-NU-CGA
+10431-15	epocale	I-NU-CGA
+10431-16	,	I-NU-CGA
+10431-17	perché	O
+10431-18	ci	O
+10431-19	rovinano	O
+10431-20	"	O
+
+#Text=Immigrazione nel caos Gli irregolari in libertà i centri rimpatrio vuoti
+10665-1	Immigrazione	B-NU-CGA
+10665-2	nel	I-NU-CGA
+10665-3	caos	I-NU-CGA
+10665-4	Gli	I-NU-CGA
+10665-5	irregolari	I-NU-CGA
+10665-6	in	I-NU-CGA
+10665-7	libertà	I-NU-CGA
+10665-8	i	I-NU-CGA
+10665-9	centri	I-NU-CGA
+10665-10	rimpatrio	I-NU-CGA
+10665-11	vuoti	I-NU-CGA
+
+#Text=Immigrazione, a cosa vogliono ridurre i nostri militari. Godono le Ong: la legge per farci invadere "meglio"
+10723-1	Immigrazione	B-NU-CGA
+10723-2	,	I-NU-CGA
+10723-3	a	O
+10723-4	cosa	O
+10723-5	vogliono	O
+10723-6	ridurre	O
+10723-7	i	O
+10723-8	nostri	O
+10723-9	militari	O
+10723-10	.	O
+10723-11	Godono	O
+10723-12	le	O
+10723-13	Ong	O
+10723-14	:	O
+10723-15	la	B-NU-CGA
+10723-16	legge	I-NU-CGA
+10723-17	per	I-NU-CGA
+10723-18	farci	I-NU-CGA
+10723-19	invadere	I-NU-CGA
+10723-20	"	I-NU-CGA
+10723-21	meglio	I-NU-CGA
+10723-22	"	I-NU-CGA
+
+#Text=Immigrazione, il vescovo Negri: "Rischio eliminazione della società"
+10178-1	Immigrazione	B-NU-CGA
+10178-2	,	I-NU-CGA
+10178-3	il	I-NU-CGA
+10178-4	vescovo	I-NU-CGA
+10178-5	Negri	I-NU-CGA
+10178-6	:	I-NU-CGA
+10178-7	"	I-NU-CGA
+10178-8	Rischio	I-NU-CGA
+10178-9	eliminazione	I-NU-CGA
+10178-10	della	I-NU-CGA
+10178-11	società	I-NU-CGA
+10178-12	"	I-NU-CGA
+
+#Text=Immigrazione, la lezione della principessa araba senza velo: ecco come ferma l'invasione
+10469-1	Immigrazione	B-NU-CGA
+10469-2	,	I-NU-CGA
+10469-3	la	I-NU-CGA
+10469-4	lezione	I-NU-CGA
+10469-5	della	I-NU-CGA
+10469-6	principessa	I-NU-CGA
+10469-7	araba	I-NU-CGA
+10469-8	senza	I-NU-CGA
+10469-9	velo	I-NU-CGA
+10469-10	:	I-NU-CGA
+10469-11	ecco	I-NU-CGA
+10469-12	come	I-NU-CGA
+10469-13	ferma	I-NU-CGA
+10469-14	l'invasione	I-NU-CGA
+
+#Text=Immigrazione, la profezia-terremoto sull'invasione: "Arriva una nuova ondata", la bomba del big europeo
+10036-1	Immigrazione	B-NU-CGA
+10036-2	,	I-NU-CGA
+10036-3	la	I-NU-CGA
+10036-4	profezia-terremoto	I-NU-CGA
+10036-5	sull'invasione	I-NU-CGA
+10036-6	:	I-NU-CGA
+10036-7	"	O
+10036-8	Arriva	O
+10036-9	una	O
+10036-10	nuova	O
+10036-11	ondata	O
+10036-12	"	O
+10036-13	,	O
+10036-14	la	B-NU-CGA
+10036-15	bomba	I-NU-CGA
+10036-16	del	I-NU-CGA
+10036-17	big	I-NU-CGA
+10036-18	europeo	I-NU-CGA
+
+#Text=Immigrazione, la ricetta di Frattini: "Chiudere i porti"
+10729-1	Immigrazione	B-NU-CGA
+10729-2	,	I-NU-CGA
+10729-3	la	I-NU-CGA
+10729-4	ricetta	I-NU-CGA
+10729-5	di	I-NU-CGA
+10729-6	Frattini	I-NU-CGA
+10729-7	:	I-NU-CGA
+10729-8	"	I-NU-CGA
+10729-9	Chiudere	I-NU-CGA
+10729-10	i	I-NU-CGA
+10729-11	porti	I-NU-CGA
+10729-12	"	I-NU-CGA
+
+#Text=Immigrazione, la rotta dei sospetti jihadisti: in Italia su moderni gommoni
+10247-1	Immigrazione	B-NU-CGA
+10247-2	,	I-NU-CGA
+10247-3	la	I-NU-CGA
+10247-4	rotta	I-NU-CGA
+10247-5	dei	I-NU-CGA
+10247-6	sospetti	I-NU-CGA
+10247-7	jihadisti	I-NU-CGA
+10247-8	:	I-NU-CGA
+10247-9	in	I-NU-CGA
+10247-10	Italia	I-NU-CGA
+10247-11	su	I-NU-CGA
+10247-12	moderni	I-NU-CGA
+10247-13	gommoni	I-NU-CGA
+
+#Text=Immigrazione, la vergogna Pd. Lo schifo del paesino invaso: ecco quanti sono i "profughi"
+10762-1	Immigrazione	B-NU-CGA
+10762-2	,	I-NU-CGA
+10762-3	la	I-NU-CGA
+10762-4	vergogna	I-NU-CGA
+10762-5	Pd	I-NU-CGA
+10762-6	.	I-NU-CGA
+10762-7	Lo	I-NU-CGA
+10762-8	schifo	I-NU-CGA
+10762-9	del	I-NU-CGA
+10762-10	paesino	I-NU-CGA
+10762-11	invaso	I-NU-CGA
+10762-12	:	I-NU-CGA
+10762-13	ecco	I-NU-CGA
+10762-14	quanti	I-NU-CGA
+10762-15	sono	I-NU-CGA
+10762-16	i	I-NU-CGA
+10762-17	"	I-NU-CGA
+10762-18	profughi	I-NU-CGA
+10762-19	"	I-NU-CGA
+
+#Text=In Porta Venezia i negozi chiudono per colpa dei profughi
+10259-1	In	O
+10259-2	Porta	O
+10259-3	Venezia	O
+10259-4	i	O
+10259-5	negozi	O
+10259-6	chiudono	O
+10259-7	per	O
+10259-8	colpa	O
+10259-9	dei	O
+10259-10	profughi	O
+
+#Text=Isis al centro d'accoglienza. "Tagliare la gola agli italiani": toh, ecco chi finisce in galera
+10550-1	Isis	B-NU-CGA
+10550-2	al	I-NU-CGA
+10550-3	centro	I-NU-CGA
+10550-4	d'accoglienza	I-NU-CGA
+10550-5	.	I-NU-CGA
+10550-6	"	B-NU-CGA
+10550-7	Tagliare	I-NU-CGA
+10550-8	la	I-NU-CGA
+10550-9	gola	I-NU-CGA
+10550-10	agli	I-NU-CGA
+10550-11	italiani	I-NU-CGA
+10550-12	"	I-NU-CGA
+10550-13	:	I-NU-CGA
+10550-14	toh	B-NU-CGA
+10550-15	,	I-NU-CGA
+10550-16	ecco	I-NU-CGA
+10550-17	chi	I-NU-CGA
+10550-18	finisce	I-NU-CGA
+10550-19	in	I-NU-CGA
+10550-20	galera	I-NU-CGA
+
+#Text=Italia invasa dai clandestini: ecco perché
+10148-1	Italia	B-NU-CGA
+10148-2	invasa	I-NU-CGA
+10148-3	dai	I-NU-CGA
+10148-4	clandestini	I-NU-CGA
+10148-5	:	I-NU-CGA
+10148-6	ecco	I-NU-CGA
+10148-7	perché	I-NU-CGA
+
+#Text=Italia, la terrificante verità sulla mafia nigeriana: la colpa del governo che non si può più tollerare
+10262-1	Italia	B-NU-CGA
+10262-2	,	I-NU-CGA
+10262-3	la	I-NU-CGA
+10262-4	terrificante	I-NU-CGA
+10262-5	verità	I-NU-CGA
+10262-6	sulla	I-NU-CGA
+10262-7	mafia	I-NU-CGA
+10262-8	nigeriana	I-NU-CGA
+10262-9	:	I-NU-CGA
+10262-10	la	I-NU-CGA
+10262-11	colpa	I-NU-CGA
+10262-12	del	I-NU-CGA
+10262-13	governo	I-NU-CGA
+10262-14	che	I-NU-CGA
+10262-15	non	I-NU-CGA
+10262-16	si	I-NU-CGA
+10262-17	può	I-NU-CGA
+10262-18	più	I-NU-CGA
+10262-19	tollerare	I-NU-CGA
+
+#Text=Italia, prima gli immigrati: ecco dove gli regaleranno un ristorante e un lavoro
+10683-1	Italia	B-NU-CGA
+10683-2	,	I-NU-CGA
+10683-3	prima	I-NU-CGA
+10683-4	gli	I-NU-CGA
+10683-5	immigrati	I-NU-CGA
+10683-6	:	I-NU-CGA
+10683-7	ecco	I-NU-CGA
+10683-8	dove	I-NU-CGA
+10683-9	gli	I-NU-CGA
+10683-10	regaleranno	I-NU-CGA
+10683-11	un	I-NU-CGA
+10683-12	ristorante	I-NU-CGA
+10683-13	e	I-NU-CGA
+10683-14	un	I-NU-CGA
+10683-15	lavoro	I-NU-CGA
+
+#Text=Italia, vergogna continua. Stop alla nave anti-scafisti, porte aperte ai clandestini: fanno arrivare solo chi ci vuole invadere
+10400-1	Italia	B-NU-CGA
+10400-2	,	I-NU-CGA
+10400-3	vergogna	I-NU-CGA
+10400-4	continua	I-NU-CGA
+10400-5	.	I-NU-CGA
+10400-6	Stop	B-NU-CGA
+10400-7	alla	I-NU-CGA
+10400-8	nave	I-NU-CGA
+10400-9	anti-scafisti	I-NU-CGA
+10400-10	,	I-NU-CGA
+10400-11	porte	I-NU-CGA
+10400-12	aperte	I-NU-CGA
+10400-13	ai	I-NU-CGA
+10400-14	clandestini	I-NU-CGA
+10400-15	:	I-NU-CGA
+10400-16	fanno	O
+10400-17	arrivare	O
+10400-18	solo	O
+10400-19	chi	O
+10400-20	ci	O
+10400-21	vuole	O
+10400-22	invadere	O
+
+#Text=Italia? Immigrati e sfottò: Mr Europa ci rende onore ma non fermerà l'invasione
+10130-1	Italia	B-NU-CGA
+10130-2	?	I-NU-CGA
+10130-3	Immigrati	I-NU-CGA
+10130-4	e	I-NU-CGA
+10130-5	sfottò	I-NU-CGA
+10130-6	:	I-NU-CGA
+10130-7	Mr	O
+10130-8	Europa	O
+10130-9	ci	O
+10130-10	rende	O
+10130-11	onore	O
+10130-12	ma	O
+10130-13	non	O
+10130-14	fermerà	O
+10130-15	l'invasione	O
+
+#Text=Italiani in strada a -20°, loro qui: la villa del Cinquento agli immigrati. Giardini, lusso e sfarzo: ecco le foto
+10760-1	Italiani	B-NU-CGA
+10760-2	in	I-NU-CGA
+10760-3	strada	I-NU-CGA
+10760-4	a	I-NU-CGA
+10760-5	-	I-NU-CGA
+10760-6	20	I-NU-CGA
+10760-7	°	I-NU-CGA
+10760-8	,	I-NU-CGA
+10760-9	loro	I-NU-CGA
+10760-10	qui	I-NU-CGA
+10760-11	:	I-NU-CGA
+10760-12	la	I-NU-CGA
+10760-13	villa	I-NU-CGA
+10760-14	del	I-NU-CGA
+10760-15	Cinquento	I-NU-CGA
+10760-16	agli	I-NU-CGA
+10760-17	immigrati	I-NU-CGA
+10760-18	.	I-NU-CGA
+10760-19	Giardini	B-NU-CGA
+10760-20	,	I-NU-CGA
+10760-21	lusso	I-NU-CGA
+10760-22	e	I-NU-CGA
+10760-23	sfarzo	I-NU-CGA
+10760-24	:	I-NU-CGA
+10760-25	ecco	I-NU-CGA
+10760-26	le	I-NU-CGA
+10760-27	foto	I-NU-CGA
+
+#Text=Iwobi, l'africano leghista che vuole cacciare gli immigrati: "Malaria, morti e... Ecco perché devono stare a casa loro"
+10078-1	Iwobi	B-NU-CGA
+10078-2	,	I-NU-CGA
+10078-3	l'africano	I-NU-CGA
+10078-4	leghista	I-NU-CGA
+10078-5	che	I-NU-CGA
+10078-6	vuole	I-NU-CGA
+10078-7	cacciare	I-NU-CGA
+10078-8	gli	I-NU-CGA
+10078-9	immigrati	I-NU-CGA
+10078-10	:	I-NU-CGA
+10078-11	"	I-NU-CGA
+10078-12	Malaria	I-NU-CGA
+10078-13	,	I-NU-CGA
+10078-14	morti	I-NU-CGA
+10078-15	e	I-NU-CGA
+10078-16	.	I-NU-CGA
+10078-17	.	I-NU-CGA
+10078-18	.	I-NU-CGA
+10078-19	Ecco	I-NU-CGA
+10078-20	perché	I-NU-CGA
+10078-21	devono	I-NU-CGA
+10078-22	stare	I-NU-CGA
+10078-23	a	I-NU-CGA
+10078-24	casa	I-NU-CGA
+10078-25	loro	I-NU-CGA
+10078-26	"	I-NU-CGA
+
+#Text=L'accoglienza della 'ndrangheta. "Ai profughi il cibo per i maiali"
+10688-1	L'accoglienza	B-NU-CGA
+10688-2	della	I-NU-CGA
+10688-3	'	I-NU-CGA
+10688-4	ndrangheta	I-NU-CGA
+10688-5	.	I-NU-CGA
+10688-6	"	I-NU-CGA
+10688-7	Ai	I-NU-CGA
+10688-8	profughi	I-NU-CGA
+10688-9	il	I-NU-CGA
+10688-10	cibo	I-NU-CGA
+10688-11	per	I-NU-CGA
+10688-12	i	I-NU-CGA
+10688-13	maiali	I-NU-CGA
+10688-14	"	I-NU-CGA
+
+#Text=L'Europa caccia i clandestini
+10547-1	L'Europa	O
+10547-2	caccia	O
+10547-3	i	O
+10547-4	clandestini	O
+
+#Text=L'Imam di Catania contro i clandestini: "Basta sbarchi, state a casa vostra!"
+10040-1	L'Imam	B-NU-CGA
+10040-2	di	I-NU-CGA
+10040-3	Catania	I-NU-CGA
+10040-4	contro	I-NU-CGA
+10040-5	i	I-NU-CGA
+10040-6	clandestini	I-NU-CGA
+10040-7	:	I-NU-CGA
+10040-8	"	I-NU-CGA
+10040-9	Basta	I-NU-CGA
+10040-10	sbarchi	I-NU-CGA
+10040-11	,	I-NU-CGA
+10040-12	state	O
+10040-13	a	O
+10040-14	casa	O
+10040-15	vostra	O
+10040-16	!	O
+10040-17	"	O
