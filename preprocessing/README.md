@@ -16,6 +16,7 @@ The purpose of these files is to provide the developer domain insights as to how
 | french_ousidhoum | 821 | 207 | 20% |
 | german_bertschneider | 5141 | 1331 | 21% |
 | german_ross | 364 | 105 | 22% |
+| hindi | 2813 | 12187 | 81% | 
 | indonesian_alfina | 453 | 260 | 36% |
 | indonesian_ibrohim | 7607 | 5561 | 42% |
 | italian_bosco | 4071 | 2766 | 40% |
@@ -408,24 +409,25 @@ Here we evaluate if there are any significant differences in sentiment between t
 
 Methodology: Concat entire dataset, take vader score.
 
-| Dataset |  Hate Speech Negative Sentiment  | Normal Speech Negative Sentiment |
-|:-----|:--------:|:------:|
-| arabic_mulki   | 0.067 | 0.06 |
-| danish | 0.193 | 00.1 |
-| english_basile | 0.361 | 0.222 |
-| english_davidson | 0.359 | 0.085 |
-| english_founta | 0.297 | 0.111 |
-| english_gilbert | 0.186 | 0.118 |
-| english_ousidhoum | 0.317 | 0.291 |
-| english_waseem | 0.131 | 0.101 |
-| french_ousidhoum | 0.156 | 0.143 |
-| german_bertschneider | 0.164 | 0.128 |
-| german_ross | 0.191 | 0.148 |
-| indonesian_alfina | 0.14 | 0.059 |
-| indonesian_ibrohim | 0 | 0 |
-| italian_bosco | 0 | 0 |
-| italian_manuel | 0.188 | 0.169 |
-| portuguese | 0 | 0 |
-| spanish_basile | 0 | 0 |
-| spanish_pereira | 0 | 0 |
-| turkish | 0 | 0 |
+| Dataset | NS Negative Sentiment | HS Negative Sentiment | Rise |
+|:-----|:--------:|:------:|:------:|
+| arabic_mulki   | 0.06 | 0.067 | 12% |
+| danish | 0.1 | 0.193 | 93% |
+| english_basile | 0.222 | 0.361 | 63% |
+| english_davidson | 0.085 | 0.359 | 322% |
+| english_founta | 0.111 | 0.297 | 167% |
+| english_gilbert | 0.118 | 0.186 | 57% |
+| english_ousidhoum | 0.291 | 0.317 | 9% |
+| english_waseem | 0.101 | 0.131 | 29% |
+| french_ousidhoum | 0.143 | 0.156 | 9% |
+| german_bertschneider | 0.128 | 0.164 | 28% |
+| german_ross | 0.148 | 0.191 | 29% |
+| hindi | 0.023 | 0.044 | 91% |
+| indonesian_alfina | 0.059 | 0.14 | 137% |
+| indonesian_ibrohim | 0.077 | 0.128 | 66% |
+| italian_bosco | 0.169 | 0.191 | 13% |
+| italian_manuel | 0.169 | 0.188 | 11% |
+| portuguese | 0.118 | 0.178 | 51% |
+| spanish_basile | 0.241 | 0.297 | 23% |
+| spanish_pereira | 0.192 | 0.235 | 22% |
+| turkish | 0.057 | 0.072 | 26% |
